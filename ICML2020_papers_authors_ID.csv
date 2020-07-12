@@ -1,0 +1,1087 @@
+Paper Title,Authors,ID
+Reverse-engineering deep ReLU networks,"David Rolnick, Konrad Kording",5765
+My Fair Bandit: Distributed Learning of Max-Min Fairness with Multi-player Bandits,"Ilai Bistritz, Tavor Z Baharav, Amir Leshem, Nicholas Bambos",5766
+Scalable Differentiable Physics for Learning and Control,"Yi-Ling Qiao, Junbang Liang, Vladlen Koltun, Ming Lin",5767
+Generalization to New Actions in Reinforcement Learning,"Ayush Jain, Andrew Szot, Joseph Lim",5768
+Randomized Block-Diagonal Preconditioning for Parallel Learning,"Celestine Mendler-Dünner, Aurelien Lucchi",5769
+Stochastic Flows and Geometric Optimization on the Orthogonal Group,"Krzysztof Choromanski, David Cheikhi, Jared Q Davis, Valerii Likhosherstov, Achille Nazaret, Achraf Bahamou, Xingyou Song, Mrugank Akarte, Jack Parker-Holder, Jacob Bergquist, YUAN GAO, Aldo Pacchiano, Tamas Sarlos, Adrian Weller, Vikas Sindhwani",5770
+PackIt: A Virtual Environment for Geometric Planning,"Ankit Goyal, Jia Deng",5771
+Soft Threshold Weight Reparameterization for Learnable Sparsity,"Aditya Kusupati, Vivek Ramanujan, Raghav Somani, Mitchell Wortsman, Prateek Jain, Sham Kakade, Ali Farhadi",5772
+Stochastic Latent Residual Video Prediction,"Jean-Yves Franceschi, Edouard Delasalles, Mickael Chen, Sylvain Lamprier, Patrick Gallinari",5773
+Fractional Underdamped Langevin Dynamics: Retargeting SGD with Momentum under Heavy-Tailed Gradient Noise,"Umut Simsekli, Lingjiong Zhu, Yee Whye Teh, Mert Gurbuzbalaban",5774
+Context Aware Local Differential Privacy,"Jayadev Acharya, Kallista Bonawitz, Peter Kairouz, Daniel  Ramage, Ziteng Sun",5775
+Privately Learning Markov Random Fields,"Gautam Kamath, Janardhan Kulkarni, Steven Wu, Huanyu Zhang",5776
+A Mean Field Analysis Of Deep ResNet And Beyond: Towards  Provably Optimization Via Overparameterization From Depth,"Yiping Lu, Chao Ma, Yulong Lu, Jianfeng Lu, Lexing Ying",5777
+Provable Smoothness Guarantees for Black-Box Variational Inference,Justin Domke,5778
+Enhancing Simple Models by Exploiting What They Already Know,"Amit Dhurandhar, Karthikeyan Shanmugam, Ronny Luss",5779
+Fiduciary Bandits,"Gal Bahar, Omer Ben-Porat, Kevin Leyton-Brown, Moshe Tennenholtz",5780
+Training Deep Energy-Based Models with f-Divergence Minimization,"Lantao Yu, Yang Song, Jiaming Song, Stefano Ermon",5781
+Progressive Graph Learning for Open-Set Domain Adaptation,"Yadan Luo, Zijian Wang, Zi Huang, Mahsa Baktashmotlagh",5782
+Learning De-biased Representations with Biased Representations,"Hyojin Bahng, SANGHYUK CHUN, Sangdoo Yun, Jaegul Choo, Seong Joon Oh",5783
+Generalized Neural Policies for Relational MDPs,"Sankalp Garg, Aniket Bajpai, Mausam ",5784
+Feature-map-level Online Adversarial Knowledge Distillation,"Inseop Chung, SeongUk Park, Kim Jangho, NOJUN KWAK",5785
+DRWR: A Differentiable Renderer without Rendering for Unsupervised 3D Structure Learning from Silhouette Images,"Zhizhong Han, Chao Chen, Yushen Liu, Matthias Zwicker",5786
+Towards Accurate Post-training Network Quantization via Bit-Split and Stitching,"Peisong Wang, Qiang Chen, Xiangyu He, Jian Cheng",5787
+Hybrid Stochastic-Deterministic Minibatch Proximal Gradient: Less-Than-Single-Pass Optimization with Nearly Optimal Generalization,"Pan Zhou, Xiao-Tong Yuan",5788
+Reserve Pricing in Repeated Second-Price Auctions with Strategic Bidders,Alexey Drutsa,5789
+On Gradient Descent Ascent for Nonconvex-Concave Minimax Problems,"Darren Lin, Chi Jin, Michael Jordan",5790
+Training Binary Neural Networks through Learning with Noisy Supervision,"Kai Han, Yunhe Wang, Yixing Xu, Chunjing Xu, Enhua Wu, Chang Xu",5791
+Stochastic Frank-Wolfe for Constrained Finite-Sum Minimization,"GEOFFREY Negiar, Gideon Dresdner, Alicia Yi-Ting Tsai, Laurent El Ghaoui, Francesco Locatello, Fabian Pedregosa",5792
+Do We Really Need to Access the Source Data? Source Hypothesis Transfer for Unsupervised Domain Adaptation,"Tim Liang, Dapeng Hu, Jiashi Feng",5793
+Acceleration through spectral density estimation,"Fabian Pedregosa, Damien Scieur",5794
+Graph Structure of Neural Networks,"Jiaxuan You, Kaiming He, Jure Leskovec, Saining Xie",5795
+Optimal Continual Learning has Perfect Memory and is NP-hard,"Jeremias Knoblauch, Hisham Husain, Tom Diethe",5796
+Clinician-in-the-Loop Decision Making: Reinforcement Learning with Near-Optimal Set-Valued Policies,"Shengpu Tang, Aditya Modi, Michael Sjoding, Jenna Wiens",5797
+Computational and Statistical Tradeoffs in Inferring Combinatorial Structures of Ising Model,"Ying Jin, Zhaoran Wang, Junwei Lu",5798
+On the Number of Linear Regions of Convolutional Neural Networks,"Huan Xiong, Lei Huang, Mengyang Yu, Li Liu, Fan Zhu, Ling Shao",5799
+Deep Streaming Label Learning,"Zhen Wang, Liu Liu, Dacheng Tao",5800
+From Importance Sampling to Doubly Robust Policy Gradient,"Jiawei Huang, Nan Jiang",5801
+Loss Function Search for Face Recognition,"Xiaobo Wang, Shuo Wang, Shifeng Zhang, Cheng Chi, Tao Mei",5802
+Breaking the Curse of Space Explosion: Towards Efficient NAS with Curriculum Search,"Yong Guo, Yaofo Chen, Yin Zheng, Peilin Zhao, Jian Chen, Junzhou Huang, Mingkui Tan",5803
+Automatic Reparameterisation of Probabilistic Programs,"Maria Gorinova, Dave Moore, Matt Hoffman",5804
+Kernel Methods for Cooperative Multi-Agent Learning with Delays,"Abhimanyu Dubey, Alex `Sandy' Pentland",5805
+Robust Multi-Agent Decision-Making with Heavy-Tailed Payoffs,"Abhimanyu Dubey, Alex `Sandy' Pentland",5806
+Learning the Valuations of a $k$-demand Agent,"Hanrui Zhang, Vincent Conitzer",5807
+Rigging the Lottery: Making All Tickets Winners,"Utku Evci, Trevor Gale, Jacob Menick, Pablo Samuel Castro, Erich Elsen",5808
+Active Learning on Attributed Graphs via Graph   Cognizant Logistic Regression and Preemptive Query Generation,"Florence Regol, Soumyasundar Pal, Yingxue Zhang, Mark Coates",5809
+Performative Prediction,"Juan Perdomo, Tijana Zrnic, Celestine Mendler-Dünner, University of California Moritz Hardt",5810
+On Layer Normalization in the Transformer Architecture,"Ruibin Xiong, Yunchang Yang, Di He, Kai Zheng, Shuxin Zheng, Chen Xing, Huishuai Zhang, Yanyan Lan, Liwei Wang, Tie-Yan Liu",5811
+The many Shapley values for model explanation,"Mukund Sundararajan, Amir Najmi",5812
+Linear Convergence of Randomized Primal-Dual Coordinate Method for Large-scale Linear Constrained Convex Programming,"Daoli Zhu, Lei Zhao",5813
+New Oracle-Efficient Algorithms for Private Synthetic Data Release,"Giuseppe Vietri, Steven Wu, Mark Bun, Thomas Steinke, Grace Tian",5814
+Oracle Efficient Private Non-Convex Optimization,"Seth Neel, Aaron Roth, Giuseppe Vietri, Steven Wu",5815
+Universal Asymptotic Optimality of Polyak Momentum,"Damien Scieur, Fabian Pedregosa",5816
+Adversarial Robustness via Runtime Masking and Cleansing,"Yi-Hsuan Wu, Chia-Hung Yuan, Shan-Hung (Brandon) Wu",5817
+Implicit Euler Skip Connections: Enhancing Adversarial Robustness via Numerical Stability,"Mingjie Li, Lingshen He, Zhouchen Lin",5818
+Best Arm Identification for Cascading Bandits in the Fixed Confidence Setting,"Zixin Zhong, Wang Chi Cheung, Vincent Tan",5819
+Robustness to Programmable String Transformations via Augmented Abstract Training,"Yuhao Zhang, Aws Albarghouthi, Loris D'Antoni",5820
+The Complexity of Finding Stationary Points with Stochastic Gradient Descent,"Yoel Drori, Ohad Shamir",5821
+Sample Complexity Bounds for 1-bit Compressive Sensing and Binary Stable Embeddings with Generative Priors,"Zhaoqiang Liu, Selwyn Gomes, Avtansh Tiwari, Jonathan Scarlett",5822
+Class-Weighted Classification: Trade-offs and Robust Approaches,"Neil Xu, Chen Dan, Justin Khim, Pradeep Ravikumar",5823
+Neural Architecture Search in a Proxy Validation Loss Landscape,"Yanxi Li, Minjing Dong, Yunhe Wang, Chang Xu",5824
+Almost Tune-Free Variance Reduction,"Bingcong Li, Lingda Wang, Georgios B. Giannakis",5825
+Uniform Convergence of Rank-weighted Learning ,"Liu Leqi, Justin Khim, Adarsh Prasad, Pradeep Ravikumar",5826
+Non-autoregressive Translation with Disentangled Context Transformer,"Jungo Kasai, James Cross, Marjan Ghazvininejad, Jiatao Gu",5827
+More Information Supervised Probabilistic Deep Face Embedding Learning,"Ying Huang, Shangfeng Qiu, Wenwei Zhang, Xianghui Luo, Jinzhuo Wang",5828
+Reinforcement Learning for Non-Stationary Markov Decision Processes: The Blessing of (More) Optimism,"Wang Chi Cheung, David Simchi-Levi, Ruihao Zhu",5829
+Improved Sleeping Bandits with Stochastic Action Sets and Adversarial Rewards,"Aadirupa Saha, Pierre Gaillard, Michal Valko",5830
+From PAC to Instance-Optimal Sample Complexity in the Plackett-Luce Model,"Aadirupa Saha, Aditya Gopalan",5831
+Reliable Fidelity and Diversity Metrics for Generative Models,"Ferjad Naeem, Seong Joon Oh, Yunjey Choi, Youngjung Uh, Jaejun Yoo",5832
+Learning Factorized Weight Matrix for Joint Image Filtering,"Xiangyu Xu, Yongrui Ma, Wenxiu Sun",5833
+Likelihood-free MCMC with Amortized Approximate Ratio Estimators,"Joeri Hermans, Volodimir Begy, Gilles Louppe",5834
+Attacks Which Do Not Kill Training Make Adversarial Learning Stronger,"Jingfeng Zhang, Xilie Xu, Bo Han, Gang Niu, Lizhen Cui, Masashi Sugiyama, Mohan Kankanhalli",5835
+GradientDICE: Rethinking Generalized Offline Estimation of Stationary Values,"Shangtong Zhang, Bo Liu, Shimon Whiteson",5836
+Provably Convergent Two-Timescale Off-Policy Actor-Critic with Function Approximation,"Shangtong Zhang, Bo Liu, Hengshuai Yao, Shimon Whiteson",5837
+Adversarial Attacks on Probabilistic Autoregressive Forecasting Models,"Raphaël Dang-Nhu, Gagandeep Singh, Pavol Bielik, Martin Vechev",5838
+Informative Dropout for Robust Representation Learning: A Shape-bias Perspective,"Baifeng Shi, Dinghuai Zhang, Qi Dai, Jingdong Wang, Zhanxing Zhu, Yadong Mu",5839
+Graph Convolutional Network for Recommendation with Low-pass Collaborative Filters,"Wenhui Yu, Zheng Qin",5840
+SoftSort: A Differantiable Continuous Relaxation of the argsort Operator,"Sebastian Prillo, Julian M Eisenschlos",5841
+Too Relaxed to Be Fair,"Michael Lohaus, Michaël Perrot, Ulrike von Luxburg",5842
+Lorentz Group Equivariant Neural Network for Particle Physics,"Alexander Bogatskiy, Brandon Anderson, Jan T Offermann, Marwah Roussi, David Miller, Risi Kondor",5843
+One-shot Distributed Ridge Regression in High Dimensions,"Yue Sheng, Edgar Dobriban",5844
+Streaming k-Submodular Maximization under Noise subject to Size Constraint,"Lan N. Nguyen, My T. Thai",5845
+Variational Imitation Learning with Diverse-quality Demonstrations,"Voot Tangkaratt, Bo Han, Emti Khan, Masashi Sugiyama",5846
+Task Understanding from Confusing Multi-task Data,"Xin Su, Yizhou Jiang, Shangqi Guo, Feng Chen",5847
+Cost-effective Interactive Attention Learning with Neural Attention Process,"Jay Heo, Junhyeon Park, Hyewon Jeong, Kwang Joon Kim, Juho Lee, Eunho Yang, Sung Ju Hwang",5848
+Channel Equilibrium Networks for Learning Deep Representation,"Wenqi Shao, Shitao Tang, Xingang Pan, Ping Tan, Xiaogang Wang, Ping Luo",5849
+Optimal Non-parametric Learning in Repeated Contextual Auctions with  Strategic Buyer,Alexey Drutsa,5850
+Topological Autoencoders,"Michael Moor, Max Horn, Bastian Rieck, Karsten Borgwardt",5851
+An Accelerated DFO Algorithm for Finite-sum Convex Functions,"Yuwen Chen, Antonio Orvieto, Aurelien Lucchi",5852
+The Shapley Taylor Interaction Index,"Mukund Sundararajan, Kedar Dhamdhere, Ashish Agarwal",5853
+Privately detecting changes in unknown distributions,"Rachel Cummings, Sara Krehbiel, Yuliia Lut, Wanrong Zhang",5854
+CAUSE: Learning Granger Causality from Event Sequences using Attribution Methods,"Wei Zhang, Thomas  Panum, Somesh Jha, PRASAD Chalasani, David Page",5855
+Efficient Continuous Pareto Exploration in Multi-Task Learning,"Pingchuan Ma, Tao Du, Wojciech Matusik",5856
+WaveFlow: A Compact Flow-based Model for Raw Audio,"Wei Ping, Kainan Peng, Kexin Zhao, Zhao Song",5857
+Multi-Agent Determinantal Q-Learning,"Yaodong Yang, Ying Wen, Jun Wang, Liheng Chen, Kun Shao, David Mguni, Weinan Zhang",5858
+Revisiting Spatial Invariance with Low-Rank Local Connectivity,"Gamaleldin Elsayed, Prajit Ramachandran, Jon Shlens, Simon Kornblith",5859
+Minimax Weight and Q-Function Learning for Off-Policy Evaluation,"Masatoshi Uehara, Jiawei Huang, Nan Jiang",5860
+Tensor denoising and completion based on ordinal observations,"Chanwoo Lee, Miaoyan Wang",5861
+Learning Human Objectives by Evaluating Hypothetical Behavior,"Siddharth Reddy, Anca Dragan, Sergey Levine, Shane Legg, Jan Leike",5862
+Counterfactual Cross-Validation: Stable Model Selection Procedure for Causal Inference Models,"Yuta Saito, Shota Yasui",5863
+Learning Efficient Multi-agent Communication: An Information Bottleneck Approach,"Rundong Wang, Xu He, Runsheng Yu, Wei Qiu, Bo An, Zinovi Rabinovich",5864
+MoNet3D: Towards Accurate Monocular 3D Object Localization in Real Time,"XICHUAN ZHOU, YiCong Peng, Chunqiao Long, Fengbo Ren, Cong Shi",5865
+SIGUA: Forgetting May Make Learning with Noisy Labels More Robust,"Bo Han, Gang Niu, Xingrui Yu, QUANMING YAO, Miao Xu, Ivor Tsang, Masashi Sugiyama",5866
+Multinomial Logit Bandit with Low Switching Cost,"Kefan Dong, Yingkai Li, Qin Zhang, Yuan Zhou",5867
+Deep Reasoning Networks for Unsupervised Pattern De-mixing with Constraint Reasoning,"Di Chen, Yiwei Bai, Wenting Zhao, Sebastian Ament, John Gregoire, Carla Gomes",5868
+Uncertainty-Aware Lookahead Factor Models for Improved Quantitative Investing,"Lakshay Chauhan, John Alberg, Zachary Lipton",5869
+On the Unreasonable Effectiveness of the Greedy Algorithm: Greedy Adapts to Sharpness,"Sebastian Pokutta, Mohit Singh, Alfredo Torrico",5870
+Stronger and Faster Wasserstein Adversarial Attacks,"Kaiwen Wu, Allen Wang, Yaoliang Yu",5871
+Optimizing Multiagent Cooperation via Policy Evolution and Shared Experiences,"Somdeb Majumdar, Shaw Khadka, Santiago Miret, Stephen Mcaleer, Kagan Tumer",5872
+Why Are Learned Indexes So Effective?,"Paolo Ferragina, Fabrizio Lillo, Giorgio Vinciguerra",5873
+Fast OSCAR and OWL with Safe Screening Rules,"Runxue Bao, Bin Gu, Heng Huang",5874
+Which Tasks Should Be Learned Together in Multi-task Learning?,"Trevor Standley, Amir Zamir, Dawn Chen, Leonidas Guibas, Jitendra Malik, Silvio Savarese",5875
+Inertial Block Proximal Methods for Non-Convex Non-Smooth Optimization,"Hien Le, Nicolas Gillis, Panagiotis Patrinos",5876
+Adversarial Neural Pruning with Latent Vulnerability Suppression,"Divyam Madaan, Jinwoo Shin, Sung Ju Hwang",5877
+Lifted Disjoint Paths with Application in Multiple Object Tracking,"Andrea Hornakova, Roberto Henschel, Bodo Rosenhahn, Paul Swoboda",5878
+"Being Bayesian, Even Just a Bit, Fixes Overconfidence in ReLU Networks","Agustinus Kristiadi, Matthias Hein, Philipp Hennig",5879
+SCAFFOLD: Stochastic Controlled Averaging for Federated Learning,"Praneeth Karimireddy, Satyen Kale, Mehryar Mohri, Sashank Jakkam Reddi, Sebastian Stich, Ananda Theertha Suresh",5880
+Statistically Preconditioned Accelerated Gradient Method for Distributed Optimization,"Hadrien Hendrikx, Lin Xiao, Sebastien Bubeck, Francis Bach, Laurent Massoulié",5881
+Pretrained Generalized Autoregressive Model with Adaptive Probabilistic Label Cluster for Extreme Multi-label Text Classification,"Hui Ye, Zhiyu Chen, Da-Han Wang, Brian D Davison",5882
+Frequentist Uncertainty in Recurrent Neural Networks via Blockwise Influence Functions,"Ahmed Alaa, Mihaela van der Schaar",5883
+Disentangling Trainability and Generalization in Deep Neural Networks,"Lechao Xiao, Jeffrey Pennington, Samuel Schoenholz",5884
+Moniqua: Modulo Quantized Communication in Decentralized SGD,"Yucheng Lu, Christopher De Sa",5885
+Expectation Maximization with Bias-Corrected Calibration is Hard-To-Beat at Label Shift Adaptation,"Amr Mohamed Alexandari, Anshul Kundaje, Avanti Shrikumar",5886
+"Expert Learning through Generalized Inverse Multiobjective Optimization: Models, Insights and Algorithms","Chaosheng Dong, Bo Zeng",5887
+Random Matrix Theory Proves that Deep Learning Representations of GAN-data Behave as Gaussian Mixtures,"Mohamed El Amine Seddik, Cosme Louart, Mohamed Tamaazousti, Romain  COUILLET",5888
+Optimizing Data Usage via Differentiable Rewards,"Xinyi Wang, Hieu Pham, Paul Michel, Antonios  Anastasopoulos, Jaime Carbonell, Graham Neubig",5889
+Optimistic Policy Optimization with Bandit Feedback,"Lior Shani, Yonathan Efroni, Aviv Rosenberg, Shie Mannor",5890
+Maximum-and-Concatenation Networks,"Xingyu Xie, Hao Kong, Jianlong Wu, Wayne Zhang, Guangcan Liu, Zhouchen Lin",5891
+Learning Adversarial Markov Decision Processes with Bandit Feedback and Unknown Transition,"Chi Jin, Tiancheng Jin, Haipeng Luo, Suvrit Sra, Tiancheng Yu",5892
+Kernelized Stein Discrepancy Tests of Goodness-of-fit  for Time-to-Event Data,"Wenkai Xu, Tamara Fernandez, Nicolas Rivera, Arthur Gretton",5893
+Efficient Intervention Design for Causal Discovery with Latents,"Raghavendra Addanki, Shiva Kasiviswanathan, Andrew McGregor, Cameron Musco",5894
+Certified Data Removal from Machine Learning Models,"Chuan Guo, Tom Goldstein, Awni Hannun, Laurens van der Maaten",5895
+One Size Fits All: Can We Train One Denoiser for All Noise Levels?,"Abhiram Gnanasambandam, Stanley Chan",5896
+GNN-FiLM: Graph Neural Networks with Feature-wise Linear Modulation,Marc Brockschmidt,5897
+Sparse Gaussian Processes with Spherical Harmonic Features,"Vincent Dutordoir, Nicolas Durrande, James Hensman",5898
+Asynchronous Coagent Networks,"James Kostas, Chris Nota, Philip Thomas",5899
+Adaptive Checkpoint Adjoint Method for Gradient Estimation in Neural ODE,"Juntang Zhuang, Nicha Dvornek, Xiaoxiao Li, Sekhar Tatikonda, Xenophon Papademetris, James Duncan",5900
+Understanding the Curse of Horizon in Off-Policy Evaluation via Conditional Importance Sampling,"Yao Liu, Pierre-Luc Bacon, Emma Brunskill",5901
+Taylor Expansion Policy Optimization,"Yunhao Tang, Michal Valko, Remi Munos",5902
+Reinforcement Learning for Integer Programming: Learning to Cut,"Yunhao Tang, Shipra Agrawal, Yuri Faenza",5903
+Safe Reinforcement Learning in Constrained Markov Decision Processes,"Akifumi Wachi, Yanan Sui",5904
+Layered Sampling for Robust Optimization Problems,"Hu Ding, Zixiu Wang",5905
+Learning to Encode Position for Transformer with Continuous Dynamical Model,"Xuanqing Liu, Hsiang-Fu Yu, Inderjit Dhillon, Cho-Jui Hsieh",5906
+Do RNN and LSTM have Long Memory?,"Jingyu Zhao, Feiqing Huang, Jia Lv, Yanjie Duan, Zhen Qin, Guodong Li, Guangjian Tian",5907
+Training Linear Neural Networks: Non-Local Convergence and Complexity Results,Armin Eftekhari,5908
+On Validation and Planning of An Optimal Decision Rule with Application in Healthcare Studies,"Hengrui Cai, Wenbin Lu, Rui Song",5909
+Graph Optimal Transport for Cross-Domain Alignment,"Liqun Chen, Zhe Gan, Yu Cheng, Linjie Li, Lawrence Carin, Jingjing Liu",5910
+Approximation Capabilities of Neural ODEs and Invertible Residual Networks,"Han Zhang, Xi Gao, Jacob Unterman, Tom Arodz",5911
+Refined bounds for algorithm configuration: The knife-edge of dual class approximability,"Nina Balcan, Tuomas Sandholm, Ellen Vitercik",5912
+Teaching with Limited Information on the Learner's Behaviour,"Ferdinando Cicalese, Francisco S de Freitas Filho, Eduardo Laber, Marco Molinaro",5913
+Interpretations are Useful: Penalizing Explanations to Align Neural Networks with Prior Knowledge,"Laura Rieger, Chandan Singh, William Murdoch, Bin Yu",5914
+DeltaGrad: Rapid retraining of machine learning models,"Yinjun Wu, Edgar Dobriban, Susan B Davidson",5915
+The Cost-free Nature of Optimally Tuning Tikhonov Regularizers and Other Ordered Smoothers,"Pierre C Bellec, Dana Yang",5916
+Approximation Guarantees of Local Search Algorithms via Localizability of Set Functions,Kaito Fujii,5917
+Fine-Grained Analysis of Stability and Generalization for Stochastic Gradient Descent,"Yunwen Lei, Yiming Ying",5918
+Online Dense Subgraph Discovery via Blurred-Graph Feedback,"Yuko Kuroki, Atsushi Miyauchi, Junya Honda, Masashi Sugiyama",5919
+LazyIter: A Fast Algorithm for Counting Markov Equivalent DAGs and Designing Experiments,"Ali AhmadiTeshnizi, Saber Salehkaleybar, Negar Kiyavash",5920
+Perceptual Generative Autoencoders,"Zijun Zhang, Ruixiang ZHANG, Zongpeng Li, Yoshua Bengio, Liam Paull",5921
+Towards Understanding the Regularization of Adversarial Robustness on Neural Networks,"Yuxin Wen, Shuai Li, Kui Jia",5922
+Stochastic Gradient and Langevin Processes,"Xiang Cheng, Dong Yin, Peter Bartlett, Michael Jordan",5923
+ROMA: Multi-Agent Reinforcement Learning with Emergent Roles,"Tonghan Wang, Heng Dong, Victor Lesser, Chongjie Zhang",5924
+Minimax Pareto Fairness: A Multi Objective Perspective,"Martin Bertran, Natalia Martinez, Guillermo Sapiro",5925
+Online Pricing with Offline Data: Phase Transition and Inverse Square Law,"Jinzhi Bu, David Simchi-Levi, Yunzong Xu",5926
+Explicit Gradient Learning for Black-Box Optimization,"Elad Sarafian, Mor Sinay, yoram louzoun, Noa Agmon, Sarit Kraus",5927
+Optimization and Analysis of the pAp@k Metric for Recommender Systems,"Gaurush Hiranandani, Warut Vijitbenjaronk, Sanmi Koyejo, Prateek Jain",5928
+When Explanations Lie: Why Many Modified BP Attributions Fail,"Leon Sixt, Maximilian Granz, Tim Landgraf",5929
+Naive Exploration is Optimal for Online LQR,"Max Simchowitz, Dylan Foster",5930
+Learning Structured Latent Factors from Dependent Data:A Generative Model Framework from Information-Theoretic Perspective,"Ruixiang ZHANG, Katsuhiko Ishiguro, Masanori Koyama",5931
+Implicit Generative Modeling for Efficient Exploration,"Neale Ratzlaff, Qinxun Bai, Fuxin Li, Wei Xu",5932
+Prediction-Guided Multi-Objective Reinforcement Learning for Continuous Robot Control,"Jie Xu, Yunsheng Tian, Pingchuan Ma, Daniela Rus, Shinjiro Sueda, Wojciech Matusik",5933
+Goodness-of-Fit Tests for Inhomogeneous Random Graphs,"Soham Dan, Bhaswar B. Bhattacharya",5934
+Few-shot Domain Adaptation by Causal Mechanism Transfer,"Takeshi Teshima, Issei Sato, Masashi Sugiyama",5935
+Adaptive Adversarial Multi-task Representation Learning,"YUREN MAO, Weiwei Liu, Xuemin Lin",5936
+Streaming Submodular Maximization under a k-Set System Constraint,"Ran Haba, Ehsan Kazemi, Moran Feldman, Amin Karbasi",5937
+A Generic First-Order Algorithmic Framework for Bi-Level Programming Beyond Lower-Level Singleton,"Risheng Liu, Pan Mu, Xiaoming Yuan, Shangzhi Zeng, Jin Zhang",5938
+Optimal approximation for unconstrained non-submodular minimization,"Marwa El Halabi, Stefanie Jegelka",5939
+Generating Programmatic Referring Expressions via Program Synthesis,"Jiani Huang, Calvin Smith, Osbert Bastani, Rishabh Singh, Aws Albarghouthi, Mayur Naik",5940
+Nearly Linear Row Sampling Algorithm for Quantile Regression,"Yi Li, Ruosong Wang, Lin Yang, Hanrui Zhang",5941
+On Leveraging Pretrained GANs for Generation with Limited Data,"Miaoyun Zhao, Yulai Cong, Lawrence Carin",5942
+More Data Can Expand The Generalization Gap Between Adversarially Robust and Standard Models,"Lin Chen, Yifei Min, Mingrui Zhang, Amin Karbasi",5943
+Double Reinforcement Learning for Efficient and Robust Off-Policy Evaluation,"Nathan Kallus, Masatoshi Uehara",5944
+Statistically Efficient Off-Policy Policy Gradients,"Nathan Kallus, Masatoshi Uehara",5945
+Self-PU: Self Boosted and Calibrated Positive-Unlabeled Training,"Xuxi Chen, Wuyang Chen, Tianlong Chen, Ye Yuan, Chen Gong, Kewei Chen, Zhangyang Wang",5946
+When Does Self-Supervision Help Graph Convolutional Networks?,"Yuning You, Tianlong Chen, Zhangyang Wang, Yang Shen",5947
+On Differentially Private Stochastic Convex Optimization  with Heavy-tailed Data,"Di Wang, Hanshen Xiao, Srinivas Devadas, Jinhui Xu",5948
+Variance Reduced Coordinate Descent with Acceleration: New Method With a Surprising Application to Finite-Sum Problems,"Filip Hanzely, Dmitry Kovalev, Peter Richtarik",5949
+Stochastic Subspace Cubic Newton Method,"Filip Hanzely, Nikita Doikov, Yurii Nesterov, Peter Richtarik",5950
+Ready Policy One: World Building Through Active Learning,"Philip Ball, Jack Parker-Holder, Aldo Pacchiano, Krzysztof Choromanski, Stephen Roberts",5951
+Structural Language Models of Code,"Uri Alon, Roy Sadaka, Omer Levy, Eran Yahav",5952
+PEGASUS: Pre-training with Extracted Gap-sentences for Abstractive Summarization,"Jingqing Zhang, Yao Zhao, Mohammad Saleh, Peter J. Liu",5953
+Aggregation of Multiple Knockoffs,"Tuan-Binh Nguyen, Jerome-Alexis Chevalier, Thirion Bertrand, Sylvain Arlot",5954
+Off-Policy Actor-Critic with Shared Experience Replay,"Simon Schmitt, Matteo Hessel, Karen Simonyan",5955
+Graph-based Nearest Neighbor Search: From Practice to Theory,"Liudmila Prokhorenkova, Aleksandr Shekhovtsov",5956
+Policy Teaching via Environment Poisoning: Training-time Adversarial Attacks against Reinforcement Learning,"Amin Rakhsha, Goran Radanovic, Rati Devidze, Jerry Zhu, Adish Singla",5957
+"Semismooth Newton Algorithm for Efficient Projections onto $\ell_{1, \infty}$-norm Ball","Dejun Chu, Changshui Zhang, Shiliang Sun, Qing Tao",5958
+Influenza Forecasting Framework based on Gaussian Processes,"Christoph Zimmer, Reza Yaesoubi",5959
+Unique Properties of Wide Minima in Deep Networks,"Rotem Mulayoff, Tomer Michaeli",5960
+Does the Markov Decision Process Fit the Data: Testing for the Markov Property in Sequential Decision Making,"Chengchun Shi, Runzhe Wan, Rui Song, Wenbin Lu, Ling Leng",5961
+LTF: A Label Transformation Framework for Correcting Label Shift,"Jiaxian Guo, Mingming Gong, Tongliang Liu, Kun Zhang, Dacheng Tao",5962
+"Divide, Conquer, and Combine: a New Inference Strategy for Probabilistic Programs with Stochastic Support","Yuan Zhou, Hongseok Yang, Yee Whye Teh, Tom Rainforth",5963
+Duality in RKHSs with Infinite Dimensional Outputs: Application to Robust Losses,"Pierre Laforgue, Alex Lambert, Luc Brogat-Motte, Florence d'Alche-Buc",5964
+Causal Effect Estimation and Optimal Dose Suggestions in Mobile Health,"Liangyu Zhu, Wenbin Lu, Rui Song",5965
+Towards Understanding the Dynamics of the First-Order Adversaries,"Zhun Deng, Hangfeng He, Jiaoyang Huang, Weijie Su",5966
+Interpreting Robust Optimization via Adversarial Influence Functions,"Zhun Deng, Cynthia Dwork, Jialiang Wang, Linjun Zhang",5967
+Multilinear Latent Conditioning for Generating Unseen Attribute Combinations,"Markos Georgopoulos, Grigorios Chrysos, Yannis Panagakis, Maja Pantic",5968
+No-Regret Exploration in Goal-Oriented Reinforcement Learning,"Jean Tarbouriech, Evrard Garcelon, Michal Valko, Matteo Pirotta, Alessandro Lazaric",5969
+OPtions as REsponses: Grounding behavioural hierarchies in multi-agent reinforcement learning,"Sasha Vezhnevets, Yuhuai Wu, Maria Eckstein, Rémi Leblond, Joel Z Leibo",5970
+Feature Noise Induces Loss Discrepancy Across Groups,"Fereshte Khani, Percy Liang",5971
+Reinforcement Learning for Molecular Design Guided by Quantum Mechanics,"Gregor Simm, Robert Pinsler, Jose Miguel Hernandez-Lobato",5972
+Small-GAN: Speeding up GAN Training using Core-Sets ,"Samrath Sinha, Han Zhang, Anirudh Goyal, Yoshua Bengio, Hugo Larochelle, Augustus Odena",5973
+Conditional gradient methods for stochastically constrained convex minimization,"Maria Vladarean, Ahmet Alacaoglu, Ya-Ping Hsieh, Volkan Cevher",5974
+Undirected Graphical Models as Approximate Posteriors,"Arash Vahdat, Evgeny Andriyash, William Macready",5975
+Dynamics of Deep Neural Networks and  Neural Tangent Hierarchy,"Jiaoyang Huang, Horng-Tzer Yau",5976
+Measuring Non-Expert Comprehension of Machine Learning Fairness Metrics,"Debjani Saha, Candice Schumann, Duncan McElfresh, John P Dickerson, Michelle Mazurek, Michael Tschantz",5977
+Encoding Musical Style with Transformer Autoencoders,"Kristy Choi, Curtis ""Fjord"" Hawthorne, Ian Simon, Monica  Dinculescu, JesseEngel Engel",5978
+Min-Max Optimization without Gradients: Convergence and Applications to Black-Box Evasion and Poisoning Attacks,"Sijia Liu, Songtao Lu, Xiangyi Chen, Yao Feng, Kaidi Xu, Abdullah Al-Dujaili, Mingyi Hong, Una-May O'Reilly",5979
+ConQUR: Mitigating Delusional Bias in Deep Q-Learning ,"DiJia Su, Jayden Ooi, Tyler Lu, Dale Schuurmans, Craig Boutilier",5980
+Self-Modulating Nonparametric Event-Tensor Factorization,"Zheng Wang, Xinqi Chu, Shandian Zhe",5981
+Extreme Multi-label Classification from Aggregated Labels,"Yanyao Shen, Hsiang-Fu Yu, Sujay Sanghavi, Inderjit Dhillon",5982
+Full Law Identification In Graphical Models Of Missing Data: Completeness Results,"Razieh Nabi, Rohit Bhattacharya, Ilya Shpitser",5983
+Self-Attentive Associative Memory,"Hung Le, Truyen Tran, Svetha Venkatesh",5984
+Imputer: Sequence Modelling via Imputation and Dynamic Programming,"William Chan, Chitwan Saharia, Geoffrey Hinton, Mohammad Norouzi, Navdeep Jaitly",5985
+Continuously Indexed Domain Adaptation,"Hao Wang, Hao He, Dina Katabi",5986
+Evolving Machine Learning Algorithms From Scratch,"Esteban Real, Chen Liang, David So, Quoc Le",5987
+Self-Attentive Hawkes Process,"Qiang Zhang, Aldo Lipani, Omer Kirnap, Emine Yilmaz",5988
+On hyperparameter tuning in general clustering problemsm,"Xinjie Fan, Yuguang Yue, Purnamrita Sarkar, Y. X. Rachel Wang",5989
+Communication-Efficient Distributed Stochastic AUC Maximization with Deep Neural Networks,"Zhishuai Guo, Mingrui Liu, Zhuoning Yuan, Li Shen, Wei Liu, Tianbao Yang",5990
+Adaptive Region-Based Active Learning,"Corinna Cortes, Giulia DeSalvo, Claudio Gentile, Mehryar Mohri, Ningshan Zhang",5991
+Robust Outlier Arm Identification,"Yinglun Zhu, Sumeet Katariya, Robert Nowak",5992
+Provably Efficient Exploration in Policy Optimization,"Qi Cai, Zhuoran Yang, Chi Jin, Zhaoran Wang",5993
+Striving for simplicity and performance in off-policy DRL: Output Normalization and Non-Uniform Sampling,"Che Wang, Yanqiu Wu, Quan Vuong, Keith Ross",5994
+Multidimensional Shape Constraints,"Maya Gupta, Erez Louidor, Oleksandr Mangylov, Nobu Morioka, Tamann Narayan, Sen Zhao",5995
+Fast Deterministic CUR Matrix Decomposition with Accuracy Assurance,"Yasutoshi Ida, Sekitoshi Kanai, Yasuhiro Fujiwara, Tomoharu Iwata, Koh Takeuchi, Hisashi Kashima",5996
+Operation-Aware Soft Channel Pruning using Differentiable Masks,"Minsoo Kang, Bohyung Han",5997
+Normalized Loss Functions for Deep Learning with Noisy Labels,"Xingjun Ma, Curtis Huang, Yisen Wang, Simone Romano, Sarah Erfani, James Bailey",5998
+Learning Deep Kernels for Non-Parametric Two-Sample Tests,"Feng Liu, Wenkai Xu, Jie Lu, Guangquan Zhang, Arthur Gretton, D.J. Sutherland",5999
+DeBayes: a Bayesian method for debiasing network embeddings,"Maarten Buyl, Tijl De Bie",6000
+Principled learning method for Wasserstein distributionally robust optimization with local perturbations,"Yongchan Kwon, Wonyoung Kim, Johann Won, Myunghee Cho Paik",6001
+Low-Variance and Zero-Variance Baselines for Extensive-Form Games,"Trevor Davis, Martin Schmid, Michael Bowling",6002
+Converging to Team-Maxmin Equilibria in Zero-Sum Multiplayer Games,"Youzhi Zhang, Bo An",6003
+Landscape Connectivity and Dropout Stability of SGD Solutions for Over-parameterized Neural Networks,"Alexander Shevchenko, Marco Mondelli",6004
+Leveraging Frequency Analysis for Deep Fake Image Recognition,"Joel Frank, Thorsten Eisenhofer, Lea Schönherr, Dorothea Kolossa, Thorsten Holz, Asja Fischer",6005
+Tails of Lipschitz Triangular Flows,"Priyank Jaini, Ivan Kobyzev, Yaoliang Yu, Marcus Brubaker",6006
+Deep Coordination Graphs,"Wendelin Boehmer, Vitaly Kurin, Shimon Whiteson",6007
+Voice Separation with an Unknown Number of Multiple Speakers,"Eliya Nachmani, Yossi Adi, Lior Wolf",6008
+Predicting Choice with Set-Dependent Aggregation,"Nir Rosenfeld, Kojin Oshiba, Yaron Singer",6009
+Thompson Sampling Algorithms for Mean-Variance Bandits,"Qiuyu Zhu, Vincent Tan",6010
+Differentiable Likelihoods for Fast Inversion of 'Likelihood-Free' Dynamical Systems,"Hans Kersting, Nicholas Krämer, Martin Schiegg, Christian Daniel, Michael Schober, Philipp Hennig",6011
+Debiased Sinkhorn barycenters,"Hicham Janati, Marco Cuturi, Alexandre Gramfort",6012
+Double Trouble in Double Descent:  Bias and Variance(s) in the Lazy Regime,"Stéphane d'Ascoli, Maria Refinetti, Giulio Biroli, Florent Krzakala",6013
+"Explore, Discover and Learn: Unsupervised Discovery of State-Covering Skills","Victor Campos, Alexander Trott, Caiming Xiong, Richard Socher, Xavier Giro-i-Nieto, Jordi  Torres",6014
+Sparsified Linear Programming for Zero-Sum Equilibrium Finding,"Brian Zhang, Tuomas Sandholm",6015
+Extra-gradient with player sampling for faster convergence in n-player games,"Samy Jelassi, Carles Domingo-Enrich, Damien Scieur, Arthur Mensch, Joan Bruna",6016
+Entropy Minimization In Emergent Languages,"Eugene Kharitonov, Rahma Chaabouni, Diane Bouchacourt, Marco Baroni",6017
+Spectral Clustering with Graph Neural Networks for Graph Pooling,"Filippo Maria Bianchi, Daniele Grattarola, Cesare Alippi",6018
+VFlow: More Expressive Generative Flows with Variational Data Augmentation,"Jianfei Chen, Cheng Lu, Biqi Chenli, Jun Zhu, Tian Tian",6019
+Fully Parallel Hyperparameter Search: Reshaped Space-Filling,"Marie-Liesse Cauwet, Camille Couprie, Julien Dehos, Pauline Luc, Jeremy Rapin, Morgane Riviere, Fabien Teytaud, Olivier Teytaud, Nicolas Usunier",6020
+Discount Factor as a Regularizer in Reinforcement Learning ,"Ron Amit, Kamil Ciosek, Ron Meir",6021
+On Learning Sets of Symmetric Elements,"Haggai Maron, Or Litany, Gal Chechik, Ethan Fetaya",6022
+Non-convex Learning via Replica Exchange Stochastic Gradient MCMC,"Wei Deng, Qi Feng, Liyao Gao, Faming Liang, Guang Lin",6023
+Learning Similarity Metrics for Numerical Simulations,"Georg Kohl, Kiwon Um, Nils Thuerey",6024
+FR-Train: A mutual information-based approach to fair and robust training,"Yuji Roh, Kangwook Lee, Steven Whang, Changho Suh",6025
+Real-Time Optimisation for Online Learning in Auctions,"Lorenzo Croissant, Marc Abeille, Clément Calauzènes",6026
+Graph Random Neural Features for Distance-Preserving Graph Representations,"Daniele Zambon, Cesare Alippi, Lorenzo Livi",6027
+Modulating Surrogates for Bayesian Optimization,"Erik Bodin, Markus Kaiser, Ieva Kazlauskaite, Zhenwen Dai, Neill Campbell, Carl Henrik Ek",6028
+Convolutional Kernel Networks for Graph-Structured Data,"Dexiong Chen, Laurent Jacob, Julien Mairal",6029
+Improving the Sample and Communication Complexity for Decentralized Non-Convex Optimization: Joint Gradient Estimation and Tracking,"Haoran Sun, Songtao Lu, Mingyi Hong",6030
+Proper Network Interpretability Helps Adversarial Robustness in Classification,"Akhilan Boopathy, Sijia Liu, Gaoyuan Zhang, Cynthia Liu, Pin-Yu Chen, Shiyu Chang, Luca Daniel",6031
+Generalization Guarantees for Sparse Kernel Approximation with Entropic Optimal Features,"Liang Ding, Rui Tuo, Shahin Shahrampour",6032
+Understanding the Impact of Model Incoherence on Convergence of Incremental SGD with Random Reshuffle,"Shaocong Ma, Yi Zhou",6033
+"Calibration, Entropy Rates, and Memory in Language Models","Mark Braverman, Xinyi Chen, Sham Kakade, Karthik Narasimhan, Cyril Zhang, Yi Zhang",6034
+Learning Opinions in Social Networks,"Vincent Conitzer, Debmalya Panigrahi, Hanrui Zhang",6035
+Latent Variable Modelling with Hyperbolic Normalizing Flows,"Joey Bose, Ariella Smofsky, Renjie Liao, Prakash Panangaden, Will Hamilton",6036
+StochasticRank: Global Optimization of Scale-Free Discrete Functions,"Aleksei Ustimenko, Liudmila Prokhorenkova",6037
+Working Memory Graphs,"Ricky Loynd, Roland Fernandez, Asli Celikyilmaz, Adith Swaminathan, Matthew Hausknecht",6038
+Learning to Combine Top-Down and Bottom-Up Signals in Recurrent Neural Networks with Attention over Modules,"Sarthak  Mittal, Alex Lamb, Anirudh Goyal, Vikram Voleti, Murray Shanahan, Guillaume Lajoie, Michael Mozer, Yoshua Bengio",6039
+Spread Divergence,"Mingtian Zhang, Peter Hayes, Thomas Bird, Raza Habib, David Barber",6040
+Optimizing Black-box Metrics with Adaptive Surrogates,"Qijia Jiang, Olaoluwa Adigun, Harikrishna Narasimhan, Mahdi Milani Fard, Maya Gupta",6041
+Domain Adaptive Imitation Learning,"Kuno Kim, Yihong Gu, Jiaming Song, Shengjia Zhao, Stefano Ermon",6042
+A general recurrent state space framework for modeling neural dynamics during decision-making,"David Zoltowski, Jonathan Pillow, Scott Linderman",6043
+An Imitation Learning Approach for Cache Replacement,"Evan Liu, Milad Hashemi, Kevin Swersky, Partha Ranganathan, Junwhan Ahn",6044
+Revisiting Training Strategies and Generalization Performance in Deep Metric Learning,"Karsten Roth, Timo Milbich, Samrath Sinha, Prateek Gupta, Bjorn Ommer, Joseph Paul Cohen",6045
+Temporal Phenotyping using Deep Predictive Clustering of Disease Progression,"Changhee Lee, Mihaela van der Schaar",6046
+Countering Language Drift with Seeded Iterated Learning,"Yuchen Lu, Soumye Singhal, Florian Strub, Aaron Courville, Olivier Pietquin",6047
+Stochastic Gauss-Newton Algorithms for Nonconvex Compositional Optimization,"Quoc Tran-Dinh, Nate H Pham, Lam Nguyen",6048
+Strategyproof Mean Estimation from Multiple-Choice Questions,"Anson Kahng, Gregory Kehne, Ariel Procaccia",6049
+Sequential Cooperative Bayesian Inference,"Junqi Wang, Pei Wang, Patrick Shafto",6050
+Spectral Graph Matching and Regularized Quadratic Relaxations: Algorithm and Theory,"Zhou Fan, Cheng Mao, Yihong Wu, Jiaming Xu",6051
+Zeno++: Robust Fully Asynchronous SGD,"Cong Xie, Sanmi Koyejo, Indranil Gupta",6052
+Network Pruning by Greedy Subnetwork Selection,"Mao Ye, Chengyue Gong, Lizhen Nie, Denny Zhou, Adam Klivans, Qiang Liu",6053
+Logarithmic Regret for Learning Linear Quadratic Regulators Efficiently,"Asaf Cassel, Alon Cohen, Tomer Koren",6054
+Hierarchical Verification for Adversarial Robustness,"Cong Han Lim, Raquel Urtasun, Ersin Yumer",6055
+"BINOCULARS for efficient, nonmyopic sequential experimental design","Shali Jiang, Henry Chai, Javier Gonzalez, Roman Garnett",6056
+On the Global Optimality of Model-Agnostic Meta-Learning,"Lingxiao Wang, Qi Cai, Zhuoran Yang, Zhaoran Wang",6057
+Breaking the Curse of Many Agents: Provable Mean Embedding $Q$-Iteration for Mean-Field Reinforcement Learning,"Lingxiao Wang, Zhuoran Yang, Zhaoran Wang",6058
+Learning with Bounded Instance- and Label-dependent Label Noise,"Jiacheng Cheng, Tongliang Liu, Kotagiri Ramamohanarao, Dacheng Tao",6059
+Transparency Promotion with Model-Agnostic Linear Competitors," Hassan Rafique, Tong Wang, Qihang Lin, Arshia Singhani",6060
+Learning Mixtures of Graphs from Epidemic Cascades ,"Jessica Hoffmann, Soumya Basu, Surbhi Goel, Constantine Caramanis",6061
+Implicit differentiation of Lasso-type models for hyperparameter optimization,"Quentin Bertrand, Quentin Klopfenstein, Mathieu Blondel, Samuel Vaiter, Alexandre Gramfort, Joseph Salmon",6062
+Latent Space Factorisation and Manipulation via Matrix Subspace Projection,"Xiao Li, Chenghua Lin, Ruizhe Li, Chaozheng Wang, Frank Guerin",6063
+Active World Model Learning in Agent-rich Environments with Progress Curiosity,"Kuno Kim, Megumi Sano, Julian De Freitas, Nick Haber, Daniel Yamins",6064
+SDE-Net: Equipping Deep Neural Networks with Uncertainty Estimates,"Lingkai Kong, Jimeng Sun, Chao Zhang",6065
+GANs May Have No Nash Equilibria,"Farzan Farnia, Asuman Ozdaglar",6066
+Gradient Temporal-Difference Learning with Regularized Corrections,"Sina Ghiassian, Andrew Patterson, Shivam Garg, Dhawal Gutpa, Adam White, Martha White",6067
+Online mirror descent and dual averaging: keeping pace in the dynamic case,"Huang Fang, Victor Sanches Portella, Nick Harvey, Michael Friedlander",6068
+Choice Set Optimization Under Discrete Choice Models of Group Decisions,"Kiran Tomlinson, Austin Benson",6069
+Complexity of Finding Stationary Points of Nonconvex Nonsmooth Functions,"Jingzhao Zhang, Hongzhou Lin, Stefanie Jegelka, Suvrit Sra, Ali Jadbabaie",6070
+Multi-Agent Routing Value Iteration Network,"Quinlan Sykora, Mengye Ren, Raquel Urtasun",6071
+Adversarial Attacks on Copyright Detection Systems,"Parsa Saadatpanah, Ali Shafahi, Tom Goldstein",6072
+Differentiating through the Fréchet Mean,"Aaron Lou, Isay Katsman, Qingxuan Jiang, Serge Belongie, Sernam Lim Lim, Christopher De Sa",6073
+Online Learning for Active Cache Synchronization,"Andrey Kolobov, Sebastien Bubeck, Julian Zimmert",6074
+PoKED: A Semi-Supervised System for Word Sense Disambiguation,Feng Wei,6075
+A Finite-Time Analysis of  Q-Learning with Neural Network Function Approximation,"Pan Xu, Quanquan Gu",6076
+Understanding and Stabilizing GANs' Training Dynamics Using Control Theory,"Taufik Xu, Chongxuan Li, Jun Zhu, Bo Zhang",6077
+Scalable Nearest Neighbor Search for Optimal Transport,"Arturs Backurs, Yihe Dong, Piotr Indyk, Ilya Razenshteyn, Tal Wagner",6078
+Supervised learning: no loss no cry,"Richard Nock, Aditya Menon",6079
+Label-Noise Robust Domain Adaptation,"Xiyu Yu, Tongliang Liu, Mingming Gong, Kun Zhang, Kayhan Batmanghelich, Dacheng Tao",6080
+Description Based Text Classification with Reinforcement Learning,"Wei Wu, Duo Chai, Qinghong Han, Fei Wu, Jiwei Li",6081
+Bandits for BMO Functions,"Tianyu Wang, Cynthia Rudin",6082
+Cost-effectively Identifying Causal Effect When Only Response Variable Observable,"Tian-Zuo Wang, Xi-Zhu Wu, Sheng-Jun Huang, Zhi-Hua Zhou",6083
+Learning with Multiple Complementary Labels,"LEI FENG, Takuo Kaneko, Bo Han, Gang Niu, Bo An, Masashi Sugiyama",6084
+Contrastive Multi-View Representation Learning on Graphs,"Kaveh Hassani, Amir Hosein Khasahmadi",6085
+A Chance-Constrained Generative Framework for Sequence Optimization,"Xianggen Liu, Jian Peng, Qiang Liu, Sen  Song ",6086
+dS^2LBI: Exploring Structural Sparsity on Deep Network via Differential Inclusion Paths,"Yanwei Fu, Chen Liu, Donghao Li, Xinwei Sun, Jinshan ZENG, Yuan Yao",6087
+Sparse Subspace Clustering with Entropy-Norm,"Liang Bai, Jiye Liang",6088
+On the Generalization Effects of Linear Transformations in Data Augmentation,"Sen Wu, Hongyang Zhang, Gregory Valiant, Christopher Re",6089
+Sparse Shrunk Additive Models,"Hong Chen, guodong liu, Heng Huang",6090
+Unsupervised Discovery of Interpretable Directions in the GAN Latent Space,"Andrey Voynov, Artem Babenko",6091
+DropNet: Reducing Neural Network Complexity via Iterative Pruning,"Chong Min John Tan, Mehul Motani",6092
+Self-supervised Label Augmentation via Input Transformations,"Hankook Lee, Sung Ju Hwang, Jinwoo Shin",6093
+Mapping natural-language problems to formal-language solutions using structured neural representations,"Kezhen Chen, Qiuyuan Huang, Hamid Palangi, Paul Smolensky, Ken Forbus, Jianfeng Gao",6094
+Transformation of ReLU-based recurrent neural networks from discrete-time to continuous-time,"Zahra Monfared, Daniel Durstewitz",6095
+Implicit Geometric Regularization for Learning Shapes,"Amos Gropp, Lior Yariv, Niv Haim, Matan Atzmon, Yaron Lipman",6096
+Influence Diagram Bandits,"Tong Yu, Branislav Kveton, Zheng Wen, Ruiyi Zhang, Ole J. Mengshoel",6097
+Information Particle Filter Tree: An Online Algorithm for POMDPs with Belief-Based Rewards on Continuous Domains,"Johannes Fischer, Sahin Tas",6098
+Convergence Rates of Variational Inference in Sparse Deep Learning,Badr-Eddine Chérief-Abdellatif,6099
+Unsupervised Transfer Learning for Spatiotemporal Predictive Networks,"Zhiyu Yao, Yunbo Wang, Mingsheng Long, Jianmin Wang",6100
+DINO: Distributed Newton-Type Optimization Method,"Rixon Crane, Fred Roosta",6101
+Quantum Expectation-Maximization for Gaussian Mixture Models,"Alessandro Luongo, Iordanis Kerenidis, Anupam Prakash",6102
+Consistent Structured Prediction with Max-Min Margin Markov Networks,"Alex Nowak, Francis Bach, Alessandro Rudi",6103
+Concentration bounds for CVaR estimation: The cases of light-tailed and heavy-tailed distributions,"Prashanth L.A., Krishna Jagannathan, Ravi Kolla",6104
+Robust Pricing in Dynamic Mechanism Design,"Yuan Deng, Sébastien Lahaie, Vahab Mirrokni",6105
+Nested Subspace Arrangement for Representation of Relational Data,"Nozomi Hata, Shizuo Kaji, Akihiro Yoshida, Katsuki Fujisawa",6106
+Equivariant Neural Rendering,"Emilien Dupont, Miguel Angel Bautista Martin, Alex Colburn, Aditya Sankar, Josh M Susskind, Qi Shan",6107
+Bounding the fairness and accuracy of classifiers from population statistics,"Sivan Sabato, Elad Yom-Tov",6108
+Healing Gaussian Process Experts,"samuel cohen, Rendani Mbuvha, Tshilidzi Marwala, Marc Deisenroth",6109
+Beyond UCB: Optimal and Efficient Contextual Bandits with Regression Oracles,"Dylan Foster, Alexander Rakhlin",6110
+Simple and Deep Graph Convolutional Networks,"Ming Chen, Zhewei Wei, Zengfeng Huang, Bolin Ding, Yaliang Li",6111
+Projection-free Distributed Online Convex Optimization with $O(\sqrt{T})$ Communication Complexity,"Yuanyu Wan, Wei-Wei Tu, Lijun Zhang",6112
+Meta Variance Transfer: Learning to Augment from the Others,"Seong-Jin Park, Seungju Han, Ji-won Baek, Insoo Kim, Juhwan Song, Hae Beom Lee, Jae-Joon Han, Sung Ju Hwang",6113
+Coresets for Clustering in Graphs of Bounded Treewidth,"Daniel Baker, Vladimir Braverman, Lingxiao Huang, Shaofeng H.-C. Jiang, Robert Krauthgamer, Xuan Wu",6114
+On Breaking Deep Generative Model-based Defenses and Beyond,"Yanzhi Chen, Renjie Xie, Zhanxing Zhu",6115
+Exploration Through Bias: Revisiting Biased Maximum Likelihood Estimation in Stochastic Multi-Armed Bandits,"Xi Liu, Ping-Chun Hsieh, Yu Heng Hung, Anirban  Bhattacharya, P. Kumar",6116
+Bisection-Based Pricing for Repeated Contextual Auctions against Strategic Buyer,"Anton Zhiyanov, Alexey Drutsa",6117
+Haar Graph Pooling,"Yu Guang Wang, Ming Li, Zheng Ma, Guido Montufar, Xiaosheng Zhuang, Yanan Fan",6118
+Explaining Groups of Points in Low-Dimensional Representations,"Gregory Plumb, Jonathan Terhorst, Sriram Sankararaman, Ameet Talwalkar",6119
+Learning Portable Representations for High-Level Planning,"Steve James, Benjamin Rosman, George Konidaris",6120
+Adaptive Estimator Selection for Off-Policy Evaluation,"Yi Su, Pavithra Srinath, Akshay Krishnamurthy",6121
+Doubly Stochastic Variational Inference for Neural Processes with Hierarchical Latent Variables,"Q. Wang, Herke van Hoof",6122
+Generative Flows with Matrix Exponential,"Changyi Xiao, Ligang Liu",6123
+Composable Sketches for  Functions of Frequencies: Beyond the Worst Case,"Edith Cohen, Ofir Geri, Rasmus Pagh",6124
+Self-concordant analysis of Frank-Wolfe algorithm,"Mathias Staudigl, Pavel Dvurechenskii, Shimrit Shtern, Kamil Safin, Petr Ostroukhov",6125
+Towards non-parametric drift detection via Dynamic Adapting Window Independence Drift Detection (DAWIDD),"Fabian Hinder, André Artelt, CITEC Barbara Hammer",6126
+Non-Stationary Bandits with Intermediate Observations,"Claire Vernade, András György, King Tim Mann",6127
+Does label smoothing mitigate label noise?,"Michal Lukasik, Srinadh Bhojanapalli, Aditya Menon, Sanjiv Kumar",6128
+Proving the Lottery Ticket Hypothesis: Pruning is All You Need,"Eran Malach, Gilad Yehudai, Shai Shalev-Schwartz, Ohad Shamir",6129
+Linear bandits with Stochastic Delayed Feedback,"Claire Vernade, Alexandra Carpentier, Tor Lattimore, Giovanni Zappella, Beyza Ermis, Michael Brueckner",6130
+Time Series Deconfounder: Estimating Treatment Effects over Time in the Presence of Hidden Confounders,"Ioana Bica, Ahmed Alaa, Mihaela van der Schaar",6131
+Negative Sampling in Semi-Supervised learning,"John Chen, Vatsal Shah, Tasos Kyrillidis",6132
+Adaptive Sketching for Fast and Convergent Canonical Polyadic Decomposition,"Kareem Aggour, Kareem Aggour, Bülent Yener",6133
+Private Counting from Anonymous Messages: Near-Optimal Accuracy with Vanishing Communication Overhead,"Badih Ghazi, Ravi Kumar, Pasin Manurangsi, Rasmus Pagh",6134
+On the Generalization Benefit of Noise in Stochastic Gradient Descent,"Samuel Smith, Erich Elsen, Soham De",6135
+Momentum-Based Policy Gradient Methods,"Feihu Huang, Shangqian Gao, Jian Pei, Heng Huang",6136
+Knowing The What But Not The Where in Bayesian Optimization,"Vu Nguyen, Michael A Osborne",6137
+Robust Bayesian Classification Using An Optimistic Score Ratio,"Viet Anh Nguyen, Nian Si, Jose Blanchet",6138
+Boosted Histogram Transform for Regression,"Yuchao Cai, Hanyuan Hang, Hanfang Yang, Zhouchen Lin",6139
+Stochastic bandits with arm-dependent delays,"Anne Gael Manegueu, Claire Vernade, Alexandra Carpentier, Michal Valko",6140
+Projective Preferential Bayesian Optimization,"Petrus Mikkola, Milica Todorović, Jari Järvi, Patrick Rinke, Samuel Kaski",6141
+On Relativistic f-Divergences,Alexia Jolicoeur-Martineau,6142
+A Flexible Framework for Nonparametric Graphical Modeling that Accommodates Machine Learning,"Yunhua Xiang, Noah Simon",6143
+The Natural Lottery Ticket Winner: Reinforcement Learning with Ordinary Neural Circuits,"Ramin Hasani, Mathias Lechner, Alexander Amini, Daniela Rus, Radu Grosu",6144
+"Schatten Norms in Matrix Streams: Hello Sparsity, Goodbye Dimension","Aditya Krishnan, Roi Sinoff, Robert Krauthgamer, Vladimir Braverman",6145
+Control Frequency Adaptation via Action Persistence in Batch Reinforcement Learning,"Alberto Maria Metelli, Flavio Mazzolini, Lorenzo Bisi, Luca Sabbioni, Marcello Restelli",6146
+Minimax Rate for Learning From Pairwise Comparisons in the BTL Model,"Julien Hendrickx, Alex Olshevsky, Venkatesh Saligrama",6147
+Interferometric Graph Transform: a Deep Unsupervised Graph Representation,Edouard Oyallon,6148
+Stochastic Differential Equations with Variational Wishart Diffusions,"Martin Jørgensen, Marc Deisenroth, Hugh Salimbeni",6149
+What Can Learned Intrinsic Rewards Capture?,"Zeyu Zheng, Junhyuk Oh, Matteo Hessel, Zhongwen Xu, Manuel Kroiss, Hado van Hasselt, David Silver, Satinder Singh",6150
+Random extrapolation for primal-dual coordinate descent,"Ahmet Alacaoglu, Olivier Fercoq, Volkan Cevher",6151
+Reinforcement Learning with Differential Privacy,"Giuseppe Vietri, Borja de Balle Pigem, Steven Wu, Akshay Krishnamurthy",6152
+Median Matrix Completion: from Embarrassment to Optimality,"Weidong Liu, Xiaojun Mao, Raymond K. W. Wong",6153
+Improved Optimistic Algorithms for Logistic Bandits,"Louis Faury, Marc Abeille, Clément Calauzènes, Olivier Fercoq",6154
+Learning to Rank Learning Curves,"Martin Wistuba, Tejaswini Pedapati",6155
+Model Fusion with Kullback--Leibler Divergence,"Sebastian Claici, Mikhail Yurochkin, Soumya Ghosh, Justin Solomon",6156
+Randomization matters How to defend against strong adversarial attacks,"Rafael Pinot, Raphael Ettedgui, Geovani Rizk, Yann Chevaleyre, Jamal Atif",6157
+Evolutionary Topology Search for Tensor Network Decomposition,"Chao Li, Zhun Sun",6158
+Quadratically Regularized Subgradient Methods for Weakly Convex Optimization with Weakly Convex Constraints,"Runchao Ma, Qihang Lin, Tianbao Yang",6159
+Scalable and Efficient Comparison-based Search without Features,"Daniyar Chumbalov, Lucas Maystre, Matt Grossglauser",6160
+Error-Bounded Correction of Noisy Labels,"Songzhu Zheng, Pengxiang Wu, Aman Goswami, Mayank Goswami, Dimitris Metaxas, Chao Chen",6161
+Learning with Feature and Distribution Evolvable Streams,"Zhen-Yu Zhang, Peng Zhao, Yuan Jiang, Zhi-Hua Zhou",6162
+On Unbalanced Optimal Transport: An Analysis of Sinkhorn Algorithm,"Khiem Pham, Khang Le, Nhat Ho, Tung Pham, Hung Bui",6163
+Learning Optimal Tree Models under Beam Search,"Jingwei Zhuo, Ziru Xu, Wei Dai, Han Zhu, HAN LI, Jian Xu, Kun Gai",6164
+Estimating the Number and Effect Sizes of Non-null Hypotheses,"Jennifer Brennan, Ramya Korlakai Vinayak, Kevin Jamieson",6165
+Estimating Model Uncertainty of Neural Network in Sparse Information Form,"Jongseok Lee, Matthias Humt, Jianxiang Feng, Rudolph Triebel",6166
+Double-Loop Unadjusted Langevin Algorithm,"Paul Rolland, Armin Eftekhari, Ali Kavis, Volkan Cevher",6167
+Growing Action Spaces,"Gregory Farquhar, Laura  Gustafson, Zeming Lin, Shimon Whiteson, Nicolas Usunier, Gabriel Synnaeve",6168
+Analytic Marching: An Analytic Meshing Solution from Deep Implicit Surface Networks,"Jiabao Lei, Kui Jia",6169
+Anderson Acceleration of Proximal Gradient Methods,"Vien Mai, Mikael Johansson",6170
+"Interpretable, Multidimensional, Multimodal Anomaly Detection with Negative Sampling for Detection of Device Failure",John Sipple,6171
+Certified Robustness to Label-Flipping Attacks via Randomized Smoothing,"Elan Rosenfeld, Ezra Winston, Pradeep Ravikumar, Zico Kolter",6172
+Responsive Safety in Reinforcement Learning,"Adam  Stooke, Joshua Achiam, Pieter Abbeel",6173
+Deep k-NN for Noisy Labels,"Dara Bahri, Heinrich Jiang, Maya Gupta",6174
+Learning the piece-wise constant graph structure of a varying Ising model,"Batiste Le Bars, Pierre Humbert, Argyris Kalogeratos, Nicolas Vayatis",6175
+Stabilizing Transformers for Reinforcement Learning,"Emilio Parisotto, Francis Song, Jack Rae, Razvan Pascanu, Caglar Gulcehre, Siddhant Jayakumar, Max Jaderberg, Raphael Lopez Kaufman, Aidan Clark, Seb Noury, Matthew Botvinick, Nicolas Heess, Raia Hadsell",6176
+An Explicitly Relational Neural Network Architecture,"Murray Shanahan, Kyriacos Nikiforou, Antonia Creswell, Christos Kaplanis, David GT Barrett, Marta Garnelo",6177
+Harmonic Decompositions of Convolutional Networks,"Meyer Scetbon, Zaid Harchaoui",6178
+Discriminative Jackknife: Quantifying Uncertainty in Deep Learning via Higher-Order Influence Functions,"Ahmed Alaa, Mihaela van der Schaar",6179
+Robust Graph Representation Learning via Neural Sparsification,"Cheng Zheng, Bo Zong, Wei Cheng, Dongjin Song, Jingchao Ni, Wenchao Yu, Haifeng Chen, Wei Wang",6180
+Semiparametric Nonlinear Bipartite Graph Representation Learning with Provable Guarantees,"Sen Na, Yuwei Luo, Zhuoran Yang, Zhaoran Wang, Mladen Kolar",6181
+Forecasting sequential data using Consistent Koopman Autoencoders,"Omri Azencot, N. Benjamin Erichson, Vanessa Lin, Michael Mahoney",6182
+Scalable Identification of Partially Observed Systems with Certainty-Equivalent EM,"Kunal Menda, Jean de Becdelievre, Jayesh Gupta, Ilan Kroo, Mykel Kochenderfer, Zachary Manchester",6183
+Learning to Score Behaviors for Guided Policy Optimization,"Aldo Pacchiano, Jack Parker-Holder, Yunhao Tang, Krzysztof Choromanski, Anna Choromanska, Michael Jordan",6184
+Improved Communication Cost in Distributed PageRank Computation – A Theoretical Study,Siqiang Luo,6185
+Learning Autoencoders with Relational Regularization,"Hongteng Xu, Dixin Luo, Ricardo Henao, Svati Shah, Lawrence Carin",6186
+Neural Contextual Bandits with UCB-based Exploration,"Dongruo Zhou, Lihong Li, Quanquan Gu",6187
+Super-efficiency of automatic differentiation for functions defined as a minimum,"Pierre Ablin, Gabriel Peyré, Thomas Moreau",6188
+PowerNorm: Rethinking Batch Normalization in Transformers,"Sheng Shen, Zhewei Yao, Amir Gholaminejad, Michael Mahoney, Kurt Keutzer",6189
+Invertible generative models for inverse problems: mitigating representation error and dataset bias,"Muhammad Asim, Max Daniels, Oscar Leong, Paul Hand, Ali Ahmed",6190
+Acceleration for Compressed Gradient Descent in Distributed Optimization,"Zhize Li, Dmitry Kovalev, Xun Qian, Peter Richtarik",6191
+Neural Networks are Convex Regularizers: Exact Polynomial-time Convex Optimization Formulations for Two-Layer Networks,"Mert Pilanci, Tolga Ergen",6192
+Learning Quadratic Games on Networks,"Yan Leng, Xiaowen Dong, Junfeng Wu, Alex `Sandy' Pentland",6193
+Margin-aware Adversarial Domain Adaptation with Optimal Transport,"Sofien Dhouib, Ievgen Redko, Carole Lartizien",6194
+The Sample Complexity of Best-$k$ Items Selection from Pairwise Comparisons,"Wenbo Ren, Jia Liu, Ness Shroff",6195
+GraphOpt: Learning Optimization Models of Graph Formation,"Rakshit Trivedi, Jiachen Yang, Hongyuan Zha",6196
+Distributionally Robust Policy Evaluation and Learning in Offline Contextual Bandits,"Nian Si, Fan Zhang, Zhengyuan Zhou, Jose Blanchet",6197
+Incremental Sampling Without Replacement for Sequence Models,"Kensen Shi, David Bieber, Charles Sutton",6198
+Variable Skipping for Autoregressive Range Density Estimation,"Eric Liang, Zongheng Yang, Ion Stoica, Pieter Abbeel, Yan Duan, Peter Chen",6199
+TaskNorm: Rethinking Batch Normalization for Meta-Learning,"John Bronskill, Jonathan Gordon, James Requeima, Sebastian Nowozin, Richard E Turner",6200
+Scalable Gaussian Process Regression for Kernels with a Non-Stationary Phase,"Jan Graßhoff, Alexandra Jankowski, Philipp Rostalski",6201
+Transformer Hawkes Process,"Simiao Zuo, Haoming Jiang, Zichong Li, Tuo Zhao, Hongyuan Zha",6202
+An EM Approach to Non-autoregressive Conditional Sequence Generation,"Zhiqing Sun, Yiming Yang",6203
+Variance Reduction in Stochastic Particle-Optimization Sampling,"Jianyi Zhang, Yang Zhao, Changyou Chen",6204
+CLUB: A Contrastive Log-ratio Upper Bound of Mutual Information,"Pengyu Cheng, Weituo Hao, Shuyang Dai, Jiachang Liu, Zhe Gan, Lawrence Carin",6205
+State Space Expectation Propagation: Efficient Inference Schemes for Temporal Gaussian Processes,"William Wilkinson, Paul Chang, Michael Andersen, Arno Solin",6206
+Training Neural Networks for and by Interpolation,"Leonard Berrada, M. Pawan Kumar, Andrew Zisserman",6207
+Learning Representations that Support Extrapolation,"Taylor Webb, Zachary Dulberg, Steven Frankland, Alexander Petrov, Randall O'Reilly, Jonathan Cohen",6208
+ Topic Modeling via Full Dependence Mixtures,"Dan  Fisher, Mark Kozdoba, Shie Mannor",6209
+Instance-hiding Schemes for Private Distributed Learning,"Yangsibo Huang, Zhao Song, Sanjeev Arora, Kai Li",6210
+The Implicit Regularization of Stochastic Gradient Flow for Least Squares,"Alnur Ali, Edgar Dobriban, Ryan Tibshirani",6211
+Decentralised Learning with Random Features and Distributed Gradient Descent,"Dominic Richards, Patrick Rebeschini, Lorenzo Rosasco",6212
+Hierarchical Generation of Molecular Graphs using Structural Motifs,"Wengong Jin, Regina Barzilay, Tommi Jaakkola",6213
+Composing Molecules with Multiple Property Constraints,"Wengong Jin, Regina Barzilay, Tommi Jaakkola",6214
+Data preprocessing to mitigate bias: A maximum entropy based approach,"Elisa Celis, Vijay Keswani, Nisheeth Vishnoi",6215
+On Efficient Low Distortion Ultrametric Embedding,"Vincent Cohen-Addad, Karthik C. S., Guillaume Lagarde",6216
+Global Concavity and Optimization in a Class of Dynamic Discrete Choice Models,"Yiding Feng, Ekaterina Khmelnitskaya, Denis Nekipelov",6217
+Efficient Policy Learning from Surrogate-Loss Classification Reductions,"Andrew Bennett, Nathan Kallus",6218
+On Contrastive Learning for Likelihood-free Inference ,"Conor Durkan, Iain Murray, George Papamakarios",6219
+Obtaining Adjustable Regularization for Free via Iterate Averaging,"Jingfeng Wu, Vladimir Braverman, Lin Yang",6220
+Invariant Risk Minimization Games,"Kartik Ahuja, Karthikeyan Shanmugam, Kush Varshney, Amit Dhurandhar",6221
+Video Prediction via Example Guidance,"Jingwei Xu, Harry (Huazhe) Xu, Bingbing Ni, Xiaokang Yang, Prof. Darrell",6222
+Learning Discrete Structured Representations by Adversarially Maximizing Mutual Information,"Karl Stratos, Sam Wiseman",6223
+"Reinforcement Learning in Feature Space: Matrix Bandit, Kernels, and Regret Bound","Lin Yang, Mengdi Wang",6224
+Frequency Bias in Neural Networks for Input of Non-Uniform Density,"Ronen Basri, Meirav Galun, Amnon Geifman, David Jacobs, Yoni Kasten, Shira Kritchman",6225
+Constrained Markov Decision Processes via Backward Value Functions,"Harsh Satija, Philip Amortila, Joelle Pineau",6226
+Adding seemingly uninformative labels helps in low data regimes,"Christos Matsoukas, Albert Bou Hernandez, Yue Liu, Karin Dembrower, Gisele Miranda, Emir Konuk, Johan Fredin Haslum, Athanasios Zouzos, Peter Lindholm, Fredrik Strand, Kevin Smith",6227
+When are Non-Parametric Methods Robust?,"Robi Bhattacharjee, Kamalika Chaudhuri",6228
+Learning Calibratable Policies using Programmatic Style-Consistency,"Eric Zhan, Albert Tseng, Yisong Yue, Adith Swaminathan, Matthew Hausknecht",6229
+Momentum Improves Normalized SGD,"Ashok Cutkosky, Harsh Mehta",6230
+"Parameter-free, Dynamic, and Strongly-Adaptive Online Learning",Ashok Cutkosky,6231
+PENNI: Pruned Kernel Sharing for Efficient CNN Inference,"Shiyu Li, Edward Hanson, Hai Li, Yiran Chen",6232
+Optimal transport mapping via input convex neural networks,"Ashok Makkuva, Amir Taghvaei, Sewoong Oh, Jason Lee",6233
+All in the (Exponential) Family: Information Geometry and Thermodynamic Variational Inference,"Rob Brekelmans, Vaden W Masrani, Frank Wood, Greg Ver Steeg, Aram Galstyan",6234
+SimGANs: Simulator-Based Generative Adversarial Networks for ECG Synthesis to Improve Deep ECG Classification,"Tomer Golany, Kira Radinsky, Daniel Freedman",6235
+Is There a Trade-Off Between Fairness and Accuracy? A Perspective Using Mismatched Hypothesis Testing,"Sanghamitra Dutta, Dennis Wei, Hazar Yueksel, Pin-Yu Chen, Sijia Liu, Kush Varshney",6236
+Convex Calibrated Surrogates for the Multi-Label F-Measure,"William Zhang, Harish Ramaswamy, Shivani Agarwal",6237
+Learning Robot Skills with Temporal Variational Inference,"Tanmay Shankar, Abhinav Gupta",6238
+Adaptive Gradient Descent without Descent,"Konstantin Mishchenko, Yura Malitsky",6239
+An end-to-end Differentially Private Latent Dirichlet Allocation Using a Spectral Algorithm,"Chris DeCarolis, Mukul A Ram, Seyed  Esmaeili, Yu-Xiang Wang, Furong Huang",6240
+Dual Mirror Descent for Online Allocation Problems,"Haihao Lu, Santiago Balseiro, Vahab Mirrokni",6241
+Optimal Robust Learning of Discrete Distributions from Batches,"Ayush Jain, Alon Orlitsky",6242
+BoXHED: Boosted eXact Hazard Estimator with Dynamic covariates,"Xiaochen Wang, Arash Pakbin, Bobak Mortazavi, Hongyu Zhao, Donald Lee",6243
+Unlabelled Data Improves Bayesian Uncertainty Calibration under Covariate Shift  ,"Alex Chan, Ahmed Alaa, Zhaozhi Qian, Mihaela van der Schaar",6244
+Universal Equivariant Multilayer Perceptrons,Siamak Ravanbakhsh,6245
+Improving generalization by controlling label-noise information in neural network weights,"Hrayr Harutyunyan, Kyle Reing, Greg Ver Steeg, Aram Galstyan",6246
+DeepMatch: Balancing Deep Covariate Representations for Causal Inference Using Adversarial Training,Nathan Kallus,6247
+Bayesian Optimisation over Multiple Continuous and Categorical Inputs,"Robin Ru, Ahsan Alvi, Vu Nguyen, Michael A Osborne, Stephen Roberts",6248
+Generalization and Representational Limits of Graph Neural Networks,"Vikas K Garg, Stefanie Jegelka, Tommi Jaakkola",6249
+Multi-Precision Policy Enforced Training (MuPPET) : A Precision-Switching Strategy for Quantised Fixed-Point Training of CNNs,"Aditya Rajagopal, Diederik Vink, Stylianos Venieris, Christos-Savvas Bouganis",6250
+LowFER: Low-rank Bilinear Pooling for Link Prediction,"Saadullah Amin, Stalin Varanasi, Katherine Ann Dunfield, Günter Neumann",6251
+Parameterized Rate-Distortion Stochastic Encoder,"Quan Hoang, Trung Le, Dinh Phung",6252
+Incidence Networks for Geometric Deep Learning,"Marjan Albooyeh, Daniele Bertolini, Siamak Ravanbakhsh",6253
+Energy-Based Processes for Exchangeable Data,"Mengjiao Yang, Bo Dai, Hanjun Dai, Dale Schuurmans",6254
+Deep Isometric Learning for Visual Recognition,"Haozhi Qi, Chong You, Xiaolong Wang, Yi Ma, Jitendra Malik",6255
+Second-Order Provable Defenses against Adversarial Attacks,"Sahil Singla, Soheil Feizi",6256
+Transformers are RNNs: Fast Autoregressive Transformers with Linear Attention,"Angelos Katharopoulos, Apoorv Vyas, Nikolaos Pappas, Francois Fleuret",6257
+Overfitting in adversarially robust deep learning,"Eric Wong, Leslie Rice, Zico Kolter",6258
+Rethinking Bias-Variance Trade-off for Generalization of Neural Networks,"Zitong Yang, Yaodong Yu, Chong You, Jacob Steinhardt, Yi Ma",6259
+Boosting for Control of Dynamical Systems,"Naman Agarwal, Nataly Brukhim, Elad Hazan, Zhou Lu",6260
+Frustratingly Simple Few-Shot Object Detection,"Xin Wang, Thomas Huang, Joseph Gonzalez, Prof. Darrell, Fisher Yu",6261
+Data-Dependent Differentially Private Parameter Learning for Directed Graphical Models,"Amrita Roy Chowdhury, Theodoros Rekatsinas, Somesh Jha",6262
+Adversarial Risk via Optimal Transport and Optimal Couplings,"Muni Sreenivas Pydi, Varun Jog",6263
+Decoupled Greedy Learning of CNNs,"Eugene Belilovsky, Michael Eickenberg, Edouard Oyallon",6264
+ACFlow: Flow Models for Arbitrary Conditional Likelihoods,"Yang Li, Shoaib Akbar, Junier Oliva",6265
+"Can autonomous vehicles identify, recover from, and adapt to distribution shifts?","Angelos Filos, Panagiotis Tigas, Rowan McAllister, Nicholas Rhinehart, Sergey Levine, Yarin Gal",6266
+Leveraging Procedural Generation to Benchmark Reinforcement Learning,"Karl Cobbe, Chris Hesse, Jacob Hilton, John Schulman",6267
+The Tree Ensemble Layer: Differentiability meets Conditional Computation,"Hussein Hazimeh, Natalia Ponomareva, Rahul Mazumder, Zhenyu Tan, Petros Mol",6268
+Near-Tight Margin-Based Generalization Bounds for Support Vector Machines,"Allan Grønlund, Lior Kamma, Kasper Green Larsen",6269
+Error Estimation for Sketched SVD,"Miles Lopes, N. Benjamin Erichson, Michael Mahoney",6270
+Goal-Aware Prediction: Learning to Model What Matters,"Suraj Nair, Silvio Savarese, Chelsea Finn",6271
+Combinatorial Pure Exploration for Dueling Bandit,"Wei Chen, Yihan Du, Longbo Huang, Haoyu Zhao",6272
+Optimal Sequential Maximization: One Interview is Enough!,"Moein Falahatgar, Alon Orlitsky, Venkatadheeraj Pichapati",6273
+What can I do here? A Theory of Affordances in Reinforcement Learning,"Khimya Khetarpal, Zafarali Ahmed, Gheorghe Comanici, David Abel, Doina Precup",6274
+An end-to-end approach for the verification problem: learning the right distance,"Joao Monteiro, Isabela Albuquerque, Jahangir Alam, R Devon Hjelm, Tiago Falk",6275
+Data Valuation using Reinforcement Learning,"Jinsung Yoon, Sercan Arik, Tomas Pfister",6276
+FormulaZero: Distributionally Robust Online Adaptation via Offline Population Synthesis,"Aman Sinha, Matthew O'Kelly, Hongrui Zheng, Rahul Mangharam, John Duchi, Russ Tedrake",6277
+Latent Bernoulli Autoencoder,"Jiri Fajtl, Vasileios Argyriou, Dorothy Monekosso, Paolo Remagnino",6278
+Learning To Stop While Learning To Predict,"Xinshi Chen, Hanjun Dai, Yu Li, Xin Gao, Le Song",6279
+Accelerating the diffusion-based ensemble sampling by non-reversible dynamics,"Futoshi Futami, Issei Sato, Masashi Sugiyama",6280
+Efficient nonparametric statistical inference on population feature importance using Shapley values,"Brian Williamson, Jean Feng",6281
+Curse of Dimensionality on Randomized Smoothing for Certifiable Robustness,"Aounon Kumar, Alexander Levine, Tom Goldstein, Soheil Feizi",6282
+Upper bounds for Model-Free Row-Sparse Principal Component Analysis,"Guanyi Wang, Santanu  Dey",6283
+Explainable k-Means and k-Medians Clustering,"Michal Moshkovitz, Sanjoy Dasgupta, Cyrus Rashtchian, Nave Frost",6284
+Reward-Free Exploration for Reinforcement Learning,"Chi Jin, Akshay Krishnamurthy, Max Simchowitz, Tiancheng Yu",6285
+Parametric Gaussian Process Regressors,"Martin Jankowiak, Geoff Pleiss, Jacob Gardner",6286
+p-Norm Flow Diffusion for Local Graph Clustering,"Kimon Fountoulakis, Di Wang, Shenghao Yang",6287
+Low-Rank Bottleneck in Multi-head Attention Models,"Srinadh Bhojanapalli, Chulhee (Charlie) Yun, Ankit Singh Rawat, Sashank Jakkam Reddi, Sanjiv Kumar",6288
+LEEP: A New Measure to Evaluate Transferability of Learned Representations,"Cuong Nguyen, Tal Hassner, Cedric Archambeau, Matthias W Seeger",6289
+The FAST Algorithm for Submodular Maximization,"Adam Breuer, Eric Balkanski, Yaron Singer",6290
+On the Relation between Quality-Diversity Evaluation and Distribution-Fitting Goal in Text Generation,"Jianing Li, Yanyan Lan, Jiafeng Guo, Xueqi Cheng",6291
+Designing Optimal Dynamic Treatment Regimes: A Causal Reinforcement Learning Approach,Junzhe Zhang,6292
+Global Decision-Making via Local Economic Transactions,"Michael Chang, Sid Kaushik, S. Matthew Weinberg, Sergey Levine, Thomas Griffiths",6293
+Retrieval Augmented Language Model Pre-Training,"Kelvin Guu, Kenton Lee, Zora Tung, Panupong Pasupat, Mingwei Chang",6294
+Variational Label Enhancement,"Ning Xu, Yun-Peng Liu, Jun Shu, Xin Geng",6295
+Bandits with Adversarial Scaling,"Thodoris Lykouris, Vahab Mirrokni, Renato Leme",6296
+Eliminating the Invariance on the Loss Landscape of Linear Autoencoders,"Reza Oftadeh, Jiayi Shen, Zhangyang Wang, Dylan Shell",6297
+What is Local Optimality in Nonconvex-Nonconcave Minimax Optimization?,"Chi Jin, Praneeth Netrapalli, Michael Jordan",6298
+Lookahead-Bounded Q-learning,"Ibrahim El Shar, Daniel Jiang",6299
+Learning From Irregularly-Sampled Time Series: A Missing Data Perspective,"Steve Li, Benjamin M Marlin",6300
+Evaluating the Performance of Reinforcement Learning Algorithms,"Scott M Jordan, Yash Chandak, Daniel Cohen, Mengxue Zhang, Philip Thomas",6301
+Unbiased Risk Estimators Can Mislead: A Case Study of Learning with Complementary Labels,"Yu-Ting Chou, Gang Niu, Hsuan-Tien Lin, Masashi Sugiyama",6302
+Provable Self-Play Algorithms for Competitive Reinforcement Learning,"Yu Bai, Chi Jin",6303
+Optimizing Long-term Social Welfare in Recommender Systems: A Constrained Matching Approach,"Martin Mladenov, Elliot Creager, Omer Ben-Porat, Kevin Swersky, Richard Zemel, Craig Boutilier",6304
+Semi-Supervised StyleGAN for Disentanglement Learning,"Weili Nie, Tero Karras, Animesh Garg, Shoubhik Debnath, Anjul Patney, Ankit Patel, Anima Anandkumar",6305
+The Non-IID Data Quagmire of Decentralized Machine Learning,"Kevin Hsieh, Amar Phanishayee, Onur Mutlu, Phil Gibbons",6306
+On the Noisy Gradient Descent that Generalizes as SGD,"Jingfeng Wu, Wenqing Hu, Haoyi Xiong, Jun Huan, Vladimir Braverman, Zhanxing Zhu",6307
+Safe screening rules for L0-regression,"Alper Atamturk, Andres Gomez",6308
+Single Point Transductive Prediction,"Nilesh Tripuraneni, Lester Mackey",6309
+History-Gradient Aided Batch Size Adaptation for Variance Reduced Algorithms,"Kaiyi Ji, Zhe Wang, Bowen Weng, Yi Zhou, Wei  Zhang, Yingbin LIANG",6310
+Batch Stationary Distribution Estimation,"Junfeng Wen, Bo Dai, Lihong Li, Dale Schuurmans",6311
+Optimal Statistical Guaratees for Adversarially Robust Gaussian Classification,"Chen Dan, Yuting Wei, Pradeep Ravikumar",6312
+Generative Adversarial Imitation Learning with Neural Network Parameterization: Global Optimality and Convergence Rate,"Yufeng Zhang, Qi Cai, Zhuoran Yang, Zhaoran Wang",6313
+A Game Theoretic Perspective on Model-Based Reinforcement Learning,"Aravind Rajeswaran, Igor Mordatch, Vikash Kumar",6314
+(Locally) Differentially Private Combinatorial Semi-Bandits,"Xiaoyu Chen, Kai Zheng, Zixin(Jack) Zhou, Yunchang Yang, Wei Chen, Liwei Wang",6315
+Optimizing for the Future in Non-Stationary MDPs,"Yash Chandak, Georgios Theocharous, Shiv Shankar, Martha White, Sridhar Mahadevan, Philip Thomas",6316
+Learning Task-Agnostic Embedding of Multiple Black-Box Experts for Multi-Task Model Fusion,"Nghia Hoang, Thanh Lam, Bryan Kian Hsiang Low, Patrick Jaillet ",6317
+Dual-Path Distillation: A Unified Framework to Improve Black-Box Attacks,"Yonggang Zhang, Ya Li, Tongliang Liu, Xinmei Tian",6318
+Safe Deep Semi-Supervised Learning for Unseen-Class Unlabeled Data,"Lan-Zhe Guo, Zhen-Yu Zhang, Yuan Jiang, Yufeng Li, Zhi-Hua Zhou",6319
+Generalizing Convolutional Neural Networks for Equivariance to Lie Groups on Arbitrary Continuous Data,"Marc Finzi, Samuel Stanton, Pavel Izmailov, Andrew Wilson",6320
+Dispersed EM-VAEs for Interpretable Text Generation,"Wenxian Shi, Hao Zhou, Ning Miao, Lei Li",6321
+Deep Graph Random Process for Relational-Thinking-Based  Speech Recognition,"Huang Hengguan, Fuzhao Xue, Hao Wang, Ye Wang",6322
+Hypernetwork approach to generating point clouds,"Przemysław Spurek, Sebastian Winczowski, Jacek Tabor, Maciej Zamorski, Maciej Zieba, Tomasz Trzcinski",6323
+On a projective ensemble approach to two sample test for equality of distributions,"Zhimei Li, Yaowu Zhang",6324
+Coresets for Data-efficient Training of Machine Learning Models,"Baharan Mirzasoleiman, Jeff Bilmes, Jure Leskovec",6325
+Searching to Exploit Memorization Effect in Learning with Noisy Labels,"QUANMING YAO, Hansi Yang, Bo Han, Gang Niu, James Kwok",6326
+Randomized Smoothing of All Shapes and Sizes,"Greg Yang, Tony Duan, J. Edward Hu, Hadi Salman, Ilya Razenshteyn, Jerry Li",6327
+DeepCoDA: personalized interpretability for compositional health,"Thomas Quinn, Dang Nguyen, Santu Rana, Sunil Gupta, Svetha Venkatesh",6328
+Private Query Release Assisted by Public Data,"Raef Bassily, Albert Cheu, Shay Moran, Sasho Nikolov, Jonathan Ullman, Steven Wu",6329
+Adaptive Droplet Routing in Digital Microfluidic Biochips Using Deep Reinforcement Learning,"Tung-Che Liang, Zhanwei Zhong, Yaas Bigdeli, Tsung-Yi Ho, Richard Fair, Krishnendu Chakrabarty",6330
+Continuous-time Lower Bounds for Gradient-based Algorithms,"Michael Muehlebach, Michael Jordan",6331
+A Tree-Structured Decoder for Image-to-Markup Generation,"Jianshu Zhang, Jun Du, Yongxin Yang, Yi-Zhe Song, Si Wei, Lirong Dai",6332
+Sample Factory: Egocentric 3D Control from Pixels at 100000 FPS with Asynchronous Reinforcement Learning,"Aleksei Petrenko, Zhehui Huang, Tushar Kumar, Gaurav Sukhatme, Vladlen Koltun",6333
+Scalable Deep Generative Modeling for Sparse Graphs,"Hanjun Dai, Azade Nazi, Yujia Li, Bo Dai, Dale Schuurmans",6334
+"Closed Loop Neural-Symbolic Learning via Integrating Neural Perception, Grammar Parsing, and Symbolic Reasoning","Qing Li, Siyuan Huang, Yining Hong, Yixin Chen, Ying Nian Wu, Song-Chun Zhu",6335
+NGBoost: Natural Gradient Boosting for Probabilistic Prediction,"Tony Duan, Anand Avati, Daisy Ding, Khanh K. Thai, Sanjay Basu, Andrew Ng, Alejandro Schuler",6336
+Q-value Path Decomposition for Deep Multiagent Reinforcement Learning,"Yaodong Yang, Jianye Hao, Guangyong Chen, Hongyao Tang, Yingfeng Chen, Yujing Hu, Changjie Fan, Zhongyu Wei",6337
+Online Learned Continual Compression with Adaptive Quantization Modules,"Lucas Caccia, Eugene Belilovsky, Massimo Caccia, Joelle Pineau",6338
+Learning What to Defer for Maximum Independent Sets,"Sungsoo Ahn, Younggyo Seo, Jinwoo Shin",6339
+Generalized and Scalable Optimal Sparse Decision Trees,"Jimmy Lin, Chudi Zhong, Diane Hu, Cynthia Rudin, Margo Seltzer",6340
+The Effect of Natural Distribution Shift on Question Answering Models,"John Miller, Karl Krauth, Ludwig Schmidt, Benjamin Recht",6341
+Quantized Decentralized Stochastic Learning over Directed Graphs,"Hossein Taheri, Aryan Mokhtari, Hamed Hassani, Ramtin Pedarsani",6342
+Semi-Supervised Learning with Normalizing Flows,"Pavel Izmailov, Polina Kirichenko, Marc Finzi, Andrew Wilson",6343
+Student Specialization in Deep Rectified Networks With Finite Width and Input Dimension,Yuandong Tian,6344
+Sample Amplification: Increasing Dataset Size even when Learning is Impossible,"Brian Axelrod, Shivam Garg, Vatsal Sharan, Gregory Valiant",6345
+Alleviating Privacy Attacks via Causal Learning,"Shruti Tople, Amit Sharma, Aditya Nori",6346
+The Intrinsic Robustness of Stochastic Bandits to Strategic Manipulation,"Zhe Feng, David Parkes, Haifeng Xu",6347
+Normalized Flat Minima: Exploring Scale Invariant Definition of Flat Minima for Neural Networks Using PAC-Bayesian Analysis,"Yusuke Tsuzuku, Issei Sato, Masashi Sugiyama",6348
+Fiedler Regularization: Learning Neural Networks with Graph Sparsity,"Edric Tam, David Dunson",6349
+Online Learning with Imperfect Hints,"Aditya Bhaskara, Ashok Cutkosky, Ravi Kumar, Manish Purohit",6350
+Rate-distortion optimization guided autoencoder for isometric embedding in Euclidean latent space,"Keizo Kato, Jing Zhou, Tomotake Sasaki, Akira Nakagawa",6351
+Optimization from Structured Samples for Coverage Functions,"Wei Chen, Xiaoming Sun, Jialin Zhang, Zhijie Zhang",6352
+Optimal Randomized First-Order Methods for Least-Squares Problems,"Jonathan Lacotte, Mert Pilanci",6353
+Stochastic Optimization for Non-convex Inf-Projection Problems,"Yan Yan, Yi Xu, Lijun Zhang, Wang Xiaoyu, Tianbao Yang",6354
+Convex Representation Learning for Generalized Invariance in Semi-Inner-Product Space,"Yingyi Ma, Vignesh Ganapathiraman, Yaoliang Yu, Xinhua Zhang",6355
+Neural Kernels Without Tangents,"Vaishaal Shankar, Alex Fang, Wenshuo Guo, Sara Fridovich-Keil, Jonathan Ragan-Kelley, Ludwig Schmidt, Benjamin Recht",6356
+Linear Lower Bounds and Conditioning of Differentiable Games,"Adam Ibrahim, Waïss Azizian, Gauthier Gidel, Ioannis Mitliagkas",6357
+Finite-Time Last-Iterate Convergence for Multi-Agent Learning in Games,"Darren Lin, Zhengyuan Zhou, Panayotis Mertikopoulos, Michael Jordan",6358
+Communication-Efficient Distributed PCA by Riemannian Optimization,"Long-Kai Huang, Sinno Jialin Pan",6359
+Manifold Identification for Ultimately Communication-Efficient Distributed Optimization,"Yu-Sheng Li, Wei-Lin Chiang, Ching-pei Lee",6360
+When Demands Evolve Larger and Noisier: Learning and Earning in a Growing Environment,"Feng Zhu, Zeyu Zheng",6361
+Being Bayesian about Categorical Probability,"Taejong Joo, Uijung Chung, Min-Gwan Seo",6362
+Context-aware Dynamics Model for Generalization in Model-Based Reinforcement Learning,"Kimin Lee, Younggyo Seo, Seunghyun Lee, Honglak Lee, Jinwoo Shin",6363
+Learning Reasoning Strategies in End-to-End Differentiable Proving,"Pasquale Minervini, Tim Rocktäschel, Sebastian Riedel, Edward Grefenstette, Pontus Stenetorp",6364
+Fast and Private Submodular and $k$-Submodular Functions Maximization with Matroid Constraints,"Akbar Rafiey, Yuichi Yoshida",6365
+Streaming Coresets for Symmetric Tensor Factorization,"Supratim Shit, Anirban Dasgupta, Rachit Chhaya, Jayesh Choudhari",6366
+How Good is the Bayes Posterior in Deep Neural Networks Really?,"Florian Wenzel, Kevin Roth, Bastiaan Veeling, Jakub Swiatkowski, Linh Tran, Stephan Mandt, Jasper Snoek, Tim Salimans, Rodolphe Jenatton, Sebastian Nowozin",6367
+Optimally Solving Two-Agent Decentralized POMDPs Under One-Sided Information Sharing ,"Yuxuan Xie, Jilles Dibangoye, Olivier Buffet",6368
+Learning Algebraic Multigrid Using Graph Neural Networks,"Ilay Luz, Meirav Galun, Haggai Maron, Ronen Basri, Irad Yavneh",6369
+Fractal Gaussian Networks: A sparse random graph model based on Gaussian Multiplicative Chaos,"Subhroshekhar Ghosh, Krishna Balasubramanian, Xiaochuan Yang",6370
+Structured Policy Iteration for Linear Quadratic Regulator,"Youngsuk Park, Ryan Rossi, Zheng Wen, Gang Wu, Handong Zhao",6371
+T-GD: Transferable GAN-generated Images Detection Framework,"Hyeonseong Jeon, Young Oh Bang, Junyaup Kim, Simon Woo",6372
+Low Bias Low Variance Gradient Estimates for Hierarchical Boolean Stochastic Networks,"Adeel Pervez, Taco Cohen, Stratis Gavves",6373
+Learning Flat Latent Manifolds with VAEs,"Nutan Chen, Alexej Klushyn, Francesco Ferroni, Justin Bayer, Patrick van der Smagt",6374
+Multi-Task Learning with User Preferences: Gradient Descent with Controlled Ascent in Pareto Optimization,"Deb Mahapatra, Vaibhav Rajan",6375
+Transfer Learning without Knowing: Reprogramming Black-box Machine Learning Models with Scarce Data and Limited Resources,"Yun Yun Tsai, Pin-Yu Chen, Tsung-Yi Ho",6376
+On Coresets for Regularized Regression,"Rachit Chhaya, Supratim Shit, Anirban Dasgupta",6377
+Budgeted Online Influence Maximization,"Pierre Perrault, Zheng Wen, Michal Valko, Jennifer Healey",6378
+On the (In)tractability of Computing Normalizing Constants for the Product of Determinantal Point Processes,"Naoto Ohsaka, Tatsuya Matsuoka",6379
+Monte-Carlo Tree Search as Regularized Policy Optimization,"Jean-Bastien Grill, Florent Altché, Yunhao Tang, Thomas Hubert, Michal Valko, Ioannis Antonoglou, Remi Munos",6380
+On the Expressivity of Neural Networks for Deep Reinforcement Learning,"Kefan Dong, Yuping Luo, Tianhe Yu, Chelsea Finn, Tengyu Ma",6381
+The k-tied Normal Distribution: A Compact Parameterization of Gaussian Mean Field Posteriors in Bayesian Neural Networks,"Jakub Swiatkowski, Kevin Roth, Bastiaan Veeling, Linh Tran, Josh V Dillon, Jasper Snoek, Stephan Mandt, Tim Salimans, Rodolphe Jenatton, Sebastian Nowozin",6382
+A Generative Model for Molecular Distance Geometry,"Gregor Simm, Jose Miguel Hernandez-Lobato",6383
+Why bigger is not always better: on finite and infinite neural networks,Laurence Aitchison,6384
+Data-Efficient Image Recognition with Contrastive Predictive Coding,Olivier Henaff,6385
+Intrinsic Reward Driven Imitation Learning via Generative Model,"Xingrui Yu, Yueming LYU, Ivor Tsang",6386
+Can Increasing Input Dimensionality Improve Deep Reinforcement Learning?,"Kei Ota, Tomoaki Oiki, Devesh Jha, Toshisada Mariyama, Daniel Nikovski",6387
+Batch Reinforcement Learning with Hyperparameter  Gradients,"Byung-Jun Lee, Jongmin Lee, Peter Vrancx, Dongho Kim, Kee-Eung Kim",6388
+Sub-Goal Trees -- a Framework for Goal-Based Reinforcement Learning,"Tom Jurgenson, Or Avner, Edward Groshev, Aviv Tamar",6389
+A Geometric Approach to Archetypal Analysis via Sparse Projections,"Vinayak Abrol, Pulkit Sharma",6390
+Sequence Generation with Mixed Representations,"Lijun Wu, Shufang Xie, Yingce Xia, Yang Fan, Jian-Huang Lai, Tao Qin, Tie-Yan Liu",6391
+Agent57: Outperforming the Atari Human Benchmark,"Adrià Puigdomenech Badia, Bilal Piot, Steven Kapturowski, Pablo Sprechmann, Alex Vitvitskyi, Zhaohan Guo, Charles Blundell",6392
+RIFLE: Backpropagation in Depth for Deep Transfer Learning through Re-Initializing the Fully-connected LayEr,"Xingjian Li, Haoyi Xiong, Haozhe An, Dejing Dou, Cheng-Zhong Xu",6393
+Fairwashing explanations with off-manifold detergent,"Christopher Anders, Ann-Kathrin Dombrowski, Klaus-robert Mueller, Pan Kessel, Plamen Pasliev",6394
+Learning disconnected manifolds: a no GAN's land,"Ugo Tanielian, Thibaut Issenhuth, Elvis Dohmatob, Jeremie Mary",6395
+Sets Clustering,"Ibrahim Jubran, Murad Tukan, Alaa Maalouf, Dan Feldman",6396
+Variational Autoencoders with Riemannian Brownian Motion Priors,"Dimitris Kalatzis, David Eklund, Georgios Arvanitidis, Søren Hauberg",6397
+Non-separable Non-stationary random fields,"Kangrui Wang, Ollie Hamelijnck, Theo Damoulas, Mark Steel",6398
+Nonparametric Score Estimators,"Yuhao Zhou, Jiaxin Shi, Jun Zhu",6399
+A Free-Energy Principle for Representation Learning,"Yansong Gao, Pratik Chaudhari",6400
+Scalable Differential Privacy with Certified Robustness in Adversarial Learning,"Hai Phan, My T. Thai, Han Hu, Ruoming Jin, Tong Sun, Dejing Dou",6401
+Variational Inference for Sequential Data with Future Likelihood Estimates,"Geon-Hyeong Kim, Youngsoo Jang, Hongseok Yang, Kee-Eung Kim",6402
+"Implicit Learning Dynamics in Stackelberg Games: Equilibria Characterization, Convergence Analysis, and Empirical Study","Tanner Fiez, Benjamin Chasnov, Lillian  Ratliff",6403
+Let's Agree to Agree: Neural Networks Share Classification Order on Real Datasets,"Guy Hacohen, Leshem Choshen, Daphna Weinshall",6404
+Quantile Causal Discovery,"Natasa Tagasovska, Thibault Vatter, Valérie Chavez-Demoulin",6405
+How to Solve Fair k-Center in Massive Data Models,"Ashish Chiplunkar, Sagar Kale, Sivaramakrishnan Natarajan Ramamoorthy",6406
+Bayesian Learning from Sequential Data using Gaussian Processes with Signature Covariances,"Csaba Toth, Harald Oberhauser",6407
+Beyond Signal Propagation: Is Feature Diversity Necessary in Deep Neural Network Initialization?,"Yaniv Blumenfeld, Dar Gilboa, Daniel Soudry",6408
+Dynamic Knapsack Optimization Towards Efficient Multi-Channel Sequential Advertising,"Xiaotian Hao, Zhaoqing Peng, Yi Ma, Guan Wang, Junqi Jin, Jianye Hao, Shan Chen, Rongquan Bai, Mingzhou Xie, Miao Xu, Zhenzhe Zheng, Chuan Yu, HAN LI, Jian Xu, Kun Gai",6409
+Stochastically Dominant Distributional Reinforcement Learning,"John Martin, Michal Lyskawinski, Xiaohu Li, Brendan Englot",6410
+Adversarial Robustness Against the Union of Multiple Threat Models,"Pratyush Maini, Eric Wong, Zico Kolter",6411
+Student-Teacher Curriculum Learning via Reinforcement Learning: Predicting Hospital Inpatient Admission Location,"Rasheed El-Bouri, David Eyre, Peter Watkinson, Tingting Zhu, David Clifton",6412
+Option Discovery in the Absence of Rewards with Manifold Analysis,"Amitay Bar, Ronen Talmon, Ron Meir",6413
+Generalisation error in learning with random features and the hidden manifold model,"Federica Gerace, Bruno Loureiro, Florent Krzakala, Marc Mezard, Lenka Zdeborova",6414
+Fast and Consistent Learning of Hidden Markov Models by Incorporating Non-Consecutive Correlations,"Robert Mattila, Cristian R. Rojas, Eric Moulines, Vikram Krishnamurthy, Bo Wahlberg",6415
+Gradient-free Online Learning in Continuous Games with Delayed Rewards,"Amélie Héliou, Panayotis Mertikopoulos, Zhengyuan Zhou",6416
+Pseudo-Masked Language Models for Unified Language Model Pre-Training,"Hangbo Bao, Li Dong, Furu Wei, Wenhui Wang, Nan Yang, Xiaodong Liu, Yu Wang, Jianfeng Gao, Songhao Piao, Ming Zhou, Hsiao-Wuen Hon",6417
+Einsum Networks: Fast and Scalable Learning of Tractable Probabilistic Circuits,"Robert Peharz, Steven Lang, Antonio Vergari, Karl Stelzner, Alejandro Molina, Martin Trapp, Guy Van den Broeck, Kristian Kersting, Zoubin Ghahramani",6418
+Polynomial Tensor Sketch for Element-wise Function of Low-Rank Matrix,"Insu Han, Haim Avron, Jinwoo Shin",6419
+Inexact Tensor Methods with Dynamic Accuracies,"Nikita Doikov, Yurii Nesterov",6420
+k-means++:  few more steps yield constant approximation,"Davin Choo, Christoph Grunau, Julian Portmann, Vaclav Rozhon",6421
+Radioactive data: tracing through training,"Alexandre Sablayrolles, Douze Matthijs, Cordelia Schmid, Herve Jegou",6422
+Doubly robust off-policy evaluation with shrinkage ,"Yi Su, Maria Dimakopoulou, Akshay Krishnamurthy, Miroslav Dudik",6423
+Fast Adaptation to New Environments via Policy-Dynamics Value Functions,"Roberta Raileanu, Max Goldstein, Arthur Szlam, Facebook Rob Fergus",6424
+Neural Clustering Processes,"Ari Pakman, Yueqi Wang, Catalin Mitelut, JinHyung Lee, Department of Statistics Liam Paninski",6425
+Topologically Densified Distributions,"Christoph Hofer, Florian Graf, Marc Niethammer, Roland Kwitt",6426
+Low-loss connection of weight vectors: distribution-based approaches,"Ivan Anokhin, Dmitry Yarotsky",6427
+Graph Filtration Learning,"Christoph Hofer, Florian Graf, Bastian Rieck, Marc Niethammer, Roland Kwitt",6428
+Differentiable Product Quantization for Learning Compact Embedding Layers,"Ting Chen, Lala Li, Yizhou Sun",6429
+Scalable Exact Inference in Multi-Output Gaussian Processes,"Wessel Bruinsma, Eric Perim Martins, William Tebbutt, Scott Hosking, Arno Solin, Richard E Turner",6430
+Lower Complexity Bounds for Finite-Sum Convex-Concave Minimax Optimization Problems,"Guangzeng Xie, Luo Luo, yijiang lian, Zhihua Zhang",6431
+Near-optimal Regret Bounds for Stochastic Shortest Path,"Aviv Rosenberg, Alon Cohen, Yishay Mansour, Haim Kaplan",6432
+The Usual Suspects? Reassessing Blame for VAE Posterior Collapse,"Bin Dai, Ziyu Wang, David Wipf",6433
+"It's Not What Machines Can Learn, It's What We Cannot Teach","Gal Yehuda, Moshe Gabel, Assaf Schuster",6434
+Guided Learning of Nonconvex Models through Successive Functional Gradient Optimization,"Rie Johnson, Tong Zhang",6435
+A Markov Decision Process Model for Socio-Economic Systems Impacted by Climate Change,"Salman Sadiq Shuvo, Yasin Yilmaz, Alan Bush, Mark Hafen",6436
+Can Stochastic Zeroth-Order Frank-Wolfe Method Converge Faster for Non-Convex Problems?,"Hongchang Gao, Heng Huang",6437
+Distance Metric Learning with Joint Representation Diversification,"Xu Chu, Yang Lin, Xiting Wang, Xin Gao, Qi Tong, Hailong Yu, Yasha Wang",6438
+Meta-Learning with Shared Amortized Variational Inference,"Ekaterina Iakovleva, Karteek Alahari, Jakob Verbeek",6439
+Causal Effect Identifiability under Partial-Observability,"Sanghack Lee, Elias Bareinboim",6440
+Continuous Graph Neural Networks,"Louis-Pascal Xhonneux, Meng Qu, Jian Tang",6441
+Restarted Bayesian Online Change-point Detector achieves Optimal Detection Delay,"REDA ALAMI, Odalric-Ambrym Maillard, Raphaël Féraud",6442
+Robust learning with the Hilbert-Schmidt independence criterion,"Daniel Greenfeld, Uri Shalit",6443
+Bayesian Experimental Design for Implicit Models by Mutual Information Neural Estimation,"Steven Kleinegesse, Michael Gutmann",6444
+Fast Differentiable Sorting and Ranking,"Mathieu Blondel, Olivier Teboul, Quentin Berthet, Josip Djolonga",6445
+Learning for Dose Allocation in Adaptive Clinical Trials with Safety Constraints,"Cong Shen, Zhiyang Wang, Sofia Villar, Mihaela van der Schaar",6446
+Tuning-free Plug-and-Play Proximal Algorithm for Inverse Imaging Problems,"Kaixuan Wei, Angelica I Aviles-Rivero, Jingwei Liang, Ying Fu, Carola-Bibiane Schönlieb, Hua Huang",6447
+Consistent Estimators for Learning to Defer to an Expert,"Hussein Mozannar, David Sontag",6448
+A Graph to Graphs Framework for Retrosynthesis Prediction,"Chence Shi, Minkai Xu, Hongyu Guo, Ming Zhang, Jian Tang",6449
+Fast computation of Nash Equilibria in Imperfect Information Games,"Remi Munos, Julien Perolat, Jean-Baptiste Lespiau, Mark Rowland, Bart De Vylder, Marc Lanctot, Finbarr Timbers, Daniel Hennes, Shayegan Omidshafiei, Audrunas Gruslys, Mohammad Gheshlaghi Azar, Edward Lockhart, Karl Tuyls",6450
+Invariant Rationalization,"Shiyu Chang, Yang Zhang, Mo Yu, Tommi Jaakkola",6451
+Accelerated Stochastic Gradient-free and Projection-free Methods,"Feihu Huang, Lue Tao, Songcan Chen",6452
+Efficient Optimistic Exploration in Linear-Quadratic Regulators via Lagrangian Relaxation,"Marc Abeille, Alessandro Lazaric",6453
+Implicit Regularization of Random Feature Models,"Arthur Jacot, Berfin simsek, Francesco Spadaro, Clement Hongler, Franck Gabriel",6454
+Missing Data Imputation using Optimal Transport,"Boris Muzellec, Julie Josse, Claire Boyer, Marco Cuturi",6455
+Unsupervised Speech Decomposition via Triple Information Bottleneck,"Kaizhi Qian, Yang Zhang, Shiyu Chang, Mark Hasegawa-Johnson, David Cox",6456
+Provable Representation Learning for Imitation Learning via Bi-level Optimization,"Sanjeev Arora, Simon Du, Sham Kakade, Yuping Luo, Nikunj Saunshi",6457
+Convergence of a Stochastic Gradient Method with Momentum for Non-Smooth Non-Convex Optimization,"Vien Mai, Mikael Johansson",6458
+XTREME: A Massively Multilingual Multi-task Benchmark for Evaluating Cross-lingual Generalisation,"Junjie Hu, Sebastian Ruder, Aditya Siddhant, Graham Neubig, Orhan Firat, Melvin Johnson",6459
+Fair k-Centers via Maximum Matching,"Matthew Jones, Thy Nguyen, Huy Nguyen",6460
+Efficiently sampling functions from Gaussian process posteriors,"James Wilson, Slava Borovitskiy, Alexander Terenin, Peter Mostowsky, Marc Deisenroth",6461
+Characterizing Distribution Equivalence and Structure Learning for Cyclic and Acyclic Directed Graphs,"AmirEmad Ghassami, Alan Yang, Negar Kiyavash, Kun Zhang",6462
+Inverse Active Sensing: Modeling and Understanding Timely Decision-Making,"Daniel Jarrett, Mihaela van der Schaar",6463
+On Second-Order Group Influence Functions for Black-Box Predictions,"Samyadeep Basu, Xuchen You, Soheil Feizi",6464
+Safe Imitation Learning via Fast Bayesian Reward Inference from Preferences,"Daniel Brown, Scott Niekum, Russell Coleman, Ravi Srinivasan",6465
+Randomly Projected Additive Gaussian Processes for Regression,"Ian Delbridge, dbindel S Bindel, Andrew Wilson",6466
+Attentive Group Equivariant Convolutional Networks,"David Romero, Erik Bekkers, Jakub Tomczak, Mark Hoogendoorn",6467
+Learning Compound Tasks without Task-specific Knowledge via Imitation and Self-supervised Learning,"Sang-Hyun Lee, Seung-Woo Seo",6468
+Confidence Sets and Hypothesis Testing in a Likelihood-Free Inference Setting,"Nic Dalmasso, Rafael Izbicki, Ann Lee",6469
+Curvature-corrected learning dynamics in deep neural networks,Dongsung Huh,6470
+Tightening Exploration in Upper Confidence Reinforcement Learning,"Hippolyte Bourel, Odalric-Ambrym Maillard, Mohammad Sadegh Talebi",6471
+Bootstrap Latent-Predictive Representations for Multitask Reinforcement Learning,"Zhaohan Guo, Bernardo Avila Pires, Mohammad Gheshlaghi Azar, Bilal Piot, Florent Altché, Jean-Bastien Grill, Remi Munos",6472
+Discriminative Adversarial Search for Abstractive Summarization,"Thomas Scialom, Paul-Alexis Dray, Sylvain Lamprier, Benjamin Piwowarski, Jacopo Staiano",6473
+A Swiss Army Knife for Minimax Optimal Transport,"Sofien Dhouib, Ievgen Redko, Tanguy Kerdoncuff, Rémi Emonet, Marc Sebban",6474
+Invariant Causal Prediction for Block MDPs,"Clare Lyle, Amy Zhang, Angelos Filos, Shagun Sodhani, Marta Kwiatkowska, Yarin Gal, Doina Precup, Joelle Pineau",6475
+Involutive MCMC: One Way to Derive Them All,"Kirill Neklyudov, Max Welling, Evgenii Egorov, Dmitry Vetrov",6476
+Adversarial Learning Guarantees for Linear Hypotheses and Neural Networks,"Pranjal Awasthi, Natalie Frank, Mehryar Mohri",6477
+Deep Reinforcement Learning with Smooth Policy,"Qianli Shen, Yan Li, Haoming Jiang, Zhaoran Wang, Tuo Zhao",6478
+On the Power of Compressed Sensing with Generative Models ,"Akshay Kamath, Eric Price, Sushrut Karmalkar",6479
+Laplacian Regularized Few-Shot Learning,"Imtiaz Ziko, Jose Dolz, Eric Granger, Ismail Ben Ayed",6480
+Neural Datalog Through Time: Informed Temporal Modeling via Logical Specification,"Hongyuan Mei, Guanghui Qin, Minjie Xu, Jason Eisner",6481
+Up or Down? Adaptive Rounding for Post-Training Quantization,"Markus Nagel, Rana Ali Amjad, Mart van Baalen, Christos Louizos, Tijmen Blankevoort",6482
+A quantile-based approach for hyperparameter transfer learning,"David Salinas, Huibin Shen, Valerio Perrone",6483
+Inductive Bias-driven Reinforcement Learning For Efficient Schedules in Heterogeneous Clusters,"Subho Banerjee, Saurabh Jha, Zbigniew Kalbarczyk, Ravishankar Iyer",6484
+Adversarial Robustness for Code,"Pavol Bielik, Martin Vechev",6485
+The Boomerang Sampler,"Joris Bierkens, Sebastiano Grazzi, Kengo Kamatani, Gareth Roberts",6487
+Weakly-Supervised Disentanglement Without Compromises,"Francesco Locatello, Ben Poole, Gunnar Raetsch, Bernhard Schölkopf, Olivier Bachem, Michael Tschannen",6488
+Predictive Sampling with Forecasting Autoregressive Models,"Auke Wiggers, Emiel Hoogeboom",6489
+InfoGAN-CR: Disentangling Generative Adversarial Networks with Contrastive Regularizers,"Zinan Lin, Kiran Thekumparampil, Giulia Fanti, Sewoong Oh",6490
+TrajectoryNet: A Dynamic Optimal Transport Network for Modeling Cellular Dynamics,"Alexander Tong, Jessie Huang, Guy Wolf, David van Dijk, Smita Krishnaswamy",6491
+The role of regularization in classification of high-dimensional noisy Gaussian mixture,"Francesca Mignacco, Florent Krzakala, Yue Lu, Pierfrancesco Urbani, Lenka Zdeborova",6492
+Normalizing Flows on Tori and Spheres,"Danilo J. Rezende, George Papamakarios, Sebastien Racaniere, Michael Albergo, Gurtej Kanwar, Phiala Shanahan, Kyle Cranmer",6493
+Structured Linear Contextual Bandits: A Sharp and Geometric Smoothed Analysis,"Vidyashankar Sivakumar, Steven Wu, Arindam Banerjee",6494
+Simple and sharp analysis of k-means||,Vaclav Rozhon,6495
+Efficient proximal mapping of the path-norm regularizer of shallow networks,"Fabian Latorre, Paul Rolland, Shaul Nadav Hallak, Volkan Cevher",6496
+Regularized Optimal Transport is Ground Cost Adversarial,"François-Pierre Paty, Marco Cuturi",6497
+Automatic Shortcut Removal for Self-Supervised Representation Learning,"Matthias Minderer, Olivier Bachem, Neil Houlsby, Michael Tschannen",6498
+Fair Learning with Private Demographic Data,"Hussein Mozannar, Mesrob Ohannessian, Nati Srebro",6499
+Deep Divergence Learning,"Kubra Cilingir, Rachel Manzelli, Brian Kulis",6500
+A new regret analysis for Adam-type algorithms,"Ahmet Alacaoglu, Yura Malitsky, Panayotis Mertikopoulos, Volkan Cevher",6501
+Accelerated Message Passing for Entropy-Regularized MAP Inference,"Jonathan Lee, Aldo Pacchiano, Peter Bartlett, Michael Jordan",6502
+Dissecting Non-Vacuous Generalization Bounds based on the Mean-Field Approximation,Konstantinos Pitas,6503
+(Individual) Fairness for k-Clustering,"Sepideh Mahabadi, Ali Vakilian",6504
+Relaxing Bijectivity Constraints with Continuously Indexed Normalising Flows,"Rob Cornish, Anthony Caterini, George Deligiannidis, Arnaud Doucet",6505
+Gamification of Pure Exploration for Linear Bandits,"Rémy Degenne, Pierre Menard, Xuedong Shang, Michal Valko",6506
+Growing Adaptive Multi-hyperplane Machines,"Nemanja Djuric, Zhuang Wang, Slobodan Vucetic",6507
+Generative Teaching Networks: Accelerating Neural Architecture Search by Learning to Generate Synthetic Training Data,"Felipe Petroski Such, Aditya Rawal, Joel Lehman, Ken Stanley, Jeffrey Clune",6508
+Structured Prediction with Partial Labelling through the Infimum Loss,"Vivien Cabannnes, Francis Bach, Alessandro Rudi",6509
+ControlVAE: Controllable Variational Autoencoder,"Huajie Shao, Shuochao Yao, Dachun Sun, Aston Zhang, Shengzhong Liu, Dongxin Liu, Jun Wang, Tarek Abdelzaher",6510
+On Semi-parametric Inference for BART,Veronika Rockova,6511
+Simple and Scalable Epistemic Uncertainty Estimation Using a Single Deep Deterministic Neural Network,"Joost van Amersfoort, Lewis Smith, Yee Whye Teh, Yarin Gal",6512
+Ordinal Non-negative Matrix Factorization for Recommendation,"Olivier Gouvert, Thomas Oberlin, Cedric Fevotte",6513
+NetGAN without GAN: From Random Walks to Low-Rank Approximations,"Luca Rendsburg, Holger Heidrich, Ulrike von Luxburg",6514
+On the Iteration Complexity of Hypergradient Computations,"Riccardo Grazzi, Saverio Salzo, Massimiliano Pontil, Luca Franceschi",6515
+Skew-Fit: State-Covering Self-Supervised Reinforcement Learning,"Vitchyr Pong, Murtaza Dalal, Steven Lin, Ashvin Nair, Shikhar Bahl, Sergey Levine",6516
+Stochastic Optimization for Regularized Wasserstein Estimators,"Marin Ballu, Quentin Berthet, Francis Bach",6517
+LP-SparseMAP: Differentiable Relaxed Optimization for Sparse Structured Prediction,"Vlad Niculae, Andre Filipe Torres Martins",6518
+Problems with Shapley-value-based explanations as feature importance measures,"Lizzie Kumar, Suresh Venkatasubramanian, Carlos  Scheidegger, Sorelle Friedler",6519
+Model-free Reinforcement Learning in Infinite-horizon Average-reward Markov Decision Processes,"Chen-Yu Wei, Mehdi Jafarnia, Haipeng Luo, Hiteshi Sharma, Rahul Jain",6520
+Near-linear time Gaussian process optimization with adaptive batching and resparsification,"Daniele Calandriello, Luigi Carratino, Alessandro Lazaric, Michal Valko, Lorenzo Rosasco",6521
+Parallel Algorithm for Non-Monotone DR-Submodular Maximization,"Alina Ene, Huy Nguyen",6522
+Structure Adaptive Algorithms for Stochastic Bandits,"Rémy Degenne, Han Shao, Wouter Koolen",6523
+Spectrum Dependent Learning Curves in Kernel Regression and Wide Neural Networks,"Blake Bordelon, Abdul Canatar, Cengiz Pehlevan",6524
+Preference modelling with context-dependent salient features,"Amanda Bower, Laura Balzano",6525
+Infinite attention: NNGP and NTK for deep attention networks,"Jiri Hron, Yasaman Bahri, Jascha Sohl-Dickstein, Roman Novak",6526
+Fast Learning of Graph Neural Networks with Guaranteed Generalizability: One-hidden-layer Case,"shuai zhang, Meng Wang, Sijia Liu, Pin-Yu Chen, Jinjun Xiong",6527
+Efficient Domain Generalization via Common-Specific Low-Rank Decomposition,"vihari Piratla, Praneeth Netrapalli, Sunita Sarawagi",6528
+Identifying the Reward Function by Anchor Actions,"Sinong Geng, Houssam Nassif, Charlie Manzanares, Max Reppen, Ronnie Sircar",6529
+No-Regret and Incentive-Compatible Online Learning,"Rupert Freeman, David Pennock, Chara Podimata, Jenn Wortman Vaughan",6530
+Probing Emergent Semantics in Predictive Agents via Question Answering,"Abhishek Das, Federico Carnevale, Hamza Merzic, Laura Rimell, Rosalia Schneider, Josh Abramson, Alden Hung, Arun Ahuja, Stephen Clark, Greg Wayne, Feilx Hill",6531
+Meta-learning with Stochastic Linear Bandits,"Leonardo Cella, Alessandro Lazaric, Massimiliano Pontil",6532
+A Unified Theory of Decentralized SGD with Changing Topology and Local Updates,"Anastasia Koloskova, Nicolas Loizou, Sadra Boreiri, Martin Jaggi, Sebastian Stich",6533
+AdaScale SGD: A User-Friendly Algorithm for Distributed Training,"Tyler Johnson, Pulkit Agrawal, Haijie Gu, Carlos Guestrin",6534
+Kinematic State Abstraction and Provably Efficient Rich-Observation Reinforcement Learning,"Dipendra Misra, Mikael Henaff, Akshay Krishnamurthy, John Langford",6535
+Logistic Regression for Massive Data with Rare Events,HaiYing Wang,6536
+Automated Synthetic-to-Real Generalization,"Wuyang Chen, Zhiding Yu, Zhangyang Wang, Anima Anandkumar",6537
+Online Learning with Dependent Stochastic Feedback Graphs,"Corinna Cortes, Giulia DeSalvo, Claudio Gentile, Mehryar Mohri, Ningshan Zhang",6538
+Sparse Sinkhorn Attention,"Yi Tay, Dara Bahri, Liu Yang, Don Metzler, Da-Cheng Juan",6539
+Online Continual Learning from Imbalanced Data,"Aristotelis Chrysakis, Marie-Francine Moens",6540
+Differentially Private Set Union,"Pankaj  Gulhane, Sivakanth  Gopi, Janardhan Kulkarni, Judy Hanwen Shen, Milad Shokouhi, Sergey Yekhanin",6541
+The continuous categorical: a novel simplex-valued exponential family,"Elliott Gordon-Rodriguez, Gabriel Loaiza-Ganem, John Cunningham",6542
+Minimax-Optimal Off-Policy Evaluation with Linear Function Approximation,"Yaqi Duan, Zeyu Jia, Mengdi Wang",6543
+Enhanced POET: Open-ended Reinforcement Learning through Unbounded Invention of Learning Challenges and their Solutions,"Rui Wang, Joel Lehman, Aditya Rawal, Jiale Zhi, Yulun Li, Jeffrey Clune, Ken Stanley",6544
+Set Functions for Time Series ,"Max Horn, Michael Moor, Christian Bock, Bastian Rieck, Karsten Borgwardt",6545
+Individual Calibration with Randomized Forecasting,"Shengjia Zhao, Tengyu Ma, Stefano Ermon",6546
+Bayesian Differential Privacy for Machine Learning,"Aleksei Triastcyn, Boi Faltings",6547
+Causal Modeling for Fairness In Dynamical Systems,"Elliot Creager, David Madras, Toniann Pitassi, Richard Zemel",6548
+Learning General-Purpose Controllers via Locally Communicating Sensorimotor Modules,"Wenlong Huang, Igor Mordatch, Deepak Pathak",6549
+Visual Grounding of Learned Physical Models,"Yunzhu Li, Toru Lin, Kexin Yi, Daniel Bear, Daniel Yamins, Jiajun Wu, Josh Tenenbaum, Antonio Torralba",6550
+Task-Oriented Active Perception and Planning in Environments with Partially Known Semantics,"Mahsa Ghasemi, Erdem Bulgur, Ufuk Topcu",6551
+Test-Time Training for Generalization under Distribution Shifts,"Yu Sun, Xiaolong Wang, Zhuang Liu, John Miller, Alexei Efros, University of California Moritz Hardt",6552
+AutoGAN-Distiller: Searching to Compress Generative Adversarial Networks,"Yonggan Fu, Wuyang Chen, Haotao Wang, Haoran Li, Yingyan Lin, Zhangyang Wang",6553
+Associative Memory in Iterated Overparameterized Sigmoid Autoencoders,"Yibo Jiang, Cengiz Pehlevan",6554
+Adaptive Reward-Poisoning Attacks against Reinforcement Learning,"Xuezhou Zhang, Yuzhe Ma, Adish Singla, Jerry Zhu",6555
+Planning to Explore via Latent Disagreement,"Ramanan Sekar, Oleg Rybkin, Kostas Daniilidis, Pieter Abbeel, Danijar Hafner, Deepak Pathak",6556
+Defense Through Diverse Directions,"Christopher Bender, Yang Li, Yifeng Shi, Michael K. Reiter, Junier Oliva",6557
+Beyond Synthetic Noise: Deep Learning on Controlled Noisy Labels,"Lu Jiang, Di Huang, Mason Liu, Weilong Yang",6558
+Confidence-Calibrated Adversarial Training: Generalizing to Unseen Attacks,"David Stutz, Matthias Hein, Bernt Schiele",6559
+Online Control of the False Coverage Rate and False Sign Rate,"Asaf Weinstein, Aaditya Ramdas",6560
+Online Convex Optimization in the Random Order Model,"Dan Garber, Gal Korcia, Kfir Levy",6561
+A Flexible Latent Space Model for Multilayer Networks,"Xuefei Zhang, Songkai Xue, Ji Zhu",6562
+Estimation of Bounds on Potential Outcomes For Decision Making,"Maggie Makar, Fredrik Johansson, John Guttag, David Sontag",6563
+Deep Gaussian Markov Random Fields,"Per Sidén, Fredrik Lindsten",6564
+Generalization Error of Generalized Linear Models in High Dimensions,"Melika Emami, Moji Sahraee-Ardakan, Parthe Pandit, Sundeep Rangan, Alyson Fletcher",6565
+Poisson Learning: Graph Based Semi-Supervised Learning At Very Low Label Rates,"Jeff Calder, Brendan Cook, Matthew Thorpe, Dejan Slepcev",6566
+Sequential Transfer in Reinforcement Learning with a Generative Model,"Andrea Tirinzoni, Riccardo Poiani, Marcello Restelli",6567
+Finite-Time Convergence in Continuous-Time Optimization,"Orlando Romero, mouhacine Benosman",6568
+Feature Quantization Improves GAN Training,"Yang Zhao, Chunyuan Li, Iris Yu, Jianfeng Gao, Changyou Chen",6569
+Temporal Logic Point Processes,"Shuang Li, Lu Wang, Ruizhi Zhang, xiaofu Chang, Xuqin Liu, Yao Xie, Yuan Qi, Le Song",6570
+Hallucinative Topological Memory for Zero-Shot Visual Planning,"Thanard Kurutach, Kara Liu, Aviv Tamar, Pieter Abbeel, Christine Tung",6571
+Learning Attentive Meta-Transfer,"Jaesik Yoon, Gautam Singh, Sungjin Ahn",6572
+Optimizing Dynamic Structures with Bayesian Generative Search,"Minh Hoang, Carleton Kingsford",6573
+Amortized Finite Element Analysis for Fast PDE-Constrained Optimization,"Tianju Xue, Alex Beatson, Sigrid Adriaenssens , Ryan P. Adams",6574
+Preselection Bandits,"Viktor Bengs, Eyke Hüllermeier",6575
+Peer Loss Functions: Learning from Noisy Labels without Knowing Noise Rates,"Yang Liu, Hongyi Guo",6576
+Rank Aggregation from Pairwise Comparisons in the Presence of Adversarial Corruptions,"Prathamesh Patil, Arpit Agarwal, Shivani Agarwal, Sanjeev Khanna",6577
+Extrapolation for Large-batch Training in Deep Learning,"Tao LIN, Lingjing Kong, Sebastian Stich, Martin Jaggi",6578
+VideoOneNet: Bidirectional Convolutional Recurrent OneNet with Trainable Data Steps for Video Processing,"Zoltán Milacski, Barnabás Póczos, Andras Lorincz",6579
+Bio-Inspired Hashing for Unsupervised Similarity Search,"Chaitanya Ryali, John Hopfield, Leopold Grinberg, Dmitry Krotov",6580
+MetaFun: Meta-Learning with Iterative Functional Updates,"Jin Xu, Jef Ton, Hyunjik Kim, Adam Kosiorek, Yee Whye Teh",6581
+Learning and Simulation in Generative Structured World Models,"Zhixuan Lin, Yi-Fu Wu, Skand Peri, Bofeng Fu, Jindong Jiang, Sungjin Ahn",6582
+Random Hypervolume Scalarizations for Provable Multi-Objective Black Box Optimization,"Richard Zhang, Daniel Golovin",6583
+SGD Learns One-Layer Networks in WGANs,"Qi Lei, Jason Lee, Alex Dimakis, Constantinos Daskalakis",6584
+Implicit Class-Conditioned Domain Alignment for Unsupervised Domain Adaptation,"Xiang Jiang, Qicheng Lao, Stan Matwin, Mohammad Havaei",6585
+Interference and Generalization in Temporal Difference Learning,"Emmanuel Bengio, Joelle Pineau, Doina Precup",6586
+CoMic: Co-Training and Mimicry for Reusable Skills,"Leonard Hasenclever, Fabio Pardo, Raia Hadsell, Nicolas Heess, Josh Merel",6587
+Provably Efficient Model-based Policy Adaptation,"Yuda Song, Aditi Mavalankar, Wen Sun, Sicun Gao",6588
+Optimizer Benchmarking Needs to Account for Hyperparameter Tuning,"Prabhu Teja Sivaprasad, Florian Mai, Thijs Vogels, Martin Jaggi, Francois Fleuret",6589
+From Local SGD to Local Fixed Point Methods for Federated Learning,"Grigory Malinovsky, Dmitry Kovalev, Elnur Gasanov, Laurent CONDAT, Peter Richtarik",6590
+Unraveling Meta-Learning: Understanding Feature Representations for Few-Shot Tasks,"Micah Goldblum, Liam Fowl, Renkun Ni, Steven Reich, Valeriia Cherepanova, Tom Goldstein",6591
+Federated Learning with Only Positive Labels,"Felix Xinnan Yu, Ankit Singh Rawat, Aditya Menon, Sanjiv Kumar",6592
+Causal Inference using Gaussian Processes with Structured Latent Confounders,"Sam Witty, Kenta Takatsu, David Jensen, Vikash Mansinghka",6593
+T-Basis: a Compact Representation for Neural Networks,"Anton Obukhov, Maxim Rakhuba, Menelaos Kanakis, Stamatios Georgoulis, Dengxin  Dai, Luc Van Gool",6594
+Familywise Error Rate Control by Interactive Unmasking,"Boyan Duan, Aaditya Ramdas, Larry Wasserman",6595
+Learning to Branch for Multi-Task Learning,"Pengsheng Guo, Chen-Yu Lee, Daniel Ulbricht",6596
+Augmenting Continuous Time Bayesian Networks with Clocks,"Nicolai Engelmann, Dominik Linzner, Heinz Koeppl",6597
+IPBoost – Non-Convex Boosting via Integer Programming,"Sebastian Pokutta, Marc Pfetsch",6598
+On Efficient Constructions of Checkpoints,"Yu Chen, Zhenming LIU, Bin Ren, Xin Jin",6599
+Feature Selection using Stochastic Gates,"Yutaro Yamada, Ofir Lindenbaum, Sahand Negahban, Yuval Kluger",6600
+How to Train Your Neural ODE: the World of Jacobian and Kinetic Regularization,"Chris Finlay, Jörn Jacobsen, Levon Nurbekyan, Adam Oberman",6601
+Evaluating Lossy Compression Rates of Deep Generative Models,"Sicong Huang, Alireza Makhzani, Yanshuai Cao, Roger Grosse",6602
+Mix-n-Match : Ensemble and Compositional Methods for Uncertainty Calibration in Deep Learning,"Jize Zhang, Bhavya Kailkhura, T. Yong-Jin Han",6603
+Learning Adversarially Robust Representations via Worst-Case Mutual Information Maximization,"Sicheng Zhu, Xiao Zhang, David Evans",6604
+Stochastic Regret Minimization in Extensive-Form Games,"Gabriele Farina, Christian Kroer, Tuomas Sandholm",6605
+Simultaneous Inference for Massive Data: Distributed Bootstrap,"Yang Yu, Shih-Kang Chao, Guang Cheng",6606
+Stabilizing Differentiable Architecture Search via Perturbation-based Regularization,"Xiangning Chen, Cho-Jui Hsieh",6607
+Boosting Frank-Wolfe by Chasing Gradients,"Cyrille W. Combettes, Sebastian Pokutta",6608
+Concise Explanations of Neural Networks using Adversarial Training,"PRASAD Chalasani, Jiefeng Chen, Amrita Roy Chowdhury, Xi Wu, Somesh Jha",6609
+Quantum Boosting,"Srinivasan Arunachalam, Reevu Maity",6610
+Information-Theoretic Local Minima Characterization and Regularization,"Zhiwei Jia, Hao Su",6611
+Kernel interpolation with continuous volume sampling,"Ayoub Belhadji, Rémi Bardenet, Pierre Chainais",6612
+Efficient Identification in Linear Structural Causal Models with Auxiliary Cutsets,"Daniel Kumor, Carlos Cinelli, Elias Bareinboim",6613
+Partial Trace Regression and Low-Rank Kraus Decomposition,"Hachem Kadri, Stephane Ayache, Riikka Huusari, alain rakotomamonjy, Ralaivola Liva",6614
+Constant Curvature Graph Convolutional Networks,"Gregor Bachmann, Gary Becigneul, Octavian Ganea",6615
+Educating Text Autoencoders: Latent Representation Guidance via Denoising,"Tianxiao Shen, Jonas Mueller, Regina Barzilay, Tommi Jaakkola",6616
+Generalization via Derandomization,"Jeffrey Negrea, Daniel Roy, Gintare Karolina Dziugaite",6617
+Inductive Relation Prediction by Subgraph Reasoning,"Komal Teru, Etienne Denis, Will Hamilton",6618
+Logarithmic Regret for Online Control with Adversarial Noise,"Dylan Foster, Max Simchowitz",6619
+Multiresolution Tensor Learning for Efficient and Interpretable Spatial Analysis,"Jung Yeon Park, Kenneth Carr, Stephan Zheng, Yisong Yue, Rose Yu",6620
+Customizing ML Predictions for Online Algorithms,"Keerti Anand, Rong Ge, Debmalya Panigrahi",6621
+Maximum Entropy Gain Exploration for Long Horizon Multi-goal Reinforcement Learning,"Silviu Pitis, Harris Chan, Stephen Zhao, Bradly Stadie, Jimmy Ba",6622
+ Recht-Re Noncommutative Arithmetic-Geometric Mean Conjecture is False,"Zehua Lai, Lek-Heng Lim",6623
+Predictive Multiplicity in Classification,"Charles Marx, Flavio Calmon, Berk Ustun",6624
+Word-Level Speech Recognition With a Letter to Word Encoder,"Ronan Collobert, Awni Hannun, Gabriel Synnaeve",6625
+Reducing Sampling Error in Batch Temporal Difference Learning,"Brahma Pavse, Ishan Durugkar, Josiah Hanna, Peter Stone",6626
+Adaptive Sampling for Estimating Probability Distributions,"Shubhanshu Shekhar, Tara Javidi, Mohammad Ghavamzadeh",6627
+Adversarial Filters of Dataset Biases,"Ronan Le Bras, Swabha Swayamdipta, Chandra Bhagavatula, Rowan Zellers, Matthew Peters, Ashish Sabharwal, Yejin Choi",6628
+Black-Box Variational Inference as a Parametric Approximation to Langevin Dynamics,"Matt Hoffman, Yian Ma",6629
+Faster Graph Embeddings via Coarsening,"Matthew Fahrbach, Gramoz Goranci, Sushant Sachdeva, Richard Peng, Chi Wang",6630
+Efficient non-conjugate Gaussian process factor models for spike countdata using polynomial approximations,"Stephen Keeley, David Zoltowski, Jonathan Pillow, Spencer Smith, Yiyi Yu",6631
+Multigrid Neural Memory,"Tri Huynh, Michael Maire, Matthew Walter",6632
+Cautious Adaptation For Reinforcement Learning in Safety-Critical Settings,"Jesse Zhang, Brian Cheung, Chelsea Finn, Sergey Levine, Dinesh Jayaraman",6633
+Adversarial Nonnegative Matrix Factorization,"lei luo, yanfu Zhang, Heng Huang",6634
+Aligned Cross Entropy for Non-Autoregressive Machine Translation,"Marjan Ghazvininejad, Vladimir Karpukhin, Luke Zettlemoyer, Omer Levy",6635
+Model-Agnostic Characterization of Fairness Trade-offs,"Joon Kim, Jiahao Chen, Ameet Talwalkar",6636
+A Distributional Framework For Data Valuation,"Amirata Ghorbani, Michael Kim, James Zou",6637
+Supervised Quantile Normalization for Low Rank Matrix Factorization,"Marco Cuturi, Olivier Teboul, Jonathan Niles-Weed, JP Vert",6638
+AR-DAE: Towards Unbiased Neural Entropy Gradient Estimation,"Jae Hyun Lim, Aaron Courville, Christopher Pal, Chin-Wei Huang",6639
+Bridging the Gap Between f-GANs and Wasserstein GANs,"Jiaming Song, Stefano Ermon",6640
+“Other-Play” for Zero-Shot Coordination,"Hengyuan Hu, Alexander Peysakhovich, Adam Lerer, Jakob Foerster",6641
+Correlation Clustering with Asymmetric Classification Errors,"Jafar Jafarov, Sanchit Kalhan, Konstantin Makarychev, Yury Makarychev",6642
+An Optimistic Perspective on Offline Deep Reinforcement Learning,"Rishabh Agarwal, Dale Schuurmans, Mohammad Norouzi",6643
+Neural Topic Modeling with Continual Lifelong Learning,"Pankaj Gupta, Yatin Chaudhary, Thomas Runkler, Hinrich Schuetze",6644
+Learning and Evaluating Contextual Embedding of Source Code,"Aditya Kanade, Petros Maniatis, Gogul Balakrishnan, Kensen Shi",6645
+"Uncertainty quantification for nonconvex tensor completion: Confidence intervals, heteroscedasticity and optimality","Changxiao Cai, H. Vincent Poor, Yuxin Chen",6646
+Learning with Good Feature Representations in Bandits and in RL with a Generative Model,"Gellért Weisz, Tor Lattimore, Csaba Szepesvari",6647
+Angular Visual Hardness,"Beidi Chen, Weiyang Liu, Zhiding Yu, Jan Kautz, Anshumali Shrivastava, Animesh Garg, Anima Anandkumar",6648
+Learning the Stein Discrepancy for Training and Evaluating Energy-Based Models without Sampling,"Will Grathwohl, Kuan-Chieh Wang, Jörn Jacobsen, David Duvenaud, Richard Zemel",6649
+Variance Reduction and Quasi-Newton for Particle-Based Variational Inference,"Michael Zhu, Chang Liu, Jun Zhu",6650
+Better depth-width trade-offs for neural networks through the lens of dynamical systems,"Vaggos Chatziafratis, Ioannis Panageas, Sai Ganesh Nagarajan",6651
+Stochastic Coordinate Minimization with Progressive Precision for Stochastic Convex Optimization,"Sudeep Salgia, Qing Zhao, Sattar Vakili",6652
+Fundamental Tradeoffs between Invariance and Sensitivity to Adversarial Perturbations,"Florian Tramer, Jens Behrmann, Nicholas Carlini, Nicolas Papernot, Jörn Jacobsen",6653
+"Learning From Strategic Agents: Accuracy, Improvement, and Causality","Yonadav Shavit, Ben Edelman, Brian Axelrod",6654
+Causal Structure Discovery from Distributions Arising from Mixtures of DAGs,"Basil Saeed, Snigdha Panigrahi, Caroline Uhler",6655
+Explainable and Discourse Topic-aware Neural Language Understanding,"Yatin Chaudhary, Pankaj Gupta, Hinrich Schuetze",6656
+Understanding Contrastive Representation Learning through Geometry on the Hypersphere,"Tongzhou Wang, Phillip Isola",6657
+On Learning Language-Invariant Representations for Universal Machine Translation,"Han Zhao, Junjie Hu, Andrej Risteski",6658
+Compressive sensing with un-trained neural networks: Gradient descent finds a smooth approximation,"Reinhard Heckel, Mahdi Soltanolkotabi",6659
+Representing Unordered Data Using Multiset Automata and Complex Numbers,"Justin DeBenedetto, David Chiang",6660
+Mutual Transfer Learning for Massive Data,"Ching-Wei Cheng, Xingye Qiao, Guang Cheng",6661
+The Differentiable Cross-Entropy Method,"Brandon Amos, Denis Yarats",6662
+A Sample Complexity Separation between Non-Convex and Convex Meta-Learning,"Nikunj Saunshi, Yi Zhang, Misha Khodak, Sanjeev Arora",6663
+On the Convergence of Nesterov's Accelerated Gradient Method in Stochastic Settings,"Mido Assran, Mike Rabbat",6664
+The Buckley-Osthus model and the block preferential attachment model: statistical analysis and application,"Wenpin Tang, Xin Guo, Fengmin Tang",6665
+Representations for Stable Off-Policy Reinforcement Learning,"Dibya Ghosh, Marc Bellemare",6666
+Piecewise Linear Regression via a Difference of Convex Functions,"Ali Siahkamari, Aditya Gangrade, Brian Kulis, Venkatesh Saligrama",6667
+On the consistency of top-k surrogate losses,"Forest Yang, Sanmi Koyejo",6668
+Collapsed Amortized Variational Inference for Switching Nonlinear Dynamical Systems,"Zhe Dong,  Bryan Seybold, Kevin Murphy, Hung Bui",6669
+Boosting Deep Neural Network Efficiency with Dual-Module Inference,"Liu Liu, Lei Deng, Zhaodong Chen, yuke wang, Shuangchen Li, Jingwei Zhang, Yihua Yang, Zhenyu Gu, Yufei Ding, Yuan Xie",6670
+Time-Consistent Self-Supervision for Semi-Supervised Learning,"Tianyi Zhou, Shengjie Wang, Jeff Bilmes",6671
+Selective Dyna-style Planning Under Limited Model Capacity,"Zaheer SM, Samuel Sokota, Erin Talvitie, Martha White",6672
+A Pairwise Fair and Community-preserving Approach to k-Center Clustering,"Brian Brubach, Darshan Chakrabarti, John P Dickerson, Samir Khuller, Aravind Srinivasan, Leonidas Tsepenekas",6673
+How recurrent networks implement contextual processing in sentiment analysis,"Niru Maheswaranathan, David Sussillo",6674
+"Smaller, more accurate regression forests using tree alternating optimization","Arman Zharmagambetov, Miguel Carreira-Perpinan",6675
+Divide and Conquer: Leveraging Intermediate Feature Representations for Quantized Training of Neural Networks,"Ahmed T. Elthakeb, Prannoy Pilligundla, FatemehSadat Mireshghallah, Alexander Cloninger, Hadi Esmaeilzadeh",6676
+From Sets to Multisets: Provable Variational  Inference for Probabilistic Integer Submodular Models,"Aytunc Sahin, Yatao Bian, Joachim Buhmann, Andreas Krause",6677
+Empirical Study of the Benefits of Overparameterization in Learning Latent Variable Models,"Rares-Darius Buhai, Yoni Halpern, Yoon Kim, Andrej Risteski, David Sontag",6678
+Improving the Gating Mechanism of Recurrent Neural Networks,"Albert Gu, Caglar Gulcehre, Thomas Paine, Matthew Hoffman, Razvan Pascanu",6679
+Efficient and Scalable Bayesian Neural Nets with Rank-1 Factors,"Mike Dusenberry, Ghassen Jerfel, Yeming Wen, Yian Ma, Jasper Snoek, Katherine Heller, Balaji Lakshminarayanan, Dustin Tran",6680
+Analyzing the effect of neural network architecture on training performance,"Karthik Abinav Sankararaman, Soham De, Zheng Xu, W. Ronny Huang, Tom Goldstein",6681
+Born-again Tree Ensembles,"Thibaut Vidal, Maximilian Schiffer",6682
+Accountable Off-Policy Evaluation via a Kernelized Bellman Statistics,"Yihao Feng, Tongzheng Ren, Ziyang Tang, Qiang Liu",6683
+Improving Transformer Optimization Through Better Initialization ,"Xiao Shi Huang, Felipe Perez, Jimmy Ba, Maksims Volkovs",6684
+Learning to Simulate and Design for Structural Engineering,"Kai-Hung Chang, Chin-Yi Cheng",6685
+Few-shot Relation Extraction via Bayesian Meta-learning on Task Graphs,"Meng Qu, Tianyu Gao, Louis-Pascal Xhonneux, Jian Tang",6686
+Optimal Differential Privacy Composition for Exponential Mechanisms,"Jinshuo Dong, David Durfee, Ryan Rogers",6687
+Scaling up Hybrid Probabilistic Inference with Logical and Arithmetic Constraints via Message Passing,"Zhe Zeng, Paolo Morettin, Fanqi Yan, Antonio Vergari, Guy Van den Broeck",6688
+Accelerating Large-Scale Inference with Anisotropic Vector Quantization,"Ruiqi Guo, Quan Geng, David Simcha, Felix Chern, Philip Sun, Erik Lindgren, Sanjiv Kumar",6689
+Convolutional dictionary learning based auto-encoders for natural exponential-family distributions,"Bahareh Tolooshams, Andrew Song, Simona Temereanca, Demba Ba",6690
+Strength from Weakness: Fast Learning Using Weak Supervision,"Joshua Robinson, Stefanie Jegelka, Suvrit Sra",6691
+NADS: Neural Architecture Distribution Search for Uncertainty Awareness,"Randy Ardywibowo, Shahin Boluki, Xinyu Gong, Zhangyang Wang, Xiaoning Qian",6692
+Approximating Stacked and Bidirectional Recurrent Architectures with the Delayed Recurrent Neural Network,"Javier Turek, Shailee Jain, Vy Vo, Mihai Capotă, Alexander Huth, Theodore Willke",6693
+Balancing Competing Objectives with Noisy Data: Score-Based Classifiers for Welfare-Aware Machine Learning,"Esther Rolf, Max Simchowitz, Sarah Dean, Lydia T. Liu, Daniel Bjorkegren, University of California Moritz Hardt, Joshua  Blumenstock",6694
+Time-aware Large Kernel Convolutions,"Vasileios Lioutas, Yuhong Guo",6695
+Amortised Learning by Wake-Sleep,"Kevin Wenliang, Theodore Moskovitz, Heishiro Kanagawa, Maneesh Sahani",6696
+Fair Generative Modeling via Weak Supervision,"Kristy Choi, Aditya Grover, Trisha Singh, Rui Shu, Stefano Ermon",6697
+Multi-Step Greedy Reinforcement Learning Algorithms,"Manan Tomar, Yonathan Efroni, Mohammad Ghavamzadeh",6698
+Linear Mode Connectivity and the Lottery Ticket Hypothesis,"Jonathan Frankle, Gintare Karolina Dziugaite, Daniel Roy, Michael Carbin",6699
+Superpolynomial Lower Bounds for Learning One-Layer Neural Networks using Gradient Descent,"Surbhi Goel, Aravind Gollakota, Zhihan Jin, Sushrut Karmalkar, Adam Klivans",6700
+Learnable Group Transform For Time-Series,"Romain Cosentino, Behnaam Aazhang",6701
+Optimistic bounds for multi-output learning,"Henry Reeve, Ata Kaban",6702
+Detecting Out-of-Distribution Examples with Gram Matrices,"Chandramouli Shama Sastry, Sageev Oore",6703
+On Variational Learning of Controllable Representations for Text without Supervision,"Peng Xu, Jackie Chi Kit Cheung, Yanshuai Cao",6704
+Model-Based Reinforcement Learning with Value-Targeted Regression,"Zeyu Jia, Lin Yang, Csaba Szepesvari, Mengdi Wang, Alex Ayoub",6705
+Two Routes to Scalable Credit Assignment without Weight Symmetry,"Daniel Kunin, Aran Nayebi, Javier Sagastuy-Brena, Surya Ganguli, Jon Bloom, Daniel Yamins",6706
+ Predicting deliberative outcomes,"Vikas K Garg, Tommi Jaakkola",6707
+Black-box Certification and Learning under Adversarial Perturbations,"Hassan Ashtiani, Vinayak Pathak, Ruth Urner",6708
+When deep denoising meets iterative phase retrieval,"Yaotian Wang, Xiaohang Sun, Jason Fleischer",6709
+The Neural Tangent Kernel in High Dimensions: Triple Descent and a Multi-Scale Theory of Generalization,"Ben Adlam, Jeffrey Pennington",6710
+A Sequential Self Teaching Approach for Improving Generalization in Sound Event Recognition,"Anurag Kumar, Vamsi Krishna Ithapu",6711
+On the Global Convergence Rates of Softmax Policy Gradient Methods,"Jincheng Mei, Chenjun Xiao, Csaba Szepesvari, Dale Schuurmans",6712
+Source Separation with Deep Generative Priors,"Vivek Jayaram, John Thickstun",6713
+Non-Autoregressive Neural Text-to-Speech,"Kainan Peng, Wei Ping, Zhao Song, Kexin Zhao",6714
+Amortized Population Gibbs Samplers with Neural Sufficient Statistics,"Hao Wu, Heiko Zimmermann, Eli Sennesh, Tuan Anh Le, Jan-Willem van de Meent",6715
+Neural Network Control Policy Verification With Persistent Adversarial Perturbation,"Yuh-Shyang Wang, Lily Weng, Luca Daniel",6716
+Circuit-Based Intrinsic Methods to Detect Overfitting,"Satrajit Chatterjee, Alan Mishchenko",6717
+Inter-domain Deep Gaussian Processes with RKHS Fourier Features,"Tim G. J. Rudner, Dino Sejdinovic, Yarin Gal",6718
+"Estimating Q(s,s') with Deterministic Dynamics Gradients","Ashley Edwards, Himanshu Sahni, Rosanne Liu, Jane Hung, Ankit Jain, Rui Wang, Adrien Ecoffet, Thomas Miconi, Charles Isbell, Jason Yosinski",6719
+On conditional versus marginal bias in multi-armed bandits,"Jaehyeok Shin, Aaditya Ramdas, Alessandro Rinaldo",6720
+Implicit competitive regularization in GANs,"Florian Schaefer, Hongkai Zheng, Anima Anandkumar",6721
+"Graph-based, Self-Supervised Program Repair from Diagnostic Feedback","Michihiro Yasunaga, Percy Liang",6722
+Interpretable Off-Policy Evaluation in Reinforcement Learning by Highlighting Influential Transitions,"Omer Gottesman, Joseph Futoma, Yao Liu, Sonali Parbhoo, Leo Celi, Emma Brunskill, Finale Doshi-Velez",6723
+Communication-Efficient Federated Learning with Sketching,"Daniel Rothchild, Ashwinee Panda, Enayat Ullah, Nikita Ivkin, Vladimir Braverman, Joseph Gonzalez, Ion Stoica, Raman Arora",6724
+Learning Fair Policies in Multi-Objective (Deep) Reinforcement Learning with Average and Discounted Rewards,"Umer Siddique, Paul Weng, Matthieu Zimmer",6725
+Robust Black Box Explanations Under Distribution Shift,"Himabindu Lakkaraju, Nino Arsov, Osbert Bastani",6726
+Distributed Online Optimization over a Heterogeneous Network,"Nima Eshraghi, Ben Liang",6727
+ECLIPSE: An Extreme-Scale Linear Program Solver for Web-Applications,"Kinjal Basu, Amol Ghoting, Rahul Mazumder, Yao Pan",6728
+CURL: Contrastive Unsupervised Representation Learning for Reinforcement Learning,"Michael Laskin, Pieter Abbeel, Aravind Srinivas",6729
+Confidence-Aware Learning for Deep Neural Networks,"Sangheum Hwang, Jooyoung Moon, Jihyo Kim, Younghak Shin",6730
+Online Bayesian Moment Matching based SAT Solver Heuristics,"Haonan Duan, Saeed Nejati, George Trimponias, Pascal Poupart, Vijay Ganesh",6731
+Retro*: Learning Retrosynthetic Planning with Neural Guided A* Search,"Binghong Chen, Chengtao Li, Hanjun Dai, Le Song",6732
+FedBoost: A Communication-Efficient Algorithm for Federated Learning,"Jenny Hamer, Mehryar Mohri, Ananda Theertha Suresh",6733
+Sharp Composition Bounds for Gaussian Differential Privacy via Edgeworth Expansion,"Qinqing Zheng, Jinshuo Dong, Qi Long, Weijie Su",6734
+Fast and Three-rious: Speeding Up Weak Supervision with Triplet Methods,"Dan Fu, Mayee Chen, Fred Sala, Sarah Hooper, Kayvon  Fatahalian, Christopher Re",6736
+Spectral Frank-Wolfe Algorithm: Strict Complementarity and Linear Convergence,"Lijun Ding, Tom Fei, Qiantong Xu, Chengrun Yang",6737
+Deep Molecular Programming: A Natural Implementation of Binary-Weight ReLU Neural Networks,"Marko Vasic, Cameron Chalk, Sarfraz Khurshid, David Soloveichik",6738
+Generative Pretraining From Pixels,"Mark Chen, Alec Radford, Rewon Child, Jeffrey K Wu, Heewoo Jun, David Luan, Ilya Sutskever",6739
+Inferring DQN structure for high-dimensional continuous control,"Andrey Sakryukin, Chedy Raissi, Mohan Kankanhalli",6740
+Subspace Fitting Meets Regression: The Effects of Supervision and  Orthonormality Constraints on Double Descent of Generalization Errors,"Yehuda Dar, Paul Mayer, Lorenzo Luzi, Richard Baraniuk",6741
+Learning Selection Strategies in Buchberger’s Algorithm,"Dylan Peifer, Michael Stillman, Daniel Halpern-Leistner",6742
+Estimating the Error of Randomized Newton Methods: A Bootstrap Approach,"Miles Lopes, Jessie X.T. Chen",6743
+Spectral Subsampling MCMC for Stationary Time Series,"Robert Salomone, Matias Quiroz, Robert kohn, Mattias Villani, Minh-Ngoc Tran",6744
+Progressive Identification of True Labels for Partial-Label Learning,"Jiaqi Lv, Miao Xu, LEI FENG, Gang Niu, Xin Geng, Masashi Sugiyama",6745
+R2-B2: Recursive Reasoning-Based Bayesian Optimization for No-Regret Learning in Games,"Zhongxiang Dai, Yizhou Chen, Bryan Kian Hsiang Low, Patrick Jaillet , Teck-Hua Ho",6746
+Graph Homomorphism Convolution,"Hoang Nguyen, Takanori Maehara",6747
+Conditional Augmentation for Generative Modeling,"Heewoo Jun, Rewon Child, Mark Chen, John Schulman, Aditya Ramesh, Alec Radford, Ilya Sutskever",6748
+PDO-eConvs: Partial Differential Operator Based Equivariant Convolutions,"Zhengyang Shen, Lingshen He, Zhouchen Lin, Jinwen Ma",6749
+Abstraction Mechanisms Predict Generalization in Deep Neural Networks,"Alex Gain, Hava Siegelmann",6750
+Revisiting Fundamentals of Experience Replay,"William Fedus, Prajit Ramachandran, Rishabh Agarwal, Yoshua Bengio, Hugo Larochelle, Mark Rowland, Will Dabney",6751
+"Go Wide, Then Narrow: Efficient Training of Deep Thin Networks","Denny Zhou, Mao Ye, Chen Chen, Mingxing Tan, Tianjian Meng, Xiaodan Song, Quoc Le, Qiang Liu, Dale Schuurmans",6752
+Meta-learning for Mixed Linear Regression,"Weihao Kong, Raghav Somani, Zhao Song, Sham Kakade, Sewoong Oh",6753
+Efficiently Learning Adversarially Robust Halfspaces with Noise,"Omar Montasser, Surbhi Goel, Ilias Diakonikolas, Nati Srebro",6754
+Bayesian Graph Neural Networks with Adaptive Connection Sampling,"Arman Hasanzadeh, Ehsan Hajiramezanali, Shahin Boluki, Nick Duffield, Mingyuan Zhou, Krishna Narayanan, Xiaoning Qian",6755
+On the Theoretical Properties of the Network Jackknife,"Qiaohui Lin, Robert Lunde, Purnamrita Sarkar",6756
+Thompson Sampling via Local Uncertainty,"Zhendong Wang, Mingyuan Zhou",6757
+Decision Trees for Decision-Making under the Predict-then-Optimize Framework,"Adam Elmachtoub, Jason Cheuk Nam Liang, Ryan McNellis",6758
+Representation Learning via Adversarially-Contrastive Optimal Transport,"Anoop Cherian, Shuchin Aeron",6759
+"Neuro-Symbolic Visual Reasoning: Disentangling ""Visual"" from ""Reasoning""","Saeed Amizadeh, Hamid Palangi, Alex Polozov, Yichen Huang, Kazuhito Koishida",6760
+Two Simple Ways to Learn Individual Fairness Metric from Data,"Debarghya Mukherjee, Mikhail Yurochkin, Moulinath Banerjee, Yuekai Sun",6761
+A Simple Framework for Contrastive Learning of Visual Representations,"Ting Chen, Simon Kornblith, Mohammad Norouzi, Geoffrey Hinton",6762
+The Implicit and Explicit Regularization Effects of Dropout,"Colin Wei, Sham Kakade, Tengyu Ma",6763
+Variable-Bitrate Neural Compression via Bayesian Arithmetic Coding,"Yibo Yang, Robert Bamler, Stephan Mandt",6764
+Orthogonalized SGD and Nested Architectures for Anytime Neural Networks,"Chengcheng Wan, Henry (Hank) Hoffmann, Shan Lu, Michael Maire",6765
+Evaluating Machine Accuracy on ImageNet,"Vaishaal Shankar, Rebecca Roelofs, Horia Mania, Alex Fang, Benjamin Recht, Ludwig Schmidt",6766
+Learning to Navigate in Synthetically Accessible Chemical Space Using Reinforcement Learning,"Sai Krishna Gottipati, Boris Sattarov, Sufeng Niu, Haoran Wei, Yashaswi Pathak, Shengchao Liu, Shengchao Liu, Simon Blackburn, Karam Thomas, Connor Coley, Jian Tang, Sarath Chandar, Yoshua Bengio",6767
+Improved Bounds on Minimax Regret under Logarithmic Loss via Self-Concordance,"Blair Bilodeau, Dylan Foster, Daniel Roy",6768
+Optimization Theory for ReLU Neural Networks Trained with Normalization Layers,"Yonatan Dukler, Quanquan Gu, Guido Montufar",6769
+Improving Molecular Design by Stochastic Iterative Target Augmentation,"Kevin Yang, Wengong Jin, Kyle Swanson, Regina Barzilay, Tommi Jaakkola",6770
+Don't Waste Your Bits! Squeeze Activations and Gradients for Deep Neural Networks via TinyScript,"Fangcheng Fu, Yuzheng Hu, Yihan He, Jiawei Jiang, Yingxia Shao, Ce Zhang, Bin Cui",6771
+Robust One-Bit Recovery via ReLU Generative Networks: Near-Optimal Statistical Rate and Global Landscape Analysis,"Shuang Qiu, Xiaohan Wei, Zhuoran Yang",6772
+Multi-objective Bayesian Optimization using Pareto-frontier Entropy,"Shinya Suzuki, Shion Takeno, Tomoyuki Tamura, Kazuki Shitara, Masayuki Karasuyama",6773
+Closing the convergence gap of SGD without replacement,"Shashank Rajput, Anant Gupta, Dimitris Papailiopoulos",6774
+Black-Box Methods for Restoring Monotonicity,"Evangelia Gergatsouli, Brendan Lucier, Christos Tzamos",6775
+Flexible and Efficient Long-Range Planning Through Curious Exploration,"Aidan Curtis, Minjian Xin, Dilip Arumugam, Kevin Feigelis, Daniel Yamins",6776
+Sparse Convex Optimization via Adaptively Regularized Hard Thresholding,"Kyriakos Axiotis, Maxim Sviridenko",6777
+On Thompson Sampling with Langevin Algorithms,"Eric Mazumdar, Aldo Pacchiano, Yian Ma, Michael Jordan, Peter Bartlett",6778
+Strategic Classification is Causal Modeling in Disguise,"John Miller, Smitha Milli, University of California Moritz Hardt",6779
+Multi-fidelity Bayesian Optimization with Max-value Entropy Search and its Parallelization,"Shion Takeno, Hitoshi Fukuoka, Yuhki Tsukada, Toshiyuki Koyama, Motoki Shiga, Ichiro Takeuchi, Masayuki Karasuyama",6780
+Domain Aggregation Networks for Multi-Source Domain Adaptation,"Junfeng Wen, Russell Greiner, Dale Schuurmans",6781
+Improving Robustness of Deep-Learning-Based Image Reconstruction,"Ankit Raj, Yoram Bresler, Bo Li",6782
+Outsourced Bayesian Optimization,"Dmitrii Kharkovskii, Zhongxiang Dai, Bryan Kian Hsiang Low",6783
+Learning Near Optimal Policies with Low Inherent Bellman Error,"Andrea Zanette, Alessandro Lazaric, Mykel Kochenderfer, Emma Brunskill",6784
+Message Passing Least Squares: A Unified Framework for Fast and Robust Group Synchronization,"Yunpeng Shi, Gilad Lerman",6785
+Optimal Estimator for Unlabeled Linear Regression,"Hang Zhang, Ping Li",6786
+Recovery of sparse signals from a mixture of linear samples,"Arya Mazumdar, Soumyabrata Pal",6787
+Recurrent Hierarchical Topic-Guided RNN for Language Generation,"Dandan Guo, Bo Chen, Ruiying Lu, Mingyuan Zhou",6788
+Predictive Coding for Locally-Linear Control,"Rui Shu, Tung Nguyen, Yinlam Chow, Tuan Pham, Khoat Than, Mohammad Ghavamzadeh, Stefano Ermon, Hung Bui",6789
+Near Input Sparsity Time Kernel Embeddings via Adaptive Sampling,"Amir Zandieh, David Woodruff",6790
+Near-optimal sample complexity bounds for learning Latent $k-$polytopes and applications to Ad-Mixtures,"Chiru Bhattacharyya, Ravindran Kannan",6791
+Population-Based Black-Box Optimization for Biological Sequence Design,"Christof Angermueller, David Belanger, Andreea Gane, Zelda Mariet, David Dohan, Kevin Murphy, Lucy Colwell , D. Sculley",6792
+Emergence of Separable Manifolds in Deep Language Representations,"Jonathan Mamou, Hang Le, Miguel A del Rio Fernandez, Cory Stephenson, Hanlin Tang, Yoon Kim, SueYeon Chung",6793
+Stochastic Hamiltonian Gradient Methods for Smooth Games,"Nicolas Loizou, Hugo Berard, Alexia Jolicoeur-Martineau, Pascal Vincent, Simon Lacoste-Julien, Ioannis Mitliagkas",6794
+Understanding and Estimating the Adaptability of Domain-Invariant Representations,"Ching-Yao Chuang, Antonio Torralba, Stefanie Jegelka",6795
+Adversarial Mutual Information for Text Generation,"Boyuan Pan, Yazheng Yang, Kaizhao Liang, Bhavya Kailkhura, Zhongming Jin, Xian-Sheng Hua, Deng Cai, Bo Li",6796
+Bidirectional Model-based Policy Optimization,"Hang Lai, Jian Shen, Weinan Zhang, Yong Yu",6797
+Input-Sparsity Low Rank Approximation in Schatten Norm,"Yi Li, David Woodruff",6798
+Do We Need Zero Training Loss After Achieving Zero Training Error?,"Takashi Ishida, Ikko Yamane, Tomoya Sakai, Gang Niu, Masashi Sugiyama",6799
+Learning and sampling of atomic interventions from observations,"Arnab Bhattacharyya, Sutanu Gayen, Saravanan Kandasamy, Ashwin Maran, Vinodchandran N. Variyam",6800
+Understanding and Mitigating the Tradeoff between Robustness and Accuracy,"Aditi Raghunathan, Sang Michael Xie, Fanny Yang, John Duchi, Percy Liang",6801
+Combining Differentiable PDE Solvers and Graph Neural Networks for Fluid Flow Prediction,"Filipe de Avila Belbute-Peres, Thomas Economon, Zico Kolter",6802
+From ImageNet to Image Classification: Contextualizing Progress on Benchmarks,"Dimitris Tsipras, Shibani Santurkar, Logan Engstrom, Andrew Ilyas, Aleksander Madry",6803
+On Implicit Regularization in $\beta$-VAEs,"Abhishek Kumar, Ben Poole",6804
+Data Amplification: Instance-Optimal Property Estimation ,"Yi Hao, Alon Orlitsky",6805
+Provable guarantees for decision tree induction: the agnostic setting ,"Guy Blanc, Jane Lange, Li-Yang Tan",6806
+Statistical Bias in Dataset Replication,"Logan Engstrom, Andrew Ilyas, Shibani Santurkar, Dimitris Tsipras, Jacob Steinhardt, Aleksander Madry",6807
+Towards Adaptive Residual Network Training: A Neural-ODE Perspective,"chengyu dong, Liyuan Liu, Zichao Li, Jingbo Shang",6808
+Overparameterization hurts worst-group accuracy with spurious correlations,"Shiori Sagawa, aditi raghunathan, Pang Wei Koh, Percy Liang",6809
+A Nearly-Linear Time Algorithm for Exact Community Recovery in Stochastic Block Model,"Peng Wang, Zirui Zhou, Anthony Man-Cho So",6810
+Online Multi-Kernel Learning with Graph-Structured Feedback,"Pouya M Ghari, Yanning Shen",6811
+Is Local SGD Better than Minibatch SGD?,"Blake Woodworth, Kumar Kshitij Patel, Sebastian Stich, Zhen Dai, Brian Bullins, Brendan McMahan, Ohad Shamir, Nati Srebro",6812
+On Lp-norm Robustness of Ensemble Decision Stumps and Trees,"Yihan Wang, Huan Zhang, Hongge Chen, Duane Boning, Cho-Jui Hsieh",6813
+Sub-linear Memory Sketches for Near Neighbor Search on Streaming Data with RACE,"Benjamin Coleman, Anshumali Shrivastava, Richard Baraniuk",6814
+Understanding Self-Training for Gradual Domain Adaptation,"Ananya Kumar, Tengyu Ma, Percy Liang",6815
+Concept Bottleneck Models,"Pang Wei Koh, Thao Nguyen, Yew Siang Tang, Steve Mussmann, Emma Pierson, Been Kim, Percy Liang",6816
+Optimal Bounds between f-Divergences and Integral Probability Metrics,"Rohit Agrawal, Thibaut Horel",6817
+Robustness to Spurious Correlations via Human Annotations,"Megha Srivastava, Tatsunori Hashimoto, Percy Liang",6818
+DROCC: Deep Robust One-Class Classification,"Sachin Goyal, Aditi Raghunathan, Moksh Jain, Harsha Vardhan Simhadri, Prateek Jain",6819
+Efficiently Solving MDPs with Stochastic Mirror Descent,"Yujia Jin, Aaron Sidford",6820
+Handling the Positive-Definite Constraint in the Bayesian Learning Rule,"Wu Lin, Mark Schmidt, Emti Khan",6821
+A simpler approach to accelerated optimization: iterative averaging meets optimism,"Pooria Joulani, Anant Raj, András György, Csaba Szepesvari",6822
+Training Binary Neural Networks using the Bayesian Learning Rule,"Xiangming Meng, Roman Bachmann, Emti Khan",6823
+High-dimensional Robust Mean Estimation via Gradient Descent,"Yu Cheng, Ilias Diakonikolas, Rong Ge, Mahdi Soltanolkotabi",6824
+From Chaos to Order: Symmetry and Conservation Laws in Game Dynamics,"Sai Ganesh Nagarajan, David Balduzzi, Georgios Piliouras",6825
+Hierarchically Decoupled Morphological Transfer,"Donald Hejna, Lerrel Pinto, Pieter Abbeel",6826
+Puzzle Mix: Exploiting Saliency and Local Statistics for Optimal Mixup,"Jang-Hyun Kim, Wonho Choo, Hyun Oh Song",6827
+"Train Big, Then Compress: Rethinking Model Size for Efficient Training and Inference of Transformers","Zhuohan Li, Eric Wallace, Sheng Shen, Kevin Lin, Kurt Keutzer, Dan Klein, Joseph E. Gonzalez",6828
+Interpolation between CNNs and ResNets,"Zonghan Yang, Yang Liu, Chenglong Bao, Zuoqiang Shi",6829
+Online metric algorithms with untrusted predictions,"Antonios Antoniadis, Christian Coester, Marek Elias, Adam Polak, Bertrand Simon",6830
+Collaborative Machine Learning with Incentive-Aware Model Rewards,"Rachael Hwee Ling Sim, Yehong Zhang, Bryan Kian Hsiang Low, Mun Choon Chan",6831
+On Convergence-Diagnostic based Step Sizes for Stochastic Gradient Descent,"Scott Pesme, Aymeric Dieuleveut, Nicolas Flammarion",6832
+The Performance Analysis of Generalized Margin Maximizers on Separable Data,"Fariborz Salehi, Ehsan Abbasi, Babak Hassibi",6833
+Equivariant Flows: exact likelihood generative learning for symmetric densities.,"Jonas Köhler, Leon Klein, Frank Noe",6834
+PoWER-BERT: Accelerating BERT Inference via Progressive Word-vector Elimination,"Saurabh Goyal, Anamitra Roy Choudhury, Venkatesan Chakaravarthy, Saurabh Raje, Yogish Sabharwal, Ashish Verma",6835
+Bayesian Sparsification of Deep C-valued Networks,"Ivan Nazarov, Evgeny Burnaev",6836
+Minimally distorted Adversarial Examples with a Fast Adaptive Boundary Attack,"Francesco Croce, Matthias Hein",6837
+A distributional view on multi objective policy optimization,"Abbas Abdolmaleki, Sandy Huang, Leonard Hasenclever, Michael Neunert, Martina Zambelli, Murilo Martins, Francis Song, Nicolas Heess, Raia Hadsell, Martin Riedmiller",6838
+On the Sample Complexity of Adversarial Multi-Source PAC Learning,"Nikola Konstantinov, Elias Frantar, Dan Alistarh, Christoph H. Lampert",6839
+Inducing and Exploiting Activation Sparsity for Fast Inference on Deep Neural Networks,"Mark Kurtz, Justin Kopinsky, Rati Gelashvili, Alexander Matveev, John Carr, Michael Goin, William Leiserson, Sage Moore, Nir Shavit, Dan Alistarh",6840
+Constructive universal distribution generation through deep ReLU networks,"Dmytro Perekrestenko, Stephan Müller, Helmut Bölcskei",6841
+Reliable evaluation of adversarial robustness with an ensemble of diverse parameter-free attacks,"Francesco Croce, Matthias Hein",6842
+Multiclass Neural Network Minimization via Tropical Newton Polytope Approximation,"Georgios Smyrnis, Petros Maragos",6843
+Finding trainable sparse networks through Neural Tangent Transfer ,"Tianlin Liu, Friedemann Zenke",6844
+Towards a General Theory of Infinite-Width Limits of Neural Classifiers,Eugene Golikov,6845
+Controlling Overestimation Bias with Truncated Mixture of Continuous Distributional Quantile Critics,"Arsenii Kuznetsov, Pavel Shvechikov, Alexander Grishin, Dmitry Vetrov",6846
+Learning to Learn Kernels with Variational Random Features,"Xiantong Zhen, Haoliang Sun, Yingjun Du, Jun Xu, Yilong Yin, Ling Shao, Cees Snoek",6847
+"Efficient Robustness Certificates for Discrete Data: Sparsity-Aware Randomized Smoothing for Graphs, Images and More","Aleksandar Bojchevski, Johannes Klicpera, Stephan Günnemann",6848
+Learning to Simulate Complex Physics with Graph Networks,"Alvaro Sanchez, Jonathan Godwin, Tobias Pfaff, Zhitao Ying, Jure Leskovec, Peter Battaglia",6849
+"Small Data, Big Decisions: Model Selection in the Small-Data Regime","Jorg Bornschein, Francesco Visin, Simon Osindero",6850
+PolyGen: An Autoregressive Generative Model of 3D Meshes,"Charlie Nash, Yaroslav Ganin, S. M. Ali Eslami, Peter Battaglia",6851
+XtarNet: Learning to Extract Task-Adaptive Representation for Incremental Few-Shot Learning,"Sung Whan Yoon, Jun Seo, Doyeon Kim, Jaekyun Moon",6852

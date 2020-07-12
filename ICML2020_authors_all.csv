@@ -1,0 +1,1902 @@
+Author,Affiliation
+David Rolnick,"NSF Postdoctoral Fellow, University of Pennsylvania"
+Konrad Kording,"University Professor (PIK), bioengineering and neuroscience, UPenn"
+Ilai Bistritz,Stanford University
+Amir Leshem,Bar-Ilan University
+Junbang Liang,"Ph. D. student of Computer Science, University of Maryland, College Park"
+Vladlen Koltun,"Chief Scientist for Intelligent Systems, Intel"
+Ming Lin,"Elizabeth Stevinson Iribe Chair Professor, University of Maryland at College Park"
+Ayush Jain,"Texas A&M University, Indian Institute of Technology Kanpur"
+Joseph Lim,Assistant Professor at University of Southern California
+Celestine Mendler-Dünner,"University of California, Berkeley"
+Aurelien Lucchi,ETH Zurich
+Krzysztof Choromanski,Google Brain Robotics New York & Columbia University
+Valerii Likhosherstov,"Student, Skoltech"
+Achraf Bahamou,"Ph.D Student in IEOR, Columbia University"
+Xingyou Song,Google Brain
+Jack Parker-Holder,"DPhil Student, University of Oxford"
+Jacob Bergquist,"Graduate Student, University of Utah"
+YUAN GAO,"PHD student in Electronics Engineering, University of Bristol"
+Aldo Pacchiano,UC Berkeley
+Tamas Sarlos,Google
+Adrian Weller,"Principal Research Fellow, Machine Learning, University of Cambridge"
+Vikas Sindhwani,Google Brain
+Ankit Goyal,"Mansinhbhai Institute of Dairy and Food Technology, Mehsana"
+Jia Deng,Princeton University
+Aditya Kusupati,University of Washington
+Vivek Ramanujan,Allen Institute for Artificial Intelligence
+Raghav Somani,University of Washington
+Mitchell Wortsman,University of Washington
+Prateek Jain,ADINA Institute of Pharmaceutical Sciences
+Sham Kakade,University of Washington
+Ali Farhadi,"Associate Professor, Computer Science and Engineering, University of Washington"
+Jean-Yves Franceschi,"Sorbonne Université, LIP6"
+Edouard Delasalles,"Sorbonne Université, LIP6"
+Mickael Chen,"National Chung Cheng University, Taiwan"
+Sylvain Lamprier,nan
+Patrick Gallinari,Professor Sorbonne University / Criteo AI Lab
+Umut Simsekli,"Visiting Faculty @ University of Oxford, Associate Professor @ Télécom ParisTech"
+Lingjiong Zhu,Florida State University
+Yee Whye Teh,"Professor of Statistical Machine Learning, Oxford, Research Scientist, DeepMind"
+Mert Gurbuzbalaban,Rutgers University
+Jayadev Acharya,"Assistant Professor, Cornell University"
+Peter Kairouz,"Research Scientist, Google"
+Daniel  Ramage,Google Research
+Ziteng Sun,Ph.D Student at Cornell University
+Gautam Kamath,"Assistant Professor, University of Waterloo"
+Janardhan Kulkarni,"Microsoft  Research, Redmond"
+Steven Wu,Stevens Institute of Technology
+Huanyu Zhang,Meituan-Dianping Group
+Yiping Lu,Dalian University of Technology
+Chao Ma,"Assistant Professor, Shanghai Jiao Tong University"
+Yulong Lu,Duke University
+Jianfeng Lu,"Department of Mathematics, Department of Chemistry and Department of Physics, Duke …"
+Lexing Ying,"Professor of Mathematics, Stanford University"
+Amit Dhurandhar,"RSM, IBM"
+Karthikeyan Shanmugam,"Research Staff Member, IBM Research"
+Ronny Luss,IBM Research
+Omer Ben-Porat,"PhD student, Technion Israel Institute of Technology"
+Kevin Leyton-Brown,"Professor of Computer Science, University of British Columbia; Canada CIFAR AI Chair …"
+Moshe Tennenholtz,nan
+Lantao Yu,"Ph.D. Student, Computer Science Department, Stanford University"
+Yang Song,"Department of Atmosphere Sciences, Sun Yat-sen University"
+Jiaming Song,Stanford University
+Stefano Ermon,"PhD Candidate, Cornell University"
+Yadan Luo,"PhD candidate, University of Queensland"
+Zijian Wang,"Professor of Environmental Science, Chinese Academy of Sciences"
+Zi Huang,University of Queensland
+Mahsa Baktashmotlagh,University of Queensland
+Hyojin Bahng,Massachusetts Institute of Technology
+SANGHYUK CHUN,"Associate Professor, University of Houston"
+Sangdoo Yun,"Clova AI Research, NAVER Corp."
+Jaegul Choo,"Associate Professor, Graduate School of Artificial Intelligence, KAIST"
+Seong Joon Oh,NAVER Clova AI Research
+Sankalp Garg,Indian Institute of Technology Delhi
+Aniket Bajpai,"Visiting Student, MIT"
+Mausam ,"Professor of Computer Science & Engineering, Indian Institute of Technology Delhi"
+Inseop Chung,"Seoul National Univeristy, Graduate School of Convergence Science and Technology"
+Kim Jangho,"Professor of Civil and Environmental Engineering, Yonsei University"
+NOJUN KWAK,"Professor, Department of Intelligence and Information, Seoul National University"
+Zhizhong Han,"University of Maryland, College Park, Department of Computer Science"
+Chao Chen,chang gung
+Yushen Liu,"Associate Vice President for Research, California State University, Fullerton"
+Matthias Zwicker,"Professor of Computer Science, University of Maryland, College Park"
+Peisong Wang,CASIA
+Qiang Chen,Tsinghua University
+Xiangyu He,长沙理工大学
+Jian Cheng,University of North Carolina
+Pan Zhou,"Associate Professor, Huazhong University and Science and Technology"
+Xiao-Tong Yuan,Nanjing University of Information Science and Technology
+Alexey Drutsa,"Yandex, Lomonosov Moscow State University"
+Chi Jin,"Assistant Professor, Princeton University"
+Michael Jordan,"Professor of EECS and Professor of Statistics, University of California, Berkeley"
+Kai Han,University of Michigan
+Yunhe Wang,"Principal Researcher, Huawei Noah's Ark Lab"
+Yixing Xu,Intellectual Ventures; Texas A&M University
+Chang Xu,河南理工大学土木工程学院
+GEOFFREY Negiar,"PhD student, UC Berkeley"
+Gideon Dresdner,ETH Zürich
+Laurent El Ghaoui,"UC Berkeley (EECS, IEOR)"
+Francesco Locatello,"PhD student, ETH Zürich, Max Planck Institute for Intelligent Systems"
+Fabian Pedregosa,Google
+Jiashi Feng,National University of Singapore
+Damien Scieur,Samsung - SAIL Montréal
+Jiaxuan You,"CS PhD candidate, Stanford University"
+Kaiming He,"Research Scientist, Facebook AI Research (FAIR)"
+Jure Leskovec,"Professor of Computer Science, Stanford University"
+Saining Xie,"Research Scientist, Facebook AI Research (FAIR)"
+Jeremias Knoblauch,"Doctoral Researcher, Oxford-Warwick Stats Programme, University of Warwick & Alan …"
+Hisham Husain,Full professor of general and pediatric surgery
+Tom Diethe,Amazon; University of Bristol
+Shengpu Tang,"University of Michigan, Ann Arbor"
+Aditya Modi,"PhD Student, University of Michigan"
+Michael Sjoding,University of Michigan
+Jenna Wiens,University of Michigan
+Ying Jin,"Ying Wu College of Computing, NJIT"
+Zhaoran Wang,Assistant Professor at Northwestern University
+Junwei Lu,"Professor of Engineering, Griffith University"
+Huan Xiong,Sichuan University
+Lei Huang,Tsinghua University
+Mengyang Yu,Inception Institute of Artificial Intelligence
+Li Liu,"Professor of Social Psychology, Beijing Normal University"
+Fan Zhu,National Cheng Kung University
+Ling Shao,"CEO & Chief Scientist, Inception Institute of Artificial Intelligence (IIAI); EVP & Provost …"
+Zhen Wang,"Ruhr-Universität Bochum, UCAS"
+Liu Liu,Indiana University
+Dacheng Tao,The University of Sydney
+Jiawei Huang,University of Virginia
+Nan Jiang,Brigham and Women's Hospital
+Xiaobo Wang,"Writing Center Director, Emory University, Oxford College"
+Shuo Wang,"Graduate student, Shanghai Normal University"
+Shifeng Zhang,beijing forestry university
+Cheng Chi,"National Chi Nan University, Taiwan"
+Tao Mei,"Cloud & AI, JD.COM"
+Yong Guo,National Chung Cheng University
+Yin Zheng,Peking University
+Peilin Zhao,Tencent
+Jian Chen,"Associate Professor of Institute of Electronics, Chinese Academy of Sciences"
+Junzhou Huang,Associate Professor of Computer Science and Engineering at University of Texas at …
+Mingkui Tan,South China University of Technology
+Maria Gorinova,University of Edinburgh
+Dave Moore,"Professor of Molecular and Cellular Biology, Baylor College of Medicine"
+Matt Hoffman,"Research Scientist, Google Research"
+Abhimanyu Dubey,Massachusetts Institute of Technology
+Alex `Sandy' Pentland,Professor MIT
+Hanrui Zhang,Columbia University Irving Medical Center
+Vincent Conitzer,Duke University
+Utku Evci,Research Engineer @Google Brain
+Trevor Gale,University of Glasgow
+Jacob Menick,Google
+Pablo Samuel Castro,Google
+Erich Elsen,Google AI
+Florence Regol,Mcgill University
+Soumyasundar Pal,"PhD student, McGill University"
+Yingxue Zhang,"Huawei Noah's Ark Lab, McGill University"
+Mark Coates,"Professor of Electrical Engineering, McGill University"
+Juan Perdomo,Senior Research Associate
+University of California Moritz Hardt,"University of California, Berkeley"
+Yunchang Yang,Peking University
+Di He,"Professor, Institute of Environmental and Ecological Engineering, Guangdong University of …"
+Kai Zheng,"Chief Architect, Protocol & Networking Research, Huawei Technologies"
+Shuxin Zheng,Microsoft
+Chen Xing,"Merck & Co. Inc., Kenilworth, NJ, USA"
+Huishuai Zhang,Microsoft Research Asia
+Yanyan Lan,Chinese Academy of Sciences
+Liwei Wang,Peking University
+Tie-Yan Liu,"Assistant Managing Director, Microsoft Research Asia; IEEE Fellow, ACM Distinguished …"
+Mukund Sundararajan,Google
+Amir Najmi,Google Inc
+Daoli Zhu,"Professor, Shanghai Jiaotong University"
+Lei Zhao,复旦大学物理系
+Giuseppe Vietri,"Graduate Student, University of Minnesota"
+Mark Bun,"Assistant Professor, Boston University"
+Thomas Steinke,Zuse Institute Berlin
+Grace Tian,Harvard College '22
+Seth Neel,Assistant Professor at Harvard
+Aaron Roth,"Professor of Computer Science, University of Pennsylvania"
+Yi-Hsuan Wu,ETH Zurich
+Mingjie Li,"Department of Applied Physics, Hong Kong Polytechnic University"
+Lingshen He,peking university
+Zhouchen Lin,"Professor, Peking University; Fellow of IEEE & IAPR"
+Zixin Zhong,"Ph.D candidate of Math department, National University of Singapore"
+Wang Chi Cheung,Chung Yuan Christian University
+Vincent Tan,National University of Singapore
+Yuhao Zhang,"Assistant Professor, CPES, Virginia Tech"
+Aws Albarghouthi,University of Wisconsin–Madison
+Loris D'Antoni,"University of Wisconsin, Madison"
+Yoel Drori,Google Inc.
+Ohad Shamir,Weizmann Institute of Science
+Zhaoqiang Liu,"Research Fellow in SoC, NUS"
+Selwyn Gomes,"Research Assistant, National University of Singapore"
+Avtansh Tiwari,IIT Kanpur
+Jonathan Scarlett,"Assistant Professor of Computer Science and Mathematics, National University of Singapore"
+Chen Dan,… of Computer Information and Network Engineering Lunghwa University of Science and
+Justin Khim,"Assistant Professor of Psychology, Sungkyunkwan University"
+Pradeep Ravikumar,"Associate Professor, School of Computer Science, Carnegie Mellon University"
+Yanxi Li,Virginia Tech
+Minjing Dong,Professor of China University of Mining and Technology
+Bingcong Li,University of Minnesota
+Lingda Wang,"Professor/Director, Center for Genomics, Loma Linda University"
+Georgios B. Giannakis,"Endowed Chair Prof., Dept. of ECE and DTC, University of Minnesota"
+Liu Leqi,"Ph.D. Student, Machine Learning Department, School of Computer Science, Carnegie …"
+Adarsh Prasad,Technische Universität Wien
+Jungo Kasai,University of Washington
+James Cross,University of Calgary
+Marjan Ghazvininejad,"Research Scientist, FAIR (Facebook AI Research)"
+Jiatao Gu,"Research Scientist, Facebook AI Research"
+Ying Huang,Chair Professor @ National Taiwan University of Science and Technology
+Wenwei Zhang,Chung Shan Medical University
+Xianghui Luo,nan
+Jinzhuo Wang,University of Oxford
+David Simchi-Levi,Professor of Engineering Systems at MIT
+Ruihao Zhu,MIT
+Aadirupa Saha,"PhD student, Indian Institute of Science (IISc), Bangalore"
+Pierre Gaillard,CNRS
+Michal Valko,"DeepMind, Paris & Inria, SCOOL & ENS, MVA"
+Aditya Gopalan,"Indian Institute of Science, Bangalore"
+Ferjad Naeem,"Graduate Student, Technische Universität München"
+Yunjey Choi,"Clova AI Research, NAVER Corp."
+Youngjung Uh,"Clova AI Research, NAVER"
+Jaejun Yoo,"Postdoctoral researcher,  Laboratoire d'imagerie biomédicale (LIB), EPFL"
+Xiangyu Xu,Carnegie Mellon University
+Yongrui Ma,"researcher of cv, sensetime research"
+Wenxiu Sun,The Hong Kong University of Science and Technology
+Joeri Hermans,University of Liège
+Volodimir Begy,"Doctoral Student, University of Vienna"
+Jingfeng Zhang,IIASA
+Bo Han,Aalborg University
+Gang Niu,National Institutes of Health
+Lizhen Cui,Shandong University
+Masashi Sugiyama,"Director, RIKEN Center for Advanced Intelligence Project / Professor, The University of …"
+Mohan Kankanhalli,"Professor of Computer Science, National University of Singapore"
+Shangtong Zhang,University of Oxford
+Bo Liu,Research assistant in Center for Photonics Technology of Virginia Tech.
+Shimon Whiteson,"Professor of Computer Science, University of Oxford"
+Hengshuai Yao,Huawei
+Raphaël Dang-Nhu,ETH Zürich
+Gagandeep Singh,"Professor of Surgery, City of Hope"
+Pavol Bielik,ETH Zurich
+Martin Vechev,"Professor of Computer Science, ETH Zurich"
+Baifeng Shi,"Undergraduate, Peking University"
+Dinghuai Zhang,Peking University
+Qi Dai,"Professor, Department of Medicine, Vanderbilt University Medical Center"
+Jingdong Wang,Microsoft Research
+Zhanxing Zhu,"Assistant Professor, Peking University"
+Yadong Mu,Peking University
+Wenhui Yu,"Ph.D, Nanyang Technological University"
+Zheng Qin,Chong Qing Obstetric and Gynecology Hospital
+Sebastian Prillo,"PhD student, University of California, Berkeley"
+Julian M Eisenschlos,"AI Resident, Google"
+Michael Lohaus,University of Tübingen
+Michaël Perrot,Invensense
+Ulrike von Luxburg,University of Tübingen
+Alexander Bogatskiy,"Department of Fine Organic Synthesis, AV Bogatsky Physico-Chemical Institute, National …"
+Brandon Anderson,University of Stockholm
+David Miller,"James Irvin Miller Professor of Accounting, Stanford Graduate School of Business"
+Risi Kondor,"Associate Professor, The University of Chicago"
+Yue Sheng,"Department of Pharmacology & Therapeutics, Roswell Park Cancer Institute"
+Edgar Dobriban,"Assistant Professor of Statistics, University of Pennsylvania"
+Lan N. Nguyen,Student
+My T. Thai,"Professor, University of Florida"
+Voot Tangkaratt,"Postdoc researcher @ RIKEN AIP, Japan."
+Xin Su,Shanghai University
+Yizhou Jiang,University of Pennsylvania
+Feng Chen,Fung Yiu King - Wing Hang Bank Professor in Business Administration and Chair Professor …
+Jay Heo,Yonsei University College of Medicine
+Junhyeon Park,"University of Maryland, College Park"
+Hyewon Jeong,Chungbuk National University College of Medicine
+Kwang Joon Kim,"Yonsei University College of Medicine, Severance Hospital"
+Juho Lee,Samsung Electronics
+Sung Ju Hwang,Yonsei University
+Wenqi Shao,"PhD Student of Electronic Engeenring, The Chinese University of Hong Kong"
+Shitao Tang,simon fraser univeristy
+Xingang Pan,The Chinese University of Hong Kong
+Ping Tan,"Professor, Institute of Semiconductors, Chinese Academy of Sciences"
+Xiaogang Wang,"Associate Professor of Electronic Engineering, the Chinese University of Hong Kong"
+Ping Luo,"Assistant Professor, The University of Hong Kong"
+Michael Moor,"Michael Smith Genome Sciences Centre, BC Cancer"
+Max Horn,Fritz Haber Institut Max Planck Gesellschaft
+Bastian Rieck,"Machine Learning & Computational Biology Lab, D-BSSE, ETH Zürich"
+Karsten Borgwardt,Professor of Machine Learning in the Life Sciences at ETH Zurich
+Yuwen Chen,"Professor of Chemical Engineering, National Central University"
+Kedar Dhamdhere,Google
+Ashish Agarwal,Google
+Rachel Cummings,Georgia Institute of Technology
+Yuliia Lut,"Ph. D. student, Georgia Institute of Technology"
+Wanrong Zhang,Georgia Institute of Technology
+Wei Zhang,The Comprehensive Cancer Center of Wake Forest Baptist Medical Center
+Thomas  Panum,Aalborg University
+Somesh Jha,"Lubar Chair of Computer Science, University of Wisconsin"
+PRASAD Chalasani,"SVP, Data Science, MediaMath"
+David Page,"Director, Whitehead Institute"
+Pingchuan Ma,Imperial College London
+Tao Du,"Laboratory of Mathematics, INSA-Rouen, Normandie, 76801 Saint-Étienne-du-Rouvray …"
+Wojciech Matusik,MIT
+Wei Ping,"School of Information Science and Engineering, Central South University"
+Kainan Peng,Amazon
+Kexin Zhao,University of Hong Kong
+Zhao Song,"The University of Queensland, Qingdao University"
+Yaodong Yang,Xi'an jiaotong university
+Ying Wen,"Chemistry and Biochemistry, Northern Illinois University"
+Jun Wang,BGI
+Liheng Chen,"Department of Biomedical Engineering, Jinan University, Guangzhou, China"
+Kun Shao,Dalian University of Technology
+Weinan Zhang,"Associate Professor, Shanghai Jiao Tong University"
+Gamaleldin Elsayed,"Research Scientist, Google Research, Brain Team"
+Prajit Ramachandran,Google Brain
+Jon Shlens,Google Research
+Simon Kornblith,Google Brain
+Masatoshi Uehara,Harvard University
+Chanwoo Lee,"Assistant Professor, Department of Applied Chemistry, Kookmin University"
+Siddharth Reddy,nan
+Anca Dragan,UC Berkeley
+Sergey Levine,"UC Berkeley, Google"
+Jan Leike,Senior Research Scientist at DeepMind
+Yuta Saito,"Senior Researcher, National Institute of Advanced Industrial Science and Technology"
+Shota Yasui,"CyberAgent, inc."
+Rundong Wang,"Ph.D. student of Computer Science, Nanyang Technological University"
+Xu He,"Professor of Structure Biology, Van Andel Research Institute, VARI-SIMM Center, Shanghai …"
+Wei Qiu,"Department of Electrical and Computer Engineering, National University of Singapore"
+Bo An,Physics and Astronomy Department University of Bologna
+Zinovi Rabinovich,Nanyang Technological University
+XICHUAN ZHOU,Sichuan University
+Fengbo Ren,"Assistant Professor, Arizona State University"
+Cong Shi,"School of Computer Science, Georgia Institute of Technology"
+Xingrui Yu,Ph.D Student @ University of Technology Sydney (UTS)
+QUANMING YAO,"Senior Scientist & Research Head, 4Paradigm"
+Miao Xu,"University of Utah, Fudan University"
+Ivor Tsang,"Research Director & Professor of AI, Centre for AI, University of Technology Sydney"
+Kefan Dong,Tsinghua University
+Yingkai Li,Northwestern University
+Qin Zhang,Chong Qing Obstetric and Gynecology Hospital
+Yuan Zhou,"Zhou Pei-Yuan Center for Applied Mathematics, Tsinghua University"
+Di Chen,Fondazione Istituto Italiano di Tecnologia
+Wenting Zhao,"Nanyang Technological University, Stanford University, HKUST"
+Sebastian Ament,"PhD Student, Cornell University"
+John Gregoire,nan
+Carla Gomes,Universidade Federal de Pernambuco
+John Alberg,"Professor of Genetics, Albert Einstein College of Medicine"
+Zachary Lipton,Assistant Professor of Operations Research & Machine Learning at CMU
+Mohit Singh,stealth start-up
+Alfredo Torrico,"Postdoc, Polytechnique Montreal"
+Allen Wang,MD Anderson Cancer Center
+Yaoliang Yu,University of Waterloo
+Somdeb Majumdar,Intel Corp
+Stephen Mcaleer,"PhD Student, UC Irvine"
+Kagan Tumer,Oregon State University
+Paolo Ferragina,"Professor of Algorithms, Dept. Computer Science, University of Pisa"
+Fabrizio Lillo,Università di Bologna
+Giorgio Vinciguerra,"PhD Student, Università di Pisa"
+Bin Gu,"Professor, Boston University"
+Heng Huang,"John A. Jurenko Endowed Professor, Electrical and Computer Engineering, University of …"
+Trevor Standley,Stanford University
+Amir Zamir,"Stanford, UC Berkeley"
+Dawn Chen,"University of California, Berkeley"
+Leonidas Guibas,"Professor of Computer Science, Stanford University"
+Jitendra Malik,"Professor of EECS, UC Berkeley"
+Silvio Savarese,Associate Professor of Computer Science at Stanford University
+Hien Le,"Faculty of Mathematics and Informatics, Hanoi National University of Education"
+Nicolas Gillis,"Associate Professor, University of Mons"
+Panagiotis Patrinos,"Assistant Professor, KU Leuven"
+Divyam Madaan,"School of Computing, KAIST"
+Jinwoo Shin,"Associate Professor, KAIST AI & EE"
+Roberto Henschel,"Indiana University, Technische Universität Dresden, Technical University Dresden, Dresden …"
+Bodo Rosenhahn,Leibniz Universität Hannover
+Paul Swoboda,Max Planck Institute for Informatics
+Agustinus Kristiadi,University of Tübingen
+Matthias Hein,"Professor of Computer Science, University of Tübingen"
+Philipp Hennig,University of Tübingen & Max Planck Institute for Intelligent Systems
+Praneeth Karimireddy,"PhD student, EPFL"
+Satyen Kale,"Staff Research Scientist, Google Research"
+Mehryar Mohri,"Professor of Computer Science and Mathematics, Courant Institute of Mathematical …"
+Sebastian Stich,"Research Scientist, EPFL"
+Ananda Theertha Suresh,"Senior Research Scientist, Google New York"
+Hadrien Hendrikx,INRIA - Ecole Normale Supérieure
+Lin Xiao,Microsoft Research
+Sebastien Bubeck,"Sr Principal Researcher, Microsoft Research"
+Francis Bach,Inria - Ecole Normale Supérieure
+Laurent Massoulié,"Inria, MSR-Inria Joint Centre"
+Hui Ye,University of California Santa Barbara
+Zhiyu Chen,"Seagate Technology, PLC"
+Da-Han Wang,"School of Computer and Information Engineering, Xiamen University of Technology, Fujian …"
+Brian D Davison,"Associate Professor of Computer Science and Engineering, Lehigh University"
+Ahmed Alaa,القانون الخاص
+Mihaela van der Schaar,"University of Cambridge, The Alan Turing Institute, UCLA"
+Lechao Xiao,Google Brain
+Jeffrey Pennington,Google Brain
+Samuel Schoenholz,Google Brain
+Yucheng Lu,"PhD Student, Lund University"
+Christopher De Sa,"Assistant Professor of Computer Science, Cornell University"
+Amr Mohamed Alexandari,Stanford University
+Anshul Kundaje,"Assistant Professor, Dept. of Genetics, Dept. of Computer Science, Stanford University"
+Avanti Shrikumar,Stanford University
+Chaosheng Dong,University of Pittsburgh
+Bo Zeng,The Chinese University of Hong Kong
+Mohamed El Amine Seddik,Ph.D. Student at CEA
+Cosme Louart,"GIPSA-lab, Grenoble INP / List, CEA"
+Mohamed Tamaazousti,Researcher at CEA LIST
+Romain  COUILLET,"UGA IDEX DataScience Chair, GIPSA-lab, University Grenoble-Alpes"
+Xinyi Wang,Baylor College of Medicine; University of Southern California
+Hieu Pham,"Google Brain, Carnegie Mellon University"
+Paul Michel,Joesphine Bay Paul Center at the MBL
+Antonios  Anastasopoulos,Carnegie Mellon University
+Jaime Carbonell,"Professor of Computer Science, Carnegie Mellon University"
+Graham Neubig,"Associate Professor of Computer Science, Carnegie Mellon University"
+Lior Shani,nan
+Yonathan Efroni,"Ph.D. student, Technion"
+Aviv Rosenberg,Professor of Microbiology tel Aviv university
+Shie Mannor,"Professor of Electrical Engineering, Technion"
+Xingyu Xie,"Ph.D. Candidate, School of EECS, Peking University"
+Hao Kong,"Professor of Applied Physics, Hong Kong Polytechnic University （香港理工大学）"
+Jianlong Wu,Civil Engineering， Shenzhen University
+Wayne Zhang,Wayne State University
+Guangcan Liu,Professor of Nanjing University of Information Science & Technology
+Haipeng Luo,University of Southern California
+Suvrit Sra,MIT
+Tiancheng Yu,everbright photonics
+Wenkai Xu,"KAIST, Korea"
+Tamara Fernandez,"Ph D at Complutense University, Madrid, Spain"
+Nicolas Rivera,Universidad Michoacana de San Nicolas de Hidalgo
+Arthur Gretton,"Gatsby Computational Neuroscience Unit, UCL"
+Raghavendra Addanki,University of Massachusetts Amherst
+Shiva Kasiviswanathan,Amazon Machine Learning
+Andrew McGregor,"University of Massachusetts, Amherst"
+Cameron Musco,"Assistant Professor, University of Massachusetts Amherst"
+Chuan Guo,Southern University of Science and Technology (SUSTech)
+Tom Goldstein,"Perotto Associate Professor of Computer Science, University of Maryland"
+Awni Hannun,Facebook AI Research
+Laurens van der Maaten,"Research Director, Facebook AI Research"
+Abhiram Gnanasambandam,Purdue University
+Stanley Chan,RMIT University
+Marc Brockschmidt,"Researcher, Microsoft Research"
+Vincent Dutordoir,PROWLER.io
+Nicolas Durrande,Director of Research - PROWLER.io
+James Hensman,"Principal scientist, Amazon"
+James Kostas,"BEST, Merck & Co."
+Chris Nota,"University of Massachusetts, Amherst"
+Philip Thomas,Professor UT Southwestern
+Juntang Zhuang,"Biomedical Engineering, Yale University"
+Nicha Dvornek,"Assistant Professor, Radiology & Biomedical Imaging, Yale University"
+Xiaoxiao Li,The Chinese University of Hong Kong
+Xenophon Papademetris,Yale University
+James Duncan,"Professor of Biomedical Engineering, Radiology, Electrical Engineering, Yale University"
+Yao Liu,nan
+Pierre-Luc Bacon,University of Montreal
+Emma Brunskill,"Assistant Professor of Computer Science, Stanford University"
+Yunhao Tang,"PhD student, Columbia University"
+Remi Munos,DeepMind
+Shipra Agrawal,Columbia university
+Yuri Faenza,"Assistant Professor, IEOR, Columbia University"
+Akifumi Wachi,IBM Research AI
+Yanan Sui,Tsinghua University
+Hu Ding,Shanghai University
+Xuanqing Liu,"University of California, Los Angeles"
+Hsiang-Fu Yu,"Computer Science, University of Texas at Austin"
+Inderjit Dhillon,"Amazon Fellow and Gottesman Family Centennial Professor, CS Dept, UT Austin"
+Cho-Jui Hsieh,"University of California, Los Angeles"
+Jia Lv,University of Southern California
+Zhen Qin,nan
+Guodong Li,University of Hong Kong
+Wenbin Lu,"Professor of Statistics, North Carolina State University"
+Rui Song,North Carolina State University
+Liqun Chen,"Professor, University of Surrey, UK"
+Zhe Gan,"Senior Researcher, Microsoft"
+Yu Cheng,Professor Department of Pharmacy National University of Singapore
+Linjie Li,"Postdoc in Epithelial Biology Program, Stanford University"
+Lawrence Carin,"Professor of Electrical and Computer Engineering, Duke University"
+Jingjing Liu,National University of Singapore
+Han Zhang,"Professor and Director, Email: hzhang@szu.edu.cn"
+Xi Gao,"Frontier Institute of Science and Technology (FIST), Xi'an Jiaotong University (XJTU)"
+Nina Balcan,"Associate Professor, School of Computer Science, Carnegie Mellon University"
+Tuomas Sandholm,"Angel Jordan University Professor of Computer Science, Carnegie Mellon University"
+Ellen Vitercik,Carnegie Mellon University
+Ferdinando Cicalese,"Associate Professor of Computer Science, University of Verona"
+Francisco S de Freitas Filho,"Aluno de mestrado em computação, Universidade Federal do Ceará"
+Eduardo Laber,PUC-RIO
+Marco Molinaro,PUC-Rio
+Laura Rieger,Technical University of Denmark - DTU
+Chandan Singh,"Student  of MCA ,KIIT University,Bhuneswar Orissa"
+William Murdoch,IBM
+Bin Yu,"Professor of Statistics and EECS, UC Berkeley"
+Yinjun Wu,Amazon Web Services
+Pierre C Bellec,Rutgers - Department of Statistics
+Dana Yang,"Boston university, Dana-Farber Cancer Institute"
+Kaito Fujii,National Institute of Informatics
+Yunwen Lei,University of Kaiserslautern
+Yiming Ying,"Department of Mathematics and Statistics, University at Albany, SUNY"
+Yuko Kuroki,The University of Tokyo
+Atsushi Miyauchi,University of Tokyo
+Junya Honda,The University of Tokyo / RIKEN
+Ali AhmadiTeshnizi,Sharif University of Tech
+Saber Salehkaleybar,"EE Department, Sharif University of Technology"
+Negar Kiyavash,University of Illinois at Urbana-Champaign
+Zijun Zhang,"Associate Professor, City University of Hong Kong"
+Ruixiang ZHANG,nan
+Zongpeng Li,"Department of Computer Science, University of Calgary"
+Yoshua Bengio,"Professor, University of Montreal (Computer Sc. & Op. Res.), Mila, CIFAR, CRM, IVADO …"
+Liam Paull,Assistant Professor - University of Montreal
+Yuxin Wen,The University of Texas at El Paso
+Shuai Li,"Associated Professor, Tianjin Medical University Cancer Institute and Hospital"
+Kui Jia,South China University of Technology
+Xiang Cheng,"Professor of Wireless Communications, Heriot-Watt University"
+Dong Yin,nan
+Peter Bartlett,"Professor, EECS and Statistics, UC Berkeley"
+Tonghan Wang,"Master Student in IIIS, Tsinghua University"
+Heng Dong,"Professor, School of Aeronautics, Northwestern Polytechnical University"
+Victor Lesser,"School of Computer Science, University of Massachusetts Amherst"
+Chongjie Zhang,Tsinghua University
+Martin Bertran,Universidad de San Martin de Porras
+Natalia Martinez,"DVM, MPVM, PhD"
+Guillermo Sapiro,Duke University
+Yunzong Xu,MIT
+Mor Sinay,PhD
+yoram louzoun,Bar Ilan University
+Noa Agmon,"Associate Professor, Bar-Ilan University, Israel"
+Sarit Kraus,"Professor Of Computer Science, Bar-Ilan University"
+Gaurush Hiranandani,University of Illinois Urbana-Champaign
+Warut Vijitbenjaronk,University of Illinois Urbana-Champaign
+Sanmi Koyejo,"Assistant Professor, University of Illinois at Urbana-Champaign"
+Leon Sixt,"PhD Student, Frei Universität Berlin"
+Maximilian Granz,Max-Planck-Institut für Eisenforschung
+Tim Landgraf,"Dept. of Mathematics and Computer Science, Free University Berlin"
+Max Simchowitz,UC Berkeley
+Dylan Foster,MIT
+Katsuhiko Ishiguro,Preferred networks
+Masanori Koyama,Ritsumeikan University
+Neale Ratzlaff,Oregon State University
+Qinxun Bai,Horizon Robotics Inc.
+Fuxin Li,Oregon State University
+Wei Xu,"Princess Margaret Cancer Centre, University of Toronto"
+Jie Xu,"State Key Laboratory of Catalysis, Dalian National Laboratory for Clean Energy, Dalian …"
+Yunsheng Tian,Massachusetts Institute of Technology
+Daniela Rus,"Andrew (1956) and Erna Viterbi Professor of Computer Science, MIT"
+Shinjiro Sueda,Texas A&M University
+Soham Dan,University of Pennsylvania
+Bhaswar B. Bhattacharya,"Department of Statistics, University of Pennsylvania"
+Takeshi Teshima,The University of Tokyo / RIKEN
+Issei Sato,University of Tokyo
+Weiwei Liu,"Institute of Modern Optics, Nankai University"
+Xuemin Lin,UNSW Scientia Professor
+Ran Haba,nan
+Ehsan Kazemi,Google
+Moran Feldman,University of Haifa
+Amin Karbasi,Yale University
+Risheng Liu,"Professor, School of ISE, Dalian University of Technology"
+Pan Mu,"School of Computer and software, Nanjing University of Information Science and …"
+Xiaoming Yuan,The University of Hong Kong
+Jin Zhang,Georgia State University
+Marwa El Halabi,"Postdoctoral associate, CSAIL, MIT"
+Stefanie Jegelka,MIT
+Jiani Huang,"PhD student, Duke University"
+Calvin Smith,"Griffith University, University of Queensland"
+Osbert Bastani,University of Pennsylvania
+Rishabh Singh,"Research Scientist, Google Brain"
+Mayur Naik,"Professor of Computer Science, University of Pennsylvania"
+Yi Li,Fu-jen Catholic University / National Taipei College of Nursing / National Cheng Kung …
+Ruosong Wang,Carnegie Mellon University
+Lin Yang,"Professor of the Department of Information Enginering and Computer Science, Feng Chia …"
+Miaoyun Zhao,Duke University
+Yulai Cong,"ECE, Duke University"
+Lin Chen,"WPI-Advanced Institute for Materials Research (WPI-AIMR), Tohoku University"
+Mingrui Zhang,"PhD in the information school, University of Washington"
+Nathan Kallus,Cornell University
+Xuxi Chen,WuXi NextCODE
+Wuyang Chen,Texas A&M University
+Tianlong Chen,Texas A&M University
+Ye Yuan,"professor of chemistry, chung yuan christian university"
+Chen Gong,"Professor of Mechanical Engineering, National Cheng Kung University"
+Kewei Chen,"Banner Alzheimer's Institute, Phoenix, AZ"
+Zhangyang Wang,"Assistant Professor, Texas A&M University"
+Yuning You,"PhD student, Texas A&M University"
+Yang Shen,University of Rhode Island
+Di Wang,"Associated Professor of Immunology, Zhejiang University"
+Hanshen Xiao,MIT
+Srinivas Devadas,"Edwin Sibley Webster Professor of Electrical Engineering and Computer Science, MIT"
+Jinhui Xu,Arizona State University
+Filip Hanzely,"PhD student, KAUST"
+Dmitry Kovalev,"Professor of Physics, University of Bath"
+Peter Richtarik,"Professor, KAUST"
+Nikita Doikov,Université catholique de Louvain (UCL)
+Yurii Nesterov,"Professor of Université catholique de Louvain (UCL), CORE(IMMAQ) and INMA(ICTEAM …"
+Philip Ball,ball state university
+Stephen Roberts,"Professor and Director, Therapeutics Research Centre, Universities of Queensland and …"
+Uri Alon,"Weizmann Institute, Princeton University"
+Omer Levy,Tel Aviv University
+Eran Yahav,"Technion, Israel"
+Jingqing Zhang,Grad Student of Massachusetts Institute of Technology
+Yao Zhao,"Supply Chain Management, Rutgers University"
+Mohammad Saleh,nan
+Peter J. Liu,Auburn University
+Tuan-Binh Nguyen,"PhD Student, INRIA Parietal / Institute Mathématiques d'Orsay"
+Jerome-Alexis Chevalier,"Inria Saclay, Telecom ParisTech"
+Thirion Bertrand,Inria
+Sylvain Arlot,Université Paris-Saclay
+Simon Schmitt,Simon Fraser University
+Matteo Hessel,"Research Engineer, Google DeepMind"
+Karen Simonyan,Google DeepMind
+Liudmila Prokhorenkova,Yandex
+Aleksandr Shekhovtsov,Czech Technical University in Prague
+Amin Rakhsha,"B.Sc. Student, Sharif University of Technology"
+Goran Radanovic,"Research Group Leader, Max Planck Institute for Software Systems"
+Rati Devidze,Max Planck Institute for Software Systems (MPI-SWS)
+Jerry Zhu,Professor in Computer Science at University of Wisconsin-Madison
+Adish Singla,"Tenure-track Faculty, Max Planck Institute for Software Systems (MPI-SWS), Germany"
+Dejun Chu,nan
+Changshui Zhang,"Dept. Automation, Tsinghua University, Beijing, China"
+Shiliang Sun,East China Normal University
+Qing Tao,"Senior Principal Research Manager, Microsoft Research Asia"
+Christoph Zimmer,"Institut Pasteur, Paris, France, Imaging and Modeling Unit"
+Reza Yaesoubi,Yale School of Public Health
+Rotem Mulayoff,"PhD Candidate, Technion - Israel Institute of Technology"
+Tomer Michaeli,"Assistant Professor, Technion - Israel Institute of Technology"
+Chengchun Shi,"Changchun Institute of Applied Chemistry, Chinese Academy of Sciences"
+Ling Leng,Georgia College & State University
+Jiaxian Guo,The University of Sydney
+Mingming Gong,The University of Melbourne
+Tongliang Liu,The University of Sydney
+Kun Zhang,University of California at San Diego
+Hongseok Yang,"Professor, School of Computing, KAIST"
+Tom Rainforth,University of Oxford
+Pierre Laforgue,"PhD Candidate, Télécom Paris"
+Florence d'Alche-Buc,Institut Mines-Télécom / Télécom ParisTech
+Liangyu Zhu,"PhD student, The University of British Columbia"
+Zhun Deng,"China University of Petroleum, Beijing 中国石油大学(北京)"
+Hangfeng He,"Ph.D. Candidate of Computer Science, University of Pennsylvania"
+Weijie Su,"Assistant Professor of Statistics, University of Pennsylvania"
+Cynthia Dwork,Microsoft Research
+Jialiang Wang,University of Wisconsin-Madison
+Linjun Zhang,"Beijing Normal University, Beijing Language and Culture University"
+Markos Georgopoulos,Imperial College London
+Grigorios Chrysos,Imperial College London
+Yannis Panagakis,University of Athens
+Maja Pantic,"Professor, Imperial College London / AI Scientific Research Lead, Facebook London"
+Evrard Garcelon,Facebook AI Research
+Matteo Pirotta,"Research Scientist, FAIR"
+Alessandro Lazaric,"Research Scientist, Facebook Artificial Intelligence Research"
+Sasha Vezhnevets,"Research Scientist, Google DeepMind"
+Yuhuai Wu,University of Toronto
+Maria Eckstein,"Graduate student, UC Berkeley"
+Rémi Leblond,"Research Scientist, DeepMind"
+Joel Z Leibo,Research scientist
+Fereshte Khani,Stanford University
+Percy Liang,"Associate Professor of Computer Science, Stanford University"
+Gregor Simm,University of Cambridge
+Robert Pinsler,"PhD Student, University of Cambridge"
+Jose Miguel Hernandez-Lobato,University Lecturer (US Assistant Professor) University of Cambridge
+Samrath Sinha,Undergrad @ University of Toronto
+Anirudh Goyal,"Mila, Université de Montréal"
+Hugo Larochelle,Google Brain
+Augustus Odena,"Research Scientist, Google Brain"
+Maria Vladarean,nan
+Ya-Ping Hsieh,"IAMS, Academia Sinica"
+Volkan Cevher,"Associate Professor, Laboratory for Information and Inference Systems, EPFL"
+Arash Vahdat,Senior Research Scientist at NVIDIA Research
+Evgeny Andriyash,Sanctuary AI
+William Macready,Sanctuary AI
+Horng-Tzer Yau,Harvard University
+Debjani Saha,"Sister Nivedita University, techno India Group"
+Candice Schumann,University of Maryland
+Duncan McElfresh,"University of Maryland, College Park"
+John P Dickerson,"Assistant Professor of Computer Science, University of Maryland"
+Michelle Mazurek,"Assistant Professor, University of Maryland"
+Kristy Choi,Stanford University
+Ian Simon,"Simon Fraser University and Luiss Center in Leadership, Innovation and Organisation (CLIO …"
+Monica  Dinculescu,Google
+JesseEngel Engel,Google Brain
+Sijia Liu,"Research Staff Member, MIT-IBM Watson AI Lab, IBM Research"
+Songtao Lu,IBM Thomas J. Watson Research Center
+Xiangyi Chen,University of Minnesota
+Yao Feng,"poet,  translator and curator, University of Macau"
+Kaidi Xu,Northeastern University
+Abdullah Al-Dujaili,Analog Devices
+Mingyi Hong,"Professor of Accounting, The Hong Kong University of Science and Technology"
+Una-May O'Reilly,"MIT, CSAIL, Any Scale Learning for All (ALFA) Group"
+DiJia Su,Princeton University
+Tyler Lu,"Research Scientist, Google"
+Dale Schuurmans,"Research Scientist, Google Brain / Professor, University of Alberta"
+Craig Boutilier,"Principal Scientist, Google"
+Zheng Wang,"Ruhr-Universität Bochum, UCAS"
+Xinqi Chu,"University of Illinois, Urbana-Champaign"
+Shandian Zhe,"School of Computing, University of Utah"
+Yanyao Shen,"PhD student, University of Texas at Austin"
+Sujay Sanghavi,"Associate Professor, Electrical and Computer Engineering, WNCG, University of Texas …"
+Razieh Nabi,"Graduate Research Assistant, Johns Hopkins University"
+Rohit Bhattacharya,Johns Hopkins University
+Ilya Shpitser,"Malone Assistant Professor, Department of Computer Science, Johns Hopkins University"
+Hung Le,"University Professor Emeritus, School of Environmental Sciences, University of Guelph"
+Truyen Tran,"Associate Professor, Applied AI Institute, Deakin University"
+Svetha Venkatesh,"Professor of Computer Science, Deakin University"
+William Chan,Harvard TH Chan School of Public Health
+Chitwan Saharia,"Google Brain, Toronto"
+Geoffrey Hinton,"Emeritus Prof. Comp Sci, U.Toronto & Engineering Fellow, Google"
+Mohammad Norouzi,"Staff Scientist, Google Brain"
+Navdeep Jaitly,The DE Shaw Group
+Hao Wang,"Professor of Composite and Concrete Materials, University of Southern Queensland"
+Hao He,"CTO, SoftTouchIT"
+Dina Katabi,"Professor of EECS, MIT"
+Esteban Real,Google Brain
+Chen Liang,"Ningbo Institute of Materials Technology & Engineering, CAS"
+David So,"Bioinformatics Facility, Centro de Biología Molecular - SO"
+Quoc Le,"Research Scientist, Google Brain"
+Qiang Zhang,Sun Yat-sen University （中山大学水资源与环境系）
+Aldo Lipani,Asst. Prof. at UCL
+Omer Kirnap,"University College London, Web Intelligence Group"
+Emine Yilmaz,University College London
+Yuguang Yue,University of New South Wales; Max Planck Institute for Mathematics in Sciences
+Purnamrita Sarkar,"Assistant Professor, Statistics and Data Sciences, University of Texas at Austin"
+Y. X. Rachel Wang,"School of Mathematics and Statistics, University of Sydney"
+Mingrui Liu,"Ph.D. Candidate, The University of Iowa"
+Li Shen,"Professor of Informatics, University of Pennsylvania Perelman School of Medicine"
+Wei Liu,"Associate Professor, Department of Astronautic Science and Mechanics, Harbin Institute of …"
+Tianbao Yang,University of Iowa
+Corinna Cortes,"Google Research, NY"
+Giulia DeSalvo,New York University
+Claudio Gentile,"Google Research, New York, USA"
+Sumeet Katariya,University of Wisconsin Madison
+Robert Nowak,"Nosbusch Professor in Engineering and Wisconsin Institute for Discovery, UW-Madison"
+Qi Cai,"Research Scientist, Amazon"
+Che Wang,Liaoning Normal University
+Yanqiu Wu,"PhD student, New York University"
+Quan Vuong,Phenikaa University
+Keith Ross,"Leonard J. Shustek Professor of Computer Science, Dept. of Computer Science and …"
+Maya Gupta,"Researcher, Google Research (Formerly Prof. at Univ. Washington)"
+Erez Louidor,Google Inc.
+Sen Zhao,"State key laboratory of ophthalmology, Zhongshan Ophthalmic Center of Sun Yat-sen …"
+Yasutoshi Ida,NTT
+Sekitoshi Kanai,NTT
+Yasuhiro Fujiwara,NTT
+Tomoharu Iwata,NTT
+Koh Takeuchi,National Institute of Advanced Industrial Science and Technology (AIST)
+Hisashi Kashima,"Professor, Kyoto University"
+Minsoo Kang,University of Mississippi
+Bohyung Han,"Associate Professor, Seoul National University"
+Xingjun Ma,"Lecturer@Deakin University, Honorary Fellow@University of Melbourne"
+Yisen Wang,Graduate from Tsinghua University
+Simone Romano,University of Napoli
+Sarah Erfani,"Senior Lecturer, Computing and Information Systems, University of Melbourne"
+James Bailey,"Professor, School of Computing and Information Systems, University of Melbourne"
+Feng Liu,"State Key Laboratory for GeoMechanics and Deep Underground Engineering, China …"
+Jie Lu,UCLA
+Guangquan Zhang,University of Technology Sydney
+D.J. Sutherland,Toyota Technological Institute at Chicago
+Maarten Buyl,PhD student at Ghent University
+Tijl De Bie,"Full Professor, Ghent University"
+Yongchan Kwon,Louisiana State University
+Wonyoung Kim,Chung-Ang University
+Myunghee Cho Paik,"Professor of Statistics, Seoul National University"
+Trevor Davis,"PhD student, University of Alberta"
+Martin Schmid,"Aarhus University, Denmark"
+Michael Bowling,University of Alberta / DeepMind
+Alexander Shevchenko,"The Institute of High Technology, Taras Shevchenko, National Kiev University"
+Marco Mondelli,"Assistant Professor, IST Austria"
+Joel Frank,Harry Frank Guggenheim Foundation
+Lea Schönherr,Ruhr University Bochum
+Dorothea Kolossa,Ruhr-Universität Bochum
+Thorsten Holz,Ruhr-Universität Bochum
+Asja Fischer,"Professor for Machine Learning, Ruhr University Bochum"
+Priyank Jaini,nan
+Ivan Kobyzev,"ML Researcher, Borealis AI"
+Marcus Brubaker,"Assistant Professor, York University"
+Wendelin Boehmer,"Whiteson Research Lab, University of Oxford"
+Vitaly Kurin,"Machine Learning PhD student at the University of Oxford, Whiteson Research lab"
+Eliya Nachmani,PhD student at Tel-Aviv University & Facebook AI Research (FAIR)
+Yossi Adi,Research scientist at Facebook AI Research
+Lior Wolf,The School of Computer Science at Tel Aviv University
+Nir Rosenfeld,Harvard University
+Kojin Oshiba,Harvard University
+Yaron Singer,Harvard University
+Qiuyu Zhu,Massachusetts General Hospital; Broad Institute; Harvard Medical School
+Hans Kersting,"PhD Student, Max Planck Institute for Intelligent Systems"
+Nicholas Krämer,University of Pittsburgh
+Martin Schiegg,"Research Scientist, Bosch Center for AI"
+Christian Daniel,"Electronic Engineering, Chung-Yuan Christian University"
+Michael Schober,"Professor of Psychology, New School for Social Research"
+Hicham Janati,"Phd student, Inria Saclay"
+Marco Cuturi,Google Brain /  CREST-ENSAE.
+Alexandre Gramfort,"INRIA, Univ. Paris-Saclay"
+Stéphane d'Ascoli,"École Normale Supérieure, Paris"
+Maria Refinetti,"Professor Titular, Faculdade de Arquitetura e Urbanismo USP"
+Giulio Biroli,"Professor of Theoretical Physics, ENS Paris"
+Florent Krzakala,"Ecole Normale Supérieure Paris, Sorbonne Université, LightOn"
+Victor Campos,Universidade Federal do Ceará
+Alexander Trott,Salesforce Research
+Caiming Xiong,Salesforce Research
+Richard Socher,Chief Scientist at Salesforce
+Xavier Giro-i-Nieto,UPC Barcelona
+Jordi  Torres,UPC Barcelona Tech - Barcelona Supercomputing Center
+Brian Zhang,"PhD Student, Oxford University"
+Samy Jelassi,Princeton University
+Arthur Mensch,"DMA, École Normale Supérieure"
+Joan Bruna,"Assistant Professor, Courant Institute of Mathematical Sciences, New York University"
+Eugene Kharitonov,Facebook
+Rahma Chaabouni,Facebook AI Research and CoML
+Marco Baroni,ICREA Professor (Barcelona) and FAIR Research Scientist (Paris)
+Filippo Maria Bianchi,Research scientist at Norwegian Research Centre
+Daniele Grattarola,"Ph.D. Student, Università della Svizzera Italiana"
+Cesare Alippi,Politecnico di Milano
+Jianfei Chen,"Chair Professor of Ocean Eng., Southern University of Science and Technology"
+Cheng Lu,"Academia Sinica, Taiwan"
+Jun Zhu,"Professor of Biological & Agricultural Engineering, University of Arkansas"
+Tian Tian,Singapore National Eye Center
+Marie-Liesse Cauwet,"Mines Saint-Etienne, France"
+Camille Couprie,Research scientist at Facebook AI Research
+Pauline Luc,Deepmind
+Jeremy Rapin,Research Engineer @ Facebook AI Research
+Fabien Teytaud,Université du Littoral-Côte d'Opale
+Olivier Teytaud,facebook
+Nicolas Usunier,Facebook AI Research
+Ron Amit,"Associate Prof. of Political Science, School of Social and Behavioral Sciences, Arizona State"
+Ron Meir,"Professor of Electrical Engineeringe, Technion"
+Haggai Maron,NVIDIA Research
+Or Litany,"Postdoctoral Researcher, Stanford University"
+Gal Chechik,"Bar Ilan University, NVIDIA"
+Ethan Fetaya,Bar-Ilan Universityu
+Wei Deng,CHUNG HUA UNIVERSITY
+Qi Feng,"Research Assistant Professor of Materials Science, University of Washington"
+Faming Liang,"Professor of Statistics,  Purdue University"
+Guang Lin,"NDPH, Oxford University"
+Georg Kohl,"PhD Student, Technical University of Munich"
+Kiwon Um,Telecom Paris
+Nils Thuerey,Technical University of Munich
+Yuji Roh,KAIST
+Kangwook Lee,University of Wisconsin-Madison
+Steven Whang,"Professor, Stevens Institute of Technology"
+Changho Suh,"Associate Professor of Electrical Engineering, KAIST"
+Marc Abeille,Criteo
+Clément Calauzènes,Criteo AI Lab
+Daniele Zambon,Università della Svizzera italiana
+Lorenzo Livi,University of Manitoba and University of Exeter
+Erik Bodin,University of Bristol
+Markus Kaiser,"Professor of Neuroinformatics, School of Computing, Newcastle University, UK"
+Ieva Kazlauskaite,University of Cambridge
+Zhenwen Dai,Spotify
+Neill Campbell,"Royal Society Industry Fellow and Reader (Associate Professor), University of Bath"
+Carl Henrik Ek,University of Cambridge
+Dexiong Chen,Inria
+Laurent Jacob,"CNRS, Université Lyon 1"
+Julien Mairal,Inria - Univ. Grenoble Alpes
+Haoran Sun,"Department of Chemistry, University of South Dakota, Vermillion, SD, USA 57069"
+Cynthia Liu,University of Adelaide
+Pin-Yu Chen,"Research Staff Member, IBM Research AI; MIT-IBM Watson AI Lab; RPI-IBM AIRC"
+Shiyu Chang,MIT-IBM Watson AI Lab
+Luca Daniel,Department of Psychiatry and Human Behavior - Brown University
+Liang Ding,"National Sun Yat-sen University, National Chengchi University"
+Rui Tuo,Texas A&M University
+Shahin Shahrampour,Texas A&M University
+Shaocong Ma,The Hong Kong University of Science and Technology
+Yi Zhou,"Department of Medical and Molecular Science, Hiroshima University"
+Mark Braverman,nan
+Xinyi Chen,Lam Reaserch
+Karthik Narasimhan,"Assistant Professor, Princeton University"
+Cyril Zhang,"Professor of Economics, The University of Memphis"
+Yi Zhang,University of Minnesota
+Debmalya Panigrahi,Associate Professor of Computer Science at Duke University
+Joey Bose,"McGill University, Mila"
+Ariella Smofsky,McGill University and Mila
+Renjie Liao,University of Toronto
+Prakash Panangaden,"Professor of Computer Science, McGill University"
+Will Hamilton,"Assistant Professor of Computer Science, McGill University and Mila"
+Aleksei Ustimenko,Researcher at Yandex.
+Ricky Loynd,Microsoft Research
+Roland Fernandez,Microsoft Research
+Asli Celikyilmaz,Microsoft Research
+Adith Swaminathan,Microsoft Research
+Matthew Hausknecht,Microsoft Research
+Sarthak  Mittal,Uber ATG
+Alex Lamb,"Université de Montréal, Google Brain, Amazon, Twitch PhD Fellow"
+Vikram Voleti,"Mila, University of Montreal"
+Murray Shanahan,Imperial College London / DeepMind
+Guillaume Lajoie,"Assistant Professor, Applied Mathematics, Université de Montréal"
+Michael Mozer,University of Colorado
+Mingtian Zhang,"Chemistry, Center of Basic Molecular Science(CBMS), Tsinghua University"
+Peter Hayes,"Professor of Hepatology, University of Edinburgh"
+Thomas Bird,"Professor of Avian Physiology, University of Maryland"
+Raza Habib,UCL
+David Barber,University of Manitoba
+Qijia Jiang,Stanford University
+Harikrishna Narasimhan,Google LLC
+Mahdi Milani Fard,"Machine Learning Researcher, Google Inc."
+Yihong Gu,Princeton University
+Shengjia Zhao,Stanford University
+David Zoltowski,Princeton University
+Jonathan Pillow,"Professor of Neuroscience & Psychology, Princeton University"
+Scott Linderman,Stanford University
+Evan Liu,Stanford University
+Milad Hashemi,Google
+Kevin Swersky,Google Brain
+Partha Ranganathan,nan
+Junwhan Ahn,Google
+Karsten Roth,"Master Student, Computer Vision Group, Heidelberg University"
+Timo Milbich,Heidelberg University
+Prateek Gupta,University of Tennessee Health Science Center
+Bjorn Ommer,"Professor for Scientific Computing, Heidelberg University"
+Joseph Paul Cohen,"Postdoctoral Fellow, Mila, University of Montreal"
+Changhee Lee,"EVP, Display Research Center, Samsung Display"
+Yuchen Lu,ExxonMobil Research and Engineering Company
+Soumye Singhal,"Mila, University of Montreal"
+Florian Strub,DeepMind
+Aaron Courville,Université de Montréal
+Olivier Pietquin,Google Brain (On leave of Professor at University of Lille - CRIStAL - SequeL team)
+Quoc Tran-Dinh,"Department of Statistics and Operations Research, UNC"
+Lam Nguyen,"Center for Integrative Bioinformatics Vienna, University of Vienna"
+Anson Kahng,Carnegie Mellon University
+Ariel Procaccia,"Gordon McKay Professor of Computer Science, Harvard University"
+Junqi Wang,City University of Hong Kong
+Pei Wang,"Professor of genetics, Icahn School of Medicine at Mount Sinai"
+Patrick Shafto,Rutgers University - Newark
+Zhou Fan,Inception Institute of Artificial Intelligence
+Cheng Mao,PhD candidate
+Yihong Wu,Professor National University of Singapore
+Jiaming Xu,Baylor College of Medicine
+Cong Xie,University of Illinois at Urbana-Champaign
+Indranil Gupta,"Professor, Computer Science, University of Illinois Urbana-Champaign"
+Mao Ye,"Ph.D. , The Penn State University"
+Chengyue Gong,University of Texas at Austin
+Denny Zhou,"Research Scientist, Google Brain"
+Adam Klivans,"Professor of Computer Science, University of Texas at Austin"
+Qiang Liu,Cleveland Clinic Foundation
+Asaf Cassel,"School of Computer Science, Tel Aviv University"
+Alon Cohen,Google
+Tomer Koren,"School of Computer Science, Tel Aviv University"
+Cong Han Lim,Uber ATG
+Raquel Urtasun,"Associate Professor, University of Toronto"
+Ersin Yumer,Uber ATG
+Shali Jiang,Washington University in St. Louis
+Henry Chai,朝陽科技大學工業工程與管理系教授
+Javier Gonzalez,"Postdoctoral Researcher, University of Delaware"
+Roman Garnett,Washington University in St. Louis
+Lingxiao Wang,"University of California, Los Angeles"
+Jiacheng Cheng,"Institute of Crustal Dynamics, China Earthquake Administration"
+ Hassan Rafique,"YB Chavan College of Pharmacy, Dr Rafiq Zakaria Campus, Aurangabad (MS) India"
+Tong Wang,"Ph. D. candidate of Materials Science, Shanghai Jiao Tong University"
+Qihang Lin,The University of Iowa
+Jessica Hoffmann,Northeastern University
+Soumya Basu,"Graduate Student, Cornell University"
+Surbhi Goel,"PhD Student, Department of Computer Science, University of Texas at Austin"
+Constantine Caramanis,"Professor of Electrical and Computer Engineering, UT Austin"
+Quentin Bertrand,INRIA Paris-Saclay
+Quentin Klopfenstein,"Institut Mathématiques de Bourgogne, Université de Bourgogne"
+Mathieu Blondel,Google
+Samuel Vaiter,"CNRS researcher at IMB, Dijon, France"
+Joseph Salmon,University of Wisconsin–Madison
+Xiao Li,University of Electronic Science and Technology
+Chenghua Lin,"Senior Lecturer in Natural Language Processing, University of Sheffield"
+Ruizhe Li,青海省畜牧兽医科学院
+Chaozheng Wang,Tianjin university
+Frank Guerin,University of Surrey
+Julian De Freitas,Harvard University
+Nick Haber,"Assistant Professor, Stanford University"
+Daniel Yamins,"Assistant Professor of Computer Science and Psychology, Stanford University"
+Jimeng Sun,Professor at University of Illinois Urbana-Champaign
+Chao Zhang,"student of business management, Salford University"
+Farzan Farnia,"Postdoctoral Scholar, Massachusetts Institute of Technology"
+Asuman Ozdaglar,"EECS, MIT"
+Andrew Patterson,"Regents Professor and Head, Plant Genome Mapping Laboratory, University of Georgia"
+Shivam Garg,"PhD student, Carleton University"
+Dhawal Gutpa,Ministry of Electronics & Information Technology
+Adam White,"Postdoc, Stanford University"
+Martha White,University of Alberta
+Huang Fang,University of Science and Technology of China
+Nick Harvey,MRC Southampton
+Michael Friedlander,"IBM Professor of Computational Mathematics, University of British Columbia"
+Kiran Tomlinson,Cornell University
+Austin Benson,Cornell Universty
+Jingzhao Zhang,Emory University
+Hongzhou Lin,"Hangzhou Institute of Advanced Studies, Zhejiang Normal University"
+Ali Jadbabaie,"JR East Professor of Engineering, MIT"
+Mengye Ren,"University of Toronto, Uber Advanced Technologies Group"
+Ali Shafahi,"Graduate Research Assistant, University of Maryland"
+Aaron Lou,"Dean of Engineering, Washington Univ in St. Louis"
+Isay Katsman,"Undergraduate Student, Cornell University"
+Qingxuan Jiang,Cornell University
+Serge Belongie,"Professor of Computer Science, Cornell University and Cornell Tech"
+Sernam Lim Lim,Facebook AI
+Andrey Kolobov,Microsoft Research
+Julian Zimmert,University of Copenhagen
+Feng Wei,The University of Sydney
+Pan Xu,Boston College
+Quanquan Gu,"Assistant Professor of Computer Science, UCLA"
+Chongxuan Li,Tsinghua University
+Bo Zhang,The First Affiliated Hospital of Nanjing Medical University
+Arturs Backurs,Toyota Technological Institute at Chicago
+Yihe Dong,Microsoft Research AI
+Piotr Indyk,"Professor of Electrical Engineering and Computer Science, MIT"
+Ilya Razenshteyn,Microsoft Research
+Richard Nock,Swansea School of Management
+Aditya Menon,"Research Scientist, Google"
+Xiyu Yu,USDA-ARS
+Kayhan Batmanghelich,"Assistant Professor, University of Pittsburgh"
+Wei Wu,william225225@hotmail.com
+Duo Chai,Shannon AI
+Qinghong Han,Shannon.AI
+Fei Wu,"Professor of Computer Science, Zhejiang University"
+Jiwei Li,"Shannon.AI, Dept. of Computer Science, Stanford University"
+Tianyu Wang,Peking University
+Cynthia Rudin,"Professor of Computer Science, ECE, and Statistics, Duke University"
+Xi-Zhu Wu,"PhD candidate, Nanjing University"
+Sheng-Jun Huang,Nanjing University of Aeronautics & Astronautics
+Zhi-Hua Zhou,Nanjing University
+LEI FENG,"Institute of Metal Research, Chinese Academy of Science"
+Kaveh Hassani,Research Scientist @ Autodesk AI Lab
+Amir Hosein Khasahmadi,"University of Toronto, Vector Institute for Artificial Intelligence"
+Xianggen Liu,Tsinghua University
+Jian Peng,University of Illinois at Urbana-Champaign
+Sen  Song ,"Department of Atmosphere Sciences, Sun Yat-sen University"
+Yanwei Fu,Fudan University
+Chen Liu,"Professor and Chair, Rutgers University"
+Donghao Li,Study at Northeastern University
+Xinwei Sun,Peking University
+Jinshan ZENG,"School of Computer and Information Engineering, Jiangxi Normal University"
+Yuan Yao,"Assitant Professor of Applied Chemistry, National University of Kaohsiung"
+Liang Bai,"Professor of Computer Science, Shanxi university"
+Jiye Liang,山西大学计算智能与中文信息处理教育部重点实验室教授
+Sen Wu,National Pingtung University
+Hongyang Zhang,"Professor, The University of Toledo"
+Gregory Valiant,"Assistant Professor of Computer Science, Stanford University"
+Christopher Re,"Computer Science, Stanford University"
+Hong Chen,"Chair Professor of Electronic Engineering, City University of Hong Kong"
+guodong liu,"Shandong University, China"
+Andrey Voynov,"Researcher, Yandex"
+Artem Babenko,Yandex
+Mehul Motani,National University of Singapore
+Hankook Lee,Hankook Tire - America Technical Center
+Kezhen Chen,Northwestern University
+Qiuyuan Huang,"Microsoft Research, Redmond"
+Hamid Palangi,Senior Researcher at Microsoft Research Lab - AI
+Paul Smolensky,"Microsoft Research AI & Krieger-Eisenhower Professor of Cognitive Science, Johns Hopkins …"
+Ken Forbus,"Professor of Computer Science, Northwestern University"
+Jianfeng Gao,"Microsoft Research, Redmond"
+Zahra Monfared,"Postdoc at Dept. of Theoretical Neuroscience, CIMH Mannheim/ University of Heidelberg"
+Daniel Durstewitz,"Professor for Theoretical Neuroscience, CIMH/ Heidelberg University"
+Amos Gropp,"Graduate Student, Weizmann Institute of Science"
+Lior Yariv,"Computer Science MSc student, Weizmann Institute"
+Niv Haim,Weizmann Institute of Science
+Matan Atzmon,Weizmann Institute of Science
+Yaron Lipman,Weizmann Institute
+Tong Yu,"Distinguished Scientist and Vice General Manager, Tencent AI Lab"
+Branislav Kveton,Google Research
+Zheng Wen,"Professor of Manufacturing Systems, University of Exeter"
+Ruiyi Zhang,Duke University
+Johannes Fischer,TU Dortmund
+Sahin Tas,FZI Research Center for Information Technology & Karlsruhe Institute of Technology
+Badr-Eddine Chérief-Abdellatif,"PhD Student, CREST - ENSAE - Institut Polytechnique de Paris"
+Yunbo Wang,NVIDIA Corp.
+Mingsheng Long,"Associate Professor, Tsinghua University"
+Jianmin Wang,"School of Software, Tsinghua University"
+Fred Roosta,University of Queensland
+Alessandro Luongo,"Collaboratore di ricerca, facoltà di ingegneria, Università Federico II di Napoli"
+Iordanis Kerenidis,CNRS Senior Researcher & QC WARE
+Anupam Prakash,"Lady Hardinge Medical College & associated Hospitals, New Delhi, India"
+Alex Nowak,University of Stuttgart
+Alessandro Rudi,INRIA - École Normale Supérieure
+Prashanth L.A.,"Assistant Professor, Department of Computer Science and Engg., IIT Madras"
+Krishna Jagannathan,"Associate Professor, Department of Electrical Engineering, IIT Madras"
+Ravi Kolla,"Director of Technology Development, La Jolla Institute for Allergy & Immunology"
+Yuan Deng,"Professor of School of Materials Science & Engineering, Beihang University；北京航空航天 …"
+Sébastien Lahaie,Google Research
+Vahab Mirrokni,"Distinguished Scientist, Google Research, New York"
+Akihiro Yoshida,Case Western Reserve University
+Katsuki Fujisawa,"Professor, Institute of Mathematics for Industry, Kyushu University"
+Emilien Dupont,"PhD student, University of Oxford"
+Alex Colburn,University of Washington
+Aditya Sankar,"Centre for Chromosome Stability, University of Copenhagen"
+Josh M Susskind,Apple AI Research
+Qi Shan,"Apple, University of Washington"
+Sivan Sabato,Ben Gurion University of the Negev
+Elad Yom-Tov,Microsoft Research
+samuel cohen,"Professor of Pathology and Microbiology, Univ. of Nebraska Medical Center"
+Rendani Mbuvha,Lecturer in Statistics and Actuarial Science University of Witwatersrand
+Tshilidzi Marwala,"Professor of Artificial Intelligence, University of Johannesburg"
+Marc Deisenroth,University College London
+Alexander Rakhlin,"Machine Learning Engineer, Researcher"
+Ming Chen,"Shenyang National Laboratory for Materials Science, Institute of Metal Research, CAS"
+Zhewei Wei,Augusta University
+Zengfeng Huang,Fudan University
+Bolin Ding,"Senior Staff Engineer, Alibaba Group"
+Yaliang Li,Alibaba Group
+Yuanyu Wan,Nanjing University
+Wei-Wei Tu,"Jiangsu University,  TU Dresden"
+Lijun Zhang,nan
+Seong-Jin Park,POSTECH
+Seungju Han,"Samsung Advanced Institute of Technology, University of Florida"
+Insoo Kim,"Nanophotonics Research Center, Korea Institute of Science and Technology (KIST)"
+Hae Beom Lee,Chungnam National University
+Daniel Baker,"professor of astrophysics, university of colorado-boulder"
+Vladimir Braverman,"Associate Professor of Computer Science, Johns Hopkins University"
+Lingxiao Huang,Yale School of Management
+Robert Krauthgamer,Weizmann Institute of Science
+Xuan Wu,"Xuanwu hospital, Capital Medical University"
+Yanzhi Chen,"School of Informatics, The University of Edinburgh"
+Renjie Xie,"Department of Nephrology, Molecular Cell Laboratory for Kidney Disease  Renji Hospital …"
+Xi Liu,Tsinghua University
+Ping-Chun Hsieh,"Assistant Professor, National Chiao Tung University"
+Anirban  Bhattacharya,"Associate Professor, Texas A&M University"
+P. Kumar,"Professor of Physics, Indian Institute of Technology Madras"
+Yu Guang Wang,University of New South Wales; Max Planck Institute for Mathematics in Sciences
+Ming Li,"Dr. Chemistry, The University of Hong Kong"
+Zheng Ma,"Professor of Electrical Engineering, Massachusetts Institute of Technology"
+Guido Montufar,UCLA Math / Stat
+Xiaosheng Zhuang,City University of Hong Kong
+Yanan Fan,"Associate Professor in Statistics, University of New South Wales"
+Gregory Plumb,Carnegie Mellon University
+Jonathan Terhorst,"Department of Statistics, UC Berkeley"
+Sriram Sankararaman,UCLA
+Ameet Talwalkar,CMU and Determined AI
+Steve James,Lawrence Livermore National Laboratory
+Benjamin Rosman,"Associate Professor at the University of the Witwatersrand, South Africa"
+George Konidaris,Brown
+Yi Su,"Professor of radiation oncology, University of Michigan"
+Akshay Krishnamurthy,University of Massachusetts Amherst
+Q. Wang,Xi'an Jiaotong University
+Herke van Hoof,University of Amsterdam (UVA)
+Ligang Liu,University of Science and Technology of China
+Edith Cohen,"Profesor of School of Medical Sciences, Edith Cowan University"
+Rasmus Pagh,"Professor of computer science, IT University of Copenhagen"
+Mathias Staudigl,"Associate Professor of Operations Research, Maastricht University"
+Shimrit Shtern,"Assistant Professor at IE&M Faculty, Technion, Israel"
+Kamil Safin,Antiplagiat JSC
+Petr Ostroukhov,Moscow Institute of Physics and Technology
+Claire Vernade,DeepMind
+András György,DeepMind
+Michal Lukasik,Google
+Srinadh Bhojanapalli,"Research Scientist, Google Research"
+Sanjiv Kumar,"Associate Professor, ECE, ACET, Amritsar"
+Eran Malach,"School of Computer Science, Hebrew University"
+Gilad Yehudai,"Graduade student, Weizmann institute of science"
+Alexandra Carpentier,OvGU Magdeburg
+Tor Lattimore,DeepMind
+Giovanni Zappella,Amazon
+Beyza Ermis,Amazon Research
+Michael Brueckner,"Sr. Machine Learning Scientist, Amazon"
+Ioana Bica,"PhD Student, University of Oxford, The Alan Turing Institute"
+John Chen,The University of Hong Kong
+Vatsal Shah,Rutgers University
+Bülent Yener,"Professor of Computer Science,  Director of Data Science Research Center RPI"
+Badih Ghazi,MIT
+Ravi Kumar,Google
+Pasin Manurangsi,Google Research
+Samuel Smith,University of Leeds
+Soham De,DeepMind
+Feihu Huang,"Postdoctoral Researcher, University of Pittsburgh"
+Shangqian Gao,University of Pittsburgh
+Jian Pei,"Professor of Computing Science, Simon Fraser University"
+Vu Nguyen,Ton Duc Thang University
+Michael A Osborne,"Professor of Machine Learning, University of Oxford"
+Viet Anh Nguyen,"Institute of physics, VAST, Hanoi, Viet Nam"
+Nian Si,Postdoctoral fellow
+Jose Blanchet,Stanford University
+Hanfang Yang,"Assistant professor of statistics, School of Statistics, Renmin university of China"
+Milica Todorović,Aalto University
+Jari Järvi,"Doctoral student, Aalto University"
+Patrick Rinke,"Professor at Aalto University, Helsinki"
+Alexia Jolicoeur-Martineau,Mila
+Noah Simon,"Department of Biostatistics, University of Washington"
+Ramin Hasani,TU Wien
+Mathias Lechner,Ludwigs-Maximilians Universität München
+Alexander Amini,"Computer Science, Massachusetts Institute of Technology"
+Radu Grosu,Professor of Computer Science
+Aditya Krishnan,"Research Scientist, Google"
+Alberto Maria Metelli,Politecnico di Milano
+Lorenzo Bisi,"PhD student, Politecnico di Milano"
+Marcello Restelli,Politecnico di Milano
+Julien Hendrickx,"professor of mathematical engineering, ICTEAM, EPL, Université catholique de Louvain"
+Alex Olshevsky,"Associate Professor, Boston University"
+Venkatesh Saligrama,"Professor, Electrical and Computer Engineering, Boston University"
+Edouard Oyallon,"CNRS, LIP6"
+Martin Jørgensen,"Professor of Clinical Psychiatry, University of Copenhagen"
+Hugh Salimbeni,Imperial College London
+Zeyu Zheng,"PhD student, UCSB"
+Junhyuk Oh,"Research Scientist, DeepMind"
+Zhongwen Xu,DeepMind
+Hado van Hasselt,"Research Scientist, Google DeepMind"
+David Silver,Google DeepMind
+Satinder Singh,"Computer Science and Engineering, University of Michigan"
+Olivier Fercoq,Telecom Paris
+Weidong Liu,Institute of geographical science and natural resources research
+Raymond K. W. Wong,Texas A&M University
+Louis Faury,"Criteo, Télécom ParisTech"
+Martin Wistuba,IBM Research
+Tejaswini Pedapati,IBM Research
+Sebastian Claici,"PhD Student, Massachusetts Institute of Technology"
+Mikhail Yurochkin,"Research Staff Member, IBM Research AI"
+Soumya Ghosh,"Indian Institute of Technology Kharagpur, India"
+Justin Solomon,MIT
+Rafael Pinot,Profesor de Enfermería Familiar y Comunitaria (Uja)
+Raphael Ettedgui,Université Paris-Dauphine
+Geovani Rizk,Université Paris Dauphine
+Yann Chevaleyre,"Professor of Computer Science, Université Paris Dauphine"
+Jamal Atif,"Pakistan Agricultural Research Council, Islamabad"
+Chao Li,"McGill Univ, Tulane Univ, Stanford Univ"
+Zhun Sun,Sun Yat-Sen University
+Runchao Ma,University of Iowa
+Daniyar Chumbalov,"PhD Student, EPFL"
+Lucas Maystre,"Research Scientist, Spotify"
+Pengxiang Wu,"PhD Candidate, Rutgers University"
+Mayank Goswami,"Assistant Professor, Queens College, City University of New York"
+Dimitris Metaxas,"Distinguished Professor  of Computer Science, Rutgers University"
+Zhen-Yu Zhang,"Nanjing University, PhD Student"
+Peng Zhao,Nanjing University of Aeronautics and Astronautics
+Yuan Jiang,Professor of Hunan University (湖南大学，教授)
+Khiem Pham,"Computer Science, San Jose State University"
+Khang Le,"LIP, ENS de Lyon"
+Nhat Ho,"University of California, Berkeley"
+Tung Pham,University of Pittsburgh Medical Center
+Hung Bui,"Research Scientist, Google DeepMind"
+Jingwei Zhuo,Alibaba
+Wei Dai,New York University
+Han Zhu,University of Houston
+HAN LI,"AI Lab, Bytedance Technology"
+Jian Xu,"Director & IEEE Fellow, The Chinese University of Hong Kong (CUHK)/SIAT-CAS"
+Kun Gai,"Senior Director & Researcher, Alibaba Group"
+Ramya Korlakai Vinayak,"Postdoc, Paul G. Allen School of Computer Science, University of Washington"
+Kevin Jamieson,"Assistant Professor, University of Washington"
+Jongseok Lee,한국과학기술정보연구원 KISTI 책임연구원
+Jianxiang Feng,Emory University
+Rudolph Triebel,DLR and Technical University Munich
+Paul Rolland,EPFL
+Ali Kavis,"Doctoral Assistant, LIONS, EPFL"
+Gregory Farquhar,University of Oxford
+Laura  Gustafson,Facebook AI Research
+Zeming Lin,New York University
+Gabriel Synnaeve,Research scientist at Facebook AI Research
+Vien Mai,"Giảng viên Vật lý, Đại học Sư phạm Hà Nội"
+Mikael Johansson,"Professor of Electrical Engineering, KTH"
+John Sipple,Cornell University
+Elan Rosenfeld,"PhD Student, Carnegie Mellon University"
+Zico Kolter,Carnegie Mellon University
+Adam  Stooke,"PhD student, University of California, Berkeley"
+Joshua Achiam,"PhD Student, UC Berkeley; Research Scientist, OpenAI."
+Pieter Abbeel,UC Berkeley | Covariant.AI
+Dara Bahri,Google Research
+Heinrich Jiang,"Research Scientist, Google Research"
+Batiste Le Bars,"PhD Candidate, Ecole Normale Supérieur Paris-Saclay"
+Pierre Humbert,"Prof. of Language Modelling, Univ. of Oxford Dept. of Engineering Science"
+Argyris Kalogeratos,"Researcher at CMLA, ENS Paris-Saclay (France)"
+Nicolas Vayatis,"professeur des universités, ENS Paris-Saclay"
+Emilio Parisotto,Carnegie Mellon University
+Francis Song,武汉大学/香港大学
+Jack Rae,Phd Student at UCL & Researcher at DeepMind
+Razvan Pascanu,Research Scientist at Google DeepMind
+Caglar Gulcehre,Research Scientist at Deepmind and PhD from MILA
+Siddhant Jayakumar,DeepMind
+Max Jaderberg,DeepMind
+Aidan Clark,DeepMind
+Seb Noury,"University of Paris-Sud, Orsay"
+Matthew Botvinick,"Director of Neuroscience Research, Team Lead in AI Research, DeepMind"
+Nicolas Heess,DeepMind
+Raia Hadsell,Google DeepMind
+Kyriacos Nikiforou,DeepMind
+Antonia Creswell,"PhD Student, Imperial College London"
+Christos Kaplanis,Imperial College London
+David GT Barrett,DeepMind and University of Cambridge.
+Marta Garnelo,"Research Scientist at DeepMind, PhD student at Imperial College London"
+Meyer Scetbon,"Phd Student, CREST, ENSAE"
+Zaid Harchaoui,University of Washington
+Cheng Zheng,"Professor of Physics, Stanford University"
+Bo Zong,University of Connecticut
+Wei Cheng,ATLAS
+Dongjin Song,"Professor of Computer Science, National University of Singapore and Griffith University"
+Jingchao Ni,Pennsylvania State University
+Wenchao Yu,University of California Los Angeles
+Haifeng Chen,"NEC Laboratories America, Inc."
+Wei Wang,"University of California, Riverside"
+Sen Na,Hospital-University of verona
+Yuwei Luo,University of Chicago
+Mladen Kolar,"The University of Chicago, Booth School of  Business"
+Omri Azencot,"Assistant Adjunct Professor, UCLA"
+N. Benjamin Erichson,"Postdoc, University of California, Berkeley"
+Vanessa Lin,"Undergraduate Researcher at University of California, Berkeley"
+Michael Mahoney,"David Mahoney Professor of Neuroscience and Neurology, Columbia University"
+Kunal Menda,"Graduate Student, Stanford University"
+Jayesh Gupta,"Ph.D. Student, Department of Computer Science, Stanford University"
+Ilan Kroo,"Professor of Aeronautics and Astronautics, Stanford University"
+Mykel Kochenderfer,"Associate Professor, Stanford University"
+Zachary Manchester,Stanford University
+Anna Choromanska,New York University
+Siqiang Luo,Harvard University
+Hongteng Xu,"Postdoctoral Researcher of ECE, Duke University"
+Dixin Luo,"Postdoc, Duke University"
+Ricardo Henao,Duke University
+Dongruo Zhou,UCLA
+Lihong Li,"Institute of Physics, Chinese Academy of Sciences"
+Pierre Ablin,University of Illinois at Urbana-Champaign
+Gabriel Peyré,"CNRS, DMA, Ecole Normale Supérieure"
+Thomas Moreau,"Head of Research, Bit Bio Ltd"
+Sheng Shen,Panasonic R&D Center Singapore
+Zhewei Yao,"Ph.D. Student, University of California, Berkeley"
+Kurt Keutzer,"Professor of the Graduate School, EECS, University of California, Berkeley"
+Muhammad Asim,Case Western Reserve University
+Max Daniels,"Department of Comparative Cultural Psychology, Max Planck Institute for Evolutionary …"
+Oscar Leong,Rice University
+Paul Hand,"Assistant Professor of Mathematics and Computer Science, Northeastern University"
+Ali Ahmed,"Helwan University, Cairo, Egypt. Also at Zewail City of Science and Technology"
+Zhize Li,"Postdoctoral Fellow, KAUST"
+Xun Qian,Michigan State University
+Mert Pilanci,Stanford University
+Tolga Ergen,Stanford University
+Yan Leng,Oakland University
+Xiaowen Dong,"University of Oxford, Massachusetts Institute of Technology"
+Junfeng Wu,nan
+Sofien Dhouib,PhD student
+Ievgen Redko,"Associate professor, Hubert Curien laboratory CNRS UMR 5516, University of Jean Monnet …"
+Carole Lartizien,"laboratoire CREATIS, CNRS, INSA, Université de Lyon"
+Jia Liu,Nanjing University
+Ness Shroff,"Department of ECE and CSE, The Ohio State University"
+Rakshit Trivedi,Georgia Institute of Technology
+Jiachen Yang,"PhD Student, Osaka University"
+Hongyuan Zha,"College of Computing, Georgia Institute of Technology"
+Fan Zhang,"MIT, IBM Watson"
+Zhengyuan Zhou,"Dept. of Clinical Development, Pfizer (China) Inc."
+Kensen Shi,Google
+David Bieber,Google
+Charles Sutton,"Google, University of Edinburgh"
+Eric Liang,UC Berkeley
+Zongheng Yang,UC Berkeley
+Ion Stoica,"Professor of Computer Science, UC Berkeley"
+Yan Duan,"Embodied Intelligence, UC Berkeley"
+Peter Chen,Hong Kong University of Science and Technology Business School
+John Bronskill,University of Cambridge
+Jonathan Gordon,"Assistant Professor, Department of Biochemistry, University of Vermont"
+James Requeima,"University of Cambridge, Invenia"
+Sebastian Nowozin,"Microsoft Research (Cambridge, UK)"
+Richard E Turner,"University Reader, University of Cambridge"
+Philipp Rostalski,Universität zu Lübeck
+Simiao Zuo,Georgia Institute of Technology
+Haoming Jiang,Georgia Institute of Technology
+Zichong Li,"University of California, San Francisco"
+Tuo Zhao,"Assistant Professor, Georgia Tech"
+Zhiqing Sun,Sun Yat-sen University
+Yiming Yang,"Professor of Computer Science, Carnegie Mellon University"
+Jianyi Zhang,University of Louisiana at Lafayette
+Yang Zhao,The Pennsylvania State University
+Changyou Chen,Assistant Professor at University at Buffalo
+Pengyu Cheng,Auburn University
+Shuyang Dai,Wuhan University
+William Wilkinson,Cardiff University
+Paul Chang,"Professor/Director, Climate Change Institute, University of Maine"
+Michael Andersen,UT MD Anderson Cancer Center
+Arno Solin,"Assistant Professor in Machine Learning, Aalto University"
+Leonard Berrada,"Research Scientist, DeepMind"
+M. Pawan Kumar,University of Oxford; DeepMind
+Andrew Zisserman,University of Oxford
+Taylor Webb,"Associate Professor, Educational Studies, University of British Columbia"
+Zachary Dulberg,Princeton Neuroscience Institute
+Steven Frankland,Princeton University
+Alexander Petrov,Fellow of the Bulgarian Academy of Sciences
+Randall O'Reilly,"Professor of Psychology and Computer Science, Center for Neuroscience, University of …"
+Jonathan Cohen,"Professor of Psychology, Co-Director of Princeton Neuroscience Institute, Princeton …"
+Dan  Fisher,bell laboratories harvard stanford princeton
+Mark Kozdoba,"Machine Learning Reseacher, Technion - Israel Institute of Technology"
+Yangsibo Huang,Princeton University
+Sanjeev Arora,"Professor of Computer Science, Princeton University"
+Kai Li,"Professor of computer science, Princeton university "
+Alnur Ali,Stanford University
+Ryan Tibshirani,"Associate Professor of Statistics, and Machine Learning, Carnegie Mellon University"
+Dominic Richards,Université du Québec à Montréal (UQAM)
+Patrick Rebeschini,University of Oxford
+Lorenzo Rosasco,MaLGa Machine Learning Genoa Center - Università degli Studi di Genova
+Wengong Jin,"CSAIL, EECS, Massachusetts Institute of Technology"
+Tommi Jaakkola,MIT
+Vijay Keswani,Yale University
+Vincent Cohen-Addad,Google Research (former CNRS & Sorbonne Université)
+Karthik C. S.,"Assistant Professor, Princeton University"
+Guillaume Lagarde,LaBRI - CNRS
+Yiding Feng,"PhD Student of Computer Science, Northwestern University"
+Denis Nekipelov,University of Virginia
+Andrew Bennett,"Professor of Government, Georgetown University"
+Conor Durkan,University of Edinburgh
+Iain Murray,"School of Informatics, University of Edinburgh"
+George Papamakarios,DeepMind
+Jingfeng Wu,"RSMAS, University of Miami"
+Kartik Ahuja,"AI Resident, IBM Research, Thomas J. Watson Research Center, NY"
+Kush Varshney,IBM Research AI
+Jingwei Xu,Xidian University
+Harry (Huazhe) Xu,UC Berkleley
+Bingbing Ni,Shanghai Jiao Tong University
+Xiaokang Yang,"FIEEE, Shanghai Jiao Tong University"
+Prof. Darrell,NeuroNexus
+Karl Stratos,Rutgers University
+Sam Wiseman,TTI-Chicago
+Mengdi Wang,"Center for Statistics and Machine Learning, Electrical Engineering, Princeton University; …"
+Ronen Basri,"Professor of Computer Science, Weizmann Institute of Science"
+Meirav Galun,"Dr of Applied Math and Computer Science, Weizmann Institute"
+Amnon Geifman,PhD Student Weizmann Institute of Science
+David Jacobs,"Professor of Computer Science, University of Maryland"
+Yoni Kasten,"PhD student, Weizmann Institute"
+Harsh Satija,McGill University
+Philip Amortila,"PhD Student, University of Illinois at Urbana-Champaign"
+Joelle Pineau,"School of Computer Science, McGill University"
+Christos Matsoukas,University of the Aegean (Department of Environment)
+Yue Liu,"Cardiovascular disease centre of Xiyuan hospital, China academy of Chinese medical …"
+Gisele Miranda,KTH - Royal Institute of Technology
+Peter Lindholm,Karolinska Institutet
+Fredrik Strand,Karolinska University Hospital
+Kevin Smith,"Associate Professor, KTH Royal Institute of Technology & Science for Life Laboratory"
+Kamalika Chaudhuri,"Associate Professor of Computer Science, University of California, San Diego"
+Albert Tseng,nan
+Yisong Yue,California Institute of Technology
+Ashok Cutkosky,Google
+Harsh Mehta,nan
+Shiyu Li,Uppsala University
+Edward Hanson,"Professor of English, Chinese University of Hong Kong"
+Hai Li,"Institute of Advanced Materials, Nanjing Tech University"
+Yiran Chen,"Professor, Electrical and Computer Engineering, Duke University"
+Ashok Makkuva,University of Illinois at Urbana-Champaign
+Amir Taghvaei,Associate Professor at Shiraz University of Technology
+Sewoong Oh,"Associate Professor, University of Washington"
+Jason Lee,"Assistant Professor, UCLA Dept of Molecular and Medical Pharmacology, Crump Institute of …"
+Rob Brekelmans,University of Southern California
+Frank Wood,"Professor of Medicine and CMIO, Rutgers Robert Wood Johnson Medical School"
+Greg Ver Steeg,"Research Associate Professor, University of Southern California, Information Sciences …"
+Aram Galstyan,"University of Southern California, Information Sciences Institute"
+Tomer Golany,"PhD student, Technion - Israel Institute of Technology"
+Kira Radinsky,Technion
+Daniel Freedman,MIT and Stanford
+Sanghamitra Dutta,sir ganga Ram Hospital
+Dennis Wei,"Professor, Urban/Economic Geography, Development/Planning, Sustainability, China, Univ …"
+Hazar Yueksel,IBM Thomas J. Watson Research Center
+William Zhang,Ph.D. graduated from College of William and Mary
+Harish Ramaswamy,"Dept of Political Science, Karnatak University, Dharwad, KA, India"
+Shivani Agarwal,University of Pennsylvania
+Tanmay Shankar,Facebook AI Research
+Abhinav Gupta,"Associate Professor, Robotics Institute, Carnegie Mellon University"
+Konstantin Mishchenko,KAUST
+Yura Malitsky,"EPFL, Laboratory for Information and Inference Systems"
+Seyed  Esmaeili,"Immunologist,mashhad university of medical sciences"
+Yu-Xiang Wang,"Assistant Professor of Computer Science, UC Santa Barbara"
+Furong Huang,University of Maryland
+Haihao Lu,University of Chicago
+Santiago Balseiro,"Associate Professor, Columbia University"
+Alon Orlitsky,UC San Diego
+Xiaochen Wang,University of Oxford
+Arash Pakbin,Texas A&M University
+Bobak Mortazavi,"Computer Science & Engineering, Texas A&M"
+Hongyu Zhao,Yale University
+Donald Lee,Donald Danforth Plant Science Center
+Alex Chan,Apple Inc.
+Siamak Ravanbakhsh,"Assistant Professor, McGill University"
+Hrayr Harutyunyan,"PhD student, USC Information Sciences Institute"
+Kyle Reing,"Graduate Student, University Of Southern California"
+Robin Ru,"Senior Lecturer, Ichthyology and Fisheries Science, Rhodes University"
+Ahsan Alvi,University of Oxford
+Vikas K Garg,Massachusetts Institute of Technology (MIT)
+Aditya Rajagopal,MS CSE at Georgia Institute of Technology
+Stylianos Venieris,"Samsung AI Center, Cambridge"
+Saadullah Amin,German Research Center for Artificial Intelligence
+Stalin Varanasi,Saarland University
+Günter Neumann,DFKI
+Quan Hoang,Phenikaa University
+Trung Le,"Postdoctoral researcher, Tufts University"
+Dinh Phung,"Professor, Monash University"
+Marjan Albooyeh,University of British Columbia
+Daniele Bertolini,Unlearn.AI
+Mengjiao Yang,Google Brain
+Bo Dai,Big and Open Data Innovation Laboratory (BODaI-Lab)  and Data Methods and Systems …
+Hanjun Dai,Google Brain
+Haozhi Qi,UC Berkeley
+Chong You,Chung Hua University
+Xiaolong Wang,UC San Diego
+Yi Ma,"Professor of EECS, University of California, Berkeley"
+Sahil Singla,Research Instructor at Princeton University and Institute for Advanced Study
+Soheil Feizi,"University of Maryland, College Park"
+Angelos Katharopoulos,Idiap
+Apoorv Vyas,EPFL and Idiap Research institute
+Nikolaos Pappas,"Associate Professor, Linköping University (LiU)"
+Francois Fleuret,Idiap
+Eric Wong,"Professor of Radiology and Psychiatry, University of California, San Diego"
+Leslie Rice,Rice University
+Yaodong Yu,"University of California, Berkeley"
+Jacob Steinhardt,Stanford University
+Naman Agarwal,"Research Scientist, Google AI Princeton"
+Elad Hazan,Professor at Princeton University and Co-Director Google AI Princeton
+Zhou Lu,"Professor of Physics, Southern University of Science and Technology"
+Xin Wang,Stony Brook University
+Thomas Huang,"University of Illinois, Urbana-Champaign"
+Joseph Gonzalez,universidad de Jaén
+Fisher Yu,UC Berkeley
+Amrita Roy Chowdhury,"National Center for Biotechnology Information (NCBI), NIH"
+Theodoros Rekatsinas,"Computer Science, University of Wisconsin-Madison"
+Muni Sreenivas Pydi,University of Wisconsin - Madison
+Varun Jog,University of Wisconsin-Madison
+Eugene Belilovsky,Postdoctoral Fellow at University of Montreal
+Michael Eickenberg,UC Berkeley
+Yang Li,"Institute of Electronics, Chinese Academy of Sciences"
+Junier Oliva,"Assistant Professor, University of North Carolina"
+Angelos Filos,University of Oxford
+Panagiotis Tigas,DPhil student at Oxford University
+Rowan McAllister,"University of California, Berkeley"
+Nicholas Rhinehart,"Postdoc, UC Berkeley"
+Yarin Gal,"Associate Professor, University of Oxford"
+Karl Cobbe,"Research Scientist, OpenAI"
+Chris Hesse,UCSF
+Jacob Hilton,"Postdoctoral Fellow, National Institutes of Health"
+John Schulman,"Research Scientist, OpenAI"
+Hussein Hazimeh,Massachusetts Institute of Technology
+Natalia Ponomareva,Macquarie University
+Rahul Mazumder,Massachusetts Institute of Technology
+Zhenyu Tan,Georgia Institute of Technology
+Petros Mol,"PhD, Computer Science, UC, San Diego "
+Allan Grønlund,University of Aarhus
+Lior Kamma,Aarhus University
+Kasper Green Larsen,"Associate Professor, Computer Science, Aarhus University"
+Suraj Nair,Stanford University
+Chelsea Finn,"Stanford University, Google"
+Wei Chen,nan
+Yihan Du,Estudiante de la materia TIC
+Longbo Huang,"Associate Professor, IIIS @ Tsinghua University, China"
+Haoyu Zhao,University of Science and Technology of China
+Venkatadheeraj Pichapati,UCSD
+Khimya Khetarpal,"Ph.D. Student, McGill University, Mila Montreal"
+Zafarali Ahmed,DeepMind
+Gheorghe Comanici,"Research Scientist, DeepMind"
+David Abel,"Ph.D Candidate, Brown University"
+Doina Precup,DeepMind and McGill University
+Joao Monteiro,Universidade de São Paulo
+Isabela Albuquerque,Institut National de la Recherche Scientifique
+Jahangir Alam,"Researcher, CRIM"
+R Devon Hjelm,"Microsoft Research, University of Montreal, Mila"
+Tiago Falk,"Associate Prof., INRS-EMT, University of Quebec"
+Jinsung Yoon,Research Scientist at Google Cloud AI
+Sercan Arik,"Research Scientist, Google"
+Tomas Pfister,"Head, Google Cloud AI Research"
+Aman Sinha,Stanford University
+Matthew O'Kelly,"PhD Candidate, University of Pennsylvania"
+Hongrui Zheng,"Institute of Geology, Chinese Academy of Geological Sciences"
+Rahul Mangharam,"Associate Professor of Electrical Engineering and Computer Science, University of …"
+John Duchi,"Assistant Professor of Statistics and Electrical Engineering, Stanford University"
+Russ Tedrake,"MIT (EECS, MechE, Aero/Astro) and Toyota Research Institute"
+Jiri Fajtl,Kingston University London
+Vasileios Argyriou,Kingston University
+Dorothy Monekosso,Professor
+Paolo Remagnino,Professor at Kingston University
+Xinshi Chen,Georgia Institution of Technology
+Yu Li,"Choh-Ming Li Professor of Chemistry, The Chinese University of Hong Kong"
+Xin Gao,fudan university
+Le Song,Georgia Institute of Technology
+Futoshi Futami,NTT
+Brian Williamson,University of Central Florida
+Jean Feng,Medical Director - The Lu-Jean Feng Clinic
+Aounon Kumar,"University of Maryland, College Park"
+Alexander Levine,"Professor of Chemistry and Physics, UCLA"
+Guanyi Wang,"School of Nuclear Engineering, Purdue Univerisity"
+Santanu  Dey,HUMAN RIGHTS ACTIVIST
+Michal Moshkovitz,University of California San Diego
+Sanjoy Dasgupta,"Professor of Computer Science, University of California, San Diego"
+Cyrus Rashtchian,"University of California, San Diego"
+Nave Frost,Tel Aviv University
+Martin Jankowiak,Uber AI Labs
+Geoff Pleiss,Cornell University
+Jacob Gardner,University of Pennsylvania
+Kimon Fountoulakis,"David R. Cheriton School of Computer Science, University of Waterloo"
+Shenghao Yang,"The Chinese University of Hong Kong, Shenzhen"
+Ankit Singh Rawat,"Research Scientist, Google"
+Cuong Nguyen,"Institute for Global Health Innovations, Duy Tan University"
+Tal Hassner,The Open University of Israel
+Cedric Archambeau,"Amazon Web Services, Berlin"
+Adam Breuer,Harvard
+Eric Balkanski,Balkanski Professor of Physics and Applied Physics
+Jianing Li,"Assistant Professor of Chemistry, University of Vermont"
+Jiafeng Guo,"Professor, Institute of Computing Techonology, CAS"
+Xueqi Cheng,"Institute of Computing Technology, Chinese Academy of Sciences"
+Junzhe Zhang,"University of California, Los Angeles"
+Michael Chang,Philadelphia Cpl Michael J Crescenz VAMC & University of PA Perelman School of …
+S. Matthew Weinberg,"Assistant Professor, Princeton University"
+Thomas Griffiths,"Professor of Psychology and Computer Science, Princeton University"
+Kelvin Guu,"Research Scientist, Google"
+Kenton Lee,Google
+Panupong Pasupat,"Graduate Student, Stanford University"
+Mingwei Chang,Google Research
+Ning Xu,Karolinska Institutet
+Jun Shu,Shanghai University
+Xin Geng,"School of Computer Science and Engineering, Southeast University"
+Thodoris Lykouris,Microsoft Research
+Renato Leme,Google Research
+Reza Oftadeh,Texas A&M University
+Jiayi Shen,"Associate Professor, Zhejiang University"
+Dylan Shell,"Department of Computer Science & Engineering, Texas A&M University"
+Praneeth Netrapalli,Microsoft Research
+Daniel Jiang,"Professor of Otology and Auditory Implantation Surgery, King's College London"
+Steve Li,"Professor of Finance, RMIT University"
+Benjamin M Marlin,"College of Information and Computer Sciences, UMass Amherst"
+Scott M Jordan,"PhD Candidate, University of Massachusetts Amherst"
+Yash Chandak,"PhD Student, University of Massachusetts, Amherst"
+Daniel Cohen,"Professor of Computer Science, Tel Aviv University"
+Mengxue Zhang,University of Wisconsin-Madison
+Yu-Ting Chou,MIT
+Hsuan-Tien Lin,"Professor of Computer Science and Information Engineering, National Taiwan University"
+Yu Bai,"Professor of Analytical Chemistry, Peking University"
+Martin Mladenov,Google Research
+Elliot Creager,University of Toronto
+Richard Zemel,"Professor of Computer Science, University of Toronto"
+Weili Nie,Rice University
+Tero Karras,NVIDIA
+Animesh Garg,"University of Toronto, Vector Institute, Nvidia"
+Shoubhik Debnath,R&D Engineer in Robotics and AI at NVIDIA
+Anjul Patney,Facebook Reality Labs
+Ankit Patel,Student
+Anima Anandkumar,California Institute of Technology and NVIDIA
+Kevin Hsieh,Carnegie Mellon University
+Amar Phanishayee,Microsoft Research
+Onur Mutlu,ETH Zürich and Carnegie Mellon University
+Phil Gibbons,Carnegie Mellon University
+Wenqing Hu,"Missouri University of Science and Technology (formerly University of Missouri, Rolla)"
+Haoyi Xiong,"Principal Architect & Research Scientist, Baidu"
+Jun Huan,University of Malaya
+Alper Atamturk,"Professor, UC Berkeley"
+Andres Gomez,Instituto de Ciencia de Materiales de Madrid (ICMM-CSIC) (ORCID:0000-0002-3384-3405)
+Nilesh Tripuraneni,UC Berkeley
+Lester Mackey,Microsoft Research
+Kaiyi Ji,The Ohio State University
+Zhe Wang,Bronx Community College
+Wei  Zhang,The Comprehensive Cancer Center of Wake Forest Baptist Medical Center
+Yingbin LIANG,The Ohio State University
+Junfeng Wen,University of Alberta
+Yuting Wei,Carnegie Mellon University
+Yufeng Zhang,Peking University
+Aravind Rajeswaran,University of Washington
+Igor Mordatch,UC Berkeley
+Vikash Kumar,student of electronics and communication
+Xiaoyu Chen,Zhejiang University
+Georgios Theocharous,Adobe Research
+Shiv Shankar,"Baker Hughes, A GE Company"
+Sridhar Mahadevan,"Director, Data Science Lab, Adobe Research & Professor, University of Massachusetts …"
+Nghia Hoang,"Research Staff Member, MIT-IBM Watson AI Lab, IBM Research"
+Thanh Lam,The University of Florida in Gainesville
+Bryan Kian Hsiang Low,"Associate Professor (with tenure), Department of Computer Science, National University of …"
+Patrick Jaillet ,"Dugald C. Jackson Professor, EECS, MIT"
+Yonggang Zhang,The University of Texas Southwestern Medical Center
+Ya Li,"Professor of Institute of Electro-Optical Science and Technology,  National Taiwan Normal"
+Xinmei Tian,University of Science and Technology of China
+Lan-Zhe Guo,Nanjing University
+Yufeng Li,Xi'an Jiaotong Univeristy
+Marc Finzi,"PhD Student, CS at NYU"
+Samuel Stanton,US Army Research Office
+Pavel Izmailov,"PhD Student, NYU"
+Andrew Wilson,Microsoft Research
+Hao Zhou,"PBC School of Finance, Tsinghua University"
+Ning Miao,ByteDance AI Lab
+Lei Li,"Duke University, CERN"
+Huang Hengguan,NUS CS Phd Candidate
+Fuzhao Xue,"Associate Professor, Fuzhou University"
+Ye Wang,Shaanxi Normal university
+Przemysław Spurek,Jagiellonian University
+Jacek Tabor,"Profesor informatyki, Uniwersytet Jagielloński"
+Maciej Zamorski,Wrocław University of Science and Technology
+Maciej Zieba,"Wroclaw University of Technology, Tooploox"
+Tomasz Trzcinski,"Warsaw University of Technology, Tooploox, Jagiellonian University"
+Zhimei Li,National Cancer Center of Singapore
+Baharan Mirzasoleiman,Stanford University
+Jeff Bilmes,"Professor of Electrical Engineering and Computer Science, University of Washington Seattle"
+Hansi Yang,Tsinghua University
+James Kwok,"Professor of Computer Science and Engineering, Hong Kong University of Science and …"
+Greg Yang,Microsoft Research
+Tony Duan,Stanford University
+J. Edward Hu,Johns Hopkins University
+Hadi Salman,Microsoft Research
+Jerry Li,Loma Linda University
+Thomas Quinn,"NIAID, NIH, and JHU"
+Dang Nguyen,"Research Associate, University of Louisville"
+Santu Rana,"Associate Professor of Computer Science, Deakin University"
+Sunil Gupta,Principal; Bal Krishna Institute of Technology Kota
+Raef Bassily,"Assistant Professor, Computer Science & Engineering, The Ohio State University"
+Shay Moran,Visiting Scientist @ Google Brain
+Jonathan Ullman,"Assistant Professor of Computer Science, Northeastern University"
+Tung-Che Liang,Duke University
+Zhanwei Zhong,Marvell Semiconductor Inc.
+Tsung-Yi Ho,National Tsing Hua University
+Richard Fair,"Professor of Electrical Engineering, Duke University"
+Krishnendu Chakrabarty,"John Cocke Distinguished Professor and Chair, Electrical and Computer Engineering, Duke"
+Jianshu Zhang,The Open University of Jiangsu (formerly Jiangsu Radio and Television University
+Jun Du,Commission Scolaire de Montreal
+Yongxin Yang,University of Edinburgh
+Yi-Zhe Song,"SketchX Lab, CVSSP, University of Surrey"
+Si Wei,"Associate Professor,National Center for Cancer Registries,Beijing,China"
+Aleksei Petrenko,"Computer Science PhD Student, University of Southern California"
+Zhehui Huang,"Master student of computer science, University of Southern California"
+Tushar Kumar,"Principal. Scientist, Animal Reproduction, NDRI, Karnal"
+Gaurav Sukhatme,"Professor and Fletcher Jones Endowed Chair, Departments of Computer Science and …"
+Azade Nazi,Research Scientist at Google Brain
+Yujia Li,"Research Scientist, DeepMind"
+Qing Li,"Professor of Educational Technology & Literacy, Towson University"
+Siyuan Huang,Eli Lilly & Company
+Yining Hong,"PhD Student, Department of Information Engineering, The Chinese University of Hong Kong"
+Yixin Chen,"Professor, Computer Science Department, Washington University"
+Ying Nian Wu,UCLA Department of Statistics
+Song-Chun Zhu,"Professor of Statistics and Computer Science, UCLA"
+Anand Avati,"PhD Candidate, Stanford University"
+Daisy Ding,"PhD Student, Stanford University"
+Khanh K. Thai,University of California Los Angeles
+Sanjay Basu,nan
+Andrew Ng,Stanford University
+Alejandro Schuler,Audi AG
+Jianye Hao,Tianjin University
+Guangyong Chen,"Associate Professor, Shenzhen Institutes of Advanced Technology, Chinese Academy of …"
+Yingfeng Chen,National Cheng Kung University
+Zhongyu Wei,"Associate Professor at School of Data Science, Fudan University"
+Lucas Caccia,McGill University
+Massimo Caccia,Università dell'Insubria
+Sungsoo Ahn,KAIST
+Younggyo Seo,"MS Student, KAIST"
+Jimmy Lin,Johns Hopkins School of Medicine
+Diane Hu,"Department of Organic Chemisitry and Technology, Budapest University of Technology"
+Margo Seltzer,University of British Columbia
+John Miller,nan
+Karl Krauth,"PhD student, UC Berkeley"
+Ludwig Schmidt,"Ludwig-Maximilians-Universität München, Department of Statistics, Bioimaging group"
+Benjamin Recht,"Associate Professor of EECS, University of California, Berkeley"
+Hossein Taheri,"Assistant Professor, Department of Manufacturing Engineering, Georgia Southern University"
+Aryan Mokhtari,"Assistant Professor, ECE, University of Texas at Austin"
+Hamed Hassani,"Professor of Electrical Engineering , Shahed University"
+Ramtin Pedarsani,"Assistant Professor, Electrical and Computer Engineering, UC Santa Barbara"
+Polina Kirichenko,New York University
+Yuandong Tian,"Research Scientist, Facebook AI Research"
+Brian Axelrod,Stanford
+Vatsal Sharan,Stanford University
+Shruti Tople,Microsoft Research
+Amit Sharma,Love Vashikaran Astrology
+Aditya Nori,Microsoft Research
+Zhe Feng,"Institute of Metal Research, CAS"
+David Parkes,"George F. Colony Professor of Computer Science, Harvard University"
+Haifeng Xu,University hospital Düsseldorf
+Yusuke Tsuzuku,"Preferred Networks, Inc."
+Edric Tam,"Duke University, Columbia University"
+David Dunson,Arts & Sciences Professor of Statistical Science & Mathematics
+Aditya Bhaskara,University of Utah
+Manish Purohit,Google
+Jing Zhou,"Mary Gibbs Jones Professor of Management, Rice University"
+Akira Nakagawa,Ishikawa Prefectural University
+Xiaoming Sun,Beijing University of Chemical Technology
+Jialin Zhang,Ph.D and MD
+Zhijie Zhang,Tsinghua University
+Jonathan Lacotte,Stanford University
+Yan Yan,Department of Computer Information and Network Engineering Lunghwa University of …
+Yi Xu,"Department of Periodontology, West China School of Stomatology, Sichuan University, No …"
+Wang Xiaoyu,"Research Assistant Professor at UNC Charlotte, Computer Science Department"
+Vignesh Ganapathiraman,University of Illinois at Chicago
+Xinhua Zhang,University of Illinois at Chicago
+Vaishaal Shankar,UC Berkeley
+Alex Fang,Entrada Ventures
+Wenshuo Guo,"PhD student, UC Berkeley"
+Sara Fridovich-Keil,"PhD student, EECS, UC Berkeley"
+Jonathan Ragan-Kelley,MIT CSAIL
+Adam Ibrahim,"michael h abraham, university college london, ucl"
+Waïss Azizian,"Student, Ecole Normale Supérieure, Paris"
+Gauthier Gidel,PhD candidate at MILA
+Ioannis Mitliagkas,"Assistant Professor at Mila, University of Montréal"
+Panayotis Mertikopoulos,CNRS researcher
+Long-Kai Huang,"Nanyang Technological University, Singapore"
+Sinno Jialin Pan,"Nanyang Technological University, Singapore"
+Yu-Sheng Li,National Taiwan University
+Wei-Lin Chiang,"Department of Computer Science, National Taiwan University"
+Feng Zhu,University of Southern California
+Taejong Joo,Seoul National University
+Uijung Chung,ESTsoft
+Kimin Lee,"Postdoc, UC Berkeley"
+Seunghyun Lee,University of Texas at Dallas
+Honglak Lee,Google Brain / U. Michigan
+Pasquale Minervini,University College London
+Tim Rocktäschel,"Research Scientist at Facebook AI Research, Lecturer at University College London"
+Sebastian Riedel,"Professor @ University College London, Researcher @ Facebook AI Research"
+Edward Grefenstette,"Research Scientist, Facebook AI Research; Honorary Associate Professor, UCL"
+Pontus Stenetorp,"Lecturer, University College London"
+Yuichi Yoshida,National Institute of Informatics
+Supratim Shit,"Computer Science, IIT Gandhinagar"
+Anirban Dasgupta,"Professor, IIT Gandhinagar"
+Rachit Chhaya,IIT Gandhinagar
+Jayesh Choudhari,"Assistant of Professor Computer Engineering, Sarvajanik College of Engineering and …"
+Florian Wenzel,"Head of Department, Dept. of Neurology, Kliniken im Theodor-Wenzel-Werk"
+Kevin Roth,Columbia University College of Physicians and Surgeons
+Bastiaan Veeling,University of Amsterdam
+Jakub Swiatkowski,"PhD Student, University of Warsaw"
+Linh Tran,Warsaw University of Technology; Hanoi University of Science and Technology; Hanoi …
+Stephan Mandt,"Assistant Professor, University of California, Irvine"
+Jasper Snoek,Google Brain
+Tim Salimans,Google Brain Amsterdam
+Rodolphe Jenatton,"Senior machine learning scientist at Google Brain, Berlin"
+Jilles Dibangoye,Associate Professor at INSA Lyon / Inria Grenoble Rhône-Alpes
+Ilay Luz,"MSc in Computer Science, Weizmann Institute of Science"
+Irad Yavneh,"Professor of Computer Science, Technion"
+Krishna Balasubramanian,Indian Institute of Technology
+Xiaochuan Yang,UCHC
+Youngsuk Park,Stanford University
+Ryan Rossi,Adobe Research
+Gang Wu,"Professor of Chemical Engineering, University at Buffalo, SUNY"
+Handong Zhao,"Professor of Electrical and Automation Engineering, Shandong University of Science and …"
+Hyeonseong Jeon,"Master student of Artificial Intelligence, Sungkyunkwan University"
+Young Oh Bang,"Professor of Neurology, Samsung Medical Center"
+Simon Woo,Simon Fraser University
+Taco Cohen,"PhD Student, University of Amsterdam"
+Nutan Chen,"Machine Learning Research Lab, Volkswagen Group"
+Alexej Klushyn,"PhD Student, Volkswagen Group ML Research  | Technical University of Munich"
+Justin Bayer,Volkswagen AG
+Patrick van der Smagt,nan
+Vaibhav Rajan,"Assistant Professor, School of Computing, NUS, Singapore"
+Yun Yun Tsai,SLAC National Accelerator Laboratory
+Pierre Perrault,"Inria Sequel, ENS Paris Saclay"
+Jennifer Healey,"Senior Research Scientist, Adobe"
+Naoto Ohsaka,Suita municipal hospital
+Jean-Bastien Grill,nan
+Florent Altché,"Research Engineer, DeepMind"
+Thomas Hubert,"Research School of Chemistry, Australian National University"
+Yuping Luo,"Computer Science Department, Princeton University"
+Tianhe Yu,Stanford University
+Tengyu Ma,Stanford University
+Josh V Dillon,Google
+Laurence Aitchison,University of Cambridge
+Olivier Henaff,"Research Scientist, DeepMind"
+Yueming LYU,University of Technology Sydney
+Kei Ota,Mitsubishi Electric
+Devesh Jha,"Principal Research Scientist, MERL"
+Daniel Nikovski,"Group Manager, Mitsubishi Electric Research Labs"
+Byung-Jun Lee,KAIST
+Jongmin Lee,"Department of Biomedical Engineering, Hanyang University, Seoul, Korea"
+Peter Vrancx,Principal Member Of Technical Staff at IMEC
+Dongho Kim,"Professor of Chemistry, Yonsei University"
+Kee-Eung Kim,KAIST
+Tom Jurgenson,"Assistant Professor, Department of Economics, University of Copenhagen"
+Or Avner,"Professor of geochemistry and water quality, Duke University"
+Aviv Tamar,"Professor of Zoology and Chair, the Steinhardt Museum of Natural History, Tel Aviv …"
+Vinayak Abrol,"Mathematical Institute, Oxford University"
+Pulkit Sharma,"Post-doctoral Researcher, University of Oxford"
+Lijun Wu,"Fuzhou University, China"
+Yingce Xia,Microsoft Research Asia
+Yang Fan,Tsinghua University
+Tao Qin,"Senior Principal Research Manager, Microsoft Research Asia"
+Adrià Puigdomenech Badia,DeepMind
+Bilal Piot,DeepMind
+Steven Kapturowski,DeepMind
+Pablo Sprechmann,Research Scientist at Google DeepMind
+Zhaohan Guo,DeepMind
+Charles Blundell,Research Scientist at DeepMind
+Xingjian Li,"Professor, School of Physics Science and Technology, Xinjiang University"
+Dejing Dou,"Professor of Computer Science, University of Oregon/Head of Big Data Lab, Baidu"
+Cheng-Zhong Xu,Université de Lyon
+Christopher Anders,nan
+Klaus-robert Mueller,"Google Brain (on leave of Professor for Machine Learning, TU Berlin & Korea University …"
+Pan Kessel,TU Berlin
+Ugo Tanielian,UPMC - Criteo
+Thibaut Issenhuth,Criteo AI LAB
+Elvis Dohmatob,"Researcher, Criteo"
+Jeremie Mary,Saint Mary's University
+Ibrahim Jubran,"Computer Science Department, University of Haifa"
+Dan Feldman,Johns Hopkins University (JHU) Applied Physics Lab (APL)
+Dimitris Kalatzis,"PhD student, Technical University of Denmark"
+David Eklund,Danmarks Tekniske Universitet
+Georgios Arvanitidis,Postdoctoral Researcher
+Søren Hauberg,"Cognitive Systems, DTU Compute, Technical University of Denmark"
+Kangrui Wang,Alan Turing Institute
+Ollie Hamelijnck,nan
+Theo Damoulas,"Associate Professor, University of Warwick"
+Mark Steel,"Professor of Statistics, University of Warwick"
+Yuhao Zhou,University of Rochester
+Jiaxin Shi,"Ph.D. Candidate, Tsinghua University"
+Yansong Gao,"Data61, CSIRO"
+Pratik Chaudhari,King's College London
+Hai Phan,Physics Department-Quy Nhon University
+Han Hu,"Departments of Pharmacological Sciences, and Neuroscience, Icahn School of Medicine at …"
+Ruoming Jin,"Professor of Computer Science, Kent State University"
+Tong Sun,"Professor of Cell Biology, Dermatology, Pharmacology & Urology, NYU School of Medicine"
+Geon-Hyeong Kim,"School of Computing, KAIST"
+Youngsoo Jang,"Assistant Professor, Shanghai University of Finance and Economics"
+Tanner Fiez,Graduate Student at the University of Washington
+Benjamin Chasnov,University of Washington
+Lillian  Ratliff,"Asst Prof, UW Seattle"
+Guy Hacohen,"PhD student, Hebrew University of Jerusalem"
+Leshem Choshen,"Hebrew University of Jerusalem, IBM AI research"
+Daphna Weinshall,"Professor of Computer Science, Hebrew University"
+Natasa Tagasovska,Swiss Data Science Center
+Thibault Vatter,Columbia University
+Sagar Kale,Postdoc at University of Vienna
+Csaba Toth,LBNL
+Yaniv Blumenfeld,"EE student (Master), Technion"
+Dar Gilboa,"Graduate Student, Columbia University"
+Daniel Soudry,Assistant Professor
+Xiaotian Hao,Tianjin University
+Zhaoqing Peng,"Associate Professor, Zhaoqing University"
+Guan Wang,Head of AI
+Junqi Jin,Tsinghua University
+Shan Chen,"1. Sun Yat-Sen University, 2. Sun Yat-Sen University Cancer Center"
+Zhenzhe Zheng,NTU
+Chuan Yu,"Dean, College of Medical Science and Technology; Professor, Dept. Biomedical Informatics …"
+John Martin,"Professor of philosophy, university of cincinnati"
+Michal Lyskawinski,Stevens Institute of Technology
+Xiaohu Li,Stevens Institute of Technology
+Brendan Englot,Assistant Professor at Stevens Institute of Technology
+Pratyush Maini,Indian Institute of Technology Delhi
+Rasheed El-Bouri,University of Oxford
+David Eyre,University of Oxford
+Peter Watkinson,Oxford
+Tingting Zhu,University of Oxford
+David Clifton,"Professor of Clinical Machine Learning, University of Oxford"
+Ronen Talmon,"Associate Professor, EE Department, Technion"
+Bruno Loureiro,PhD Student - FEUP
+Marc Mezard,Ecole normale supérieure Paris
+Lenka Zdeborova,"IPhT, CEA Saclay, France"
+Robert Mattila,KTH Royal Institute of Technology
+Cristian R. Rojas,"Associate Professor, Division of Decision and Control Systems, KTH Royal Institute of …"
+Eric Moulines,"Professeur, Ecole Polytechnique, Membre de l'Académie des Sciences"
+Vikram Krishnamurthy,"Professor, Electrical & Computer Engineering, Cornell University"
+Bo Wahlberg,"Professor Automatic Control, KTH Royal Institute of Technology"
+Amélie Héliou,CAIL
+Hangbo Bao,Harbin Institute of Technology
+Li Dong,Institute of Computing Technology，Chinese Academy of Sciences
